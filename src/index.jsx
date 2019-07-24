@@ -64,6 +64,7 @@ export default class DatePicker extends React.Component {
     adjustDateOnChange: PropTypes.bool,
     allowSameDay: PropTypes.bool,
     autoComplete: PropTypes.string,
+    dataAttributes: PropTypes.object,
     autoFocus: PropTypes.bool,
     calendarClassName: PropTypes.string,
     calendarContainer: PropTypes.func,
@@ -174,6 +175,7 @@ export default class DatePicker extends React.Component {
       dateFormat: "MM/dd/yyyy",
       dateFormatCalendar: "LLLL yyyy",
       onChange() {},
+      dataAttributes: {},
       disabled: false,
       disabledKeyboardNavigation: false,
       dropdownMode: "scroll",
@@ -726,7 +728,8 @@ export default class DatePicker extends React.Component {
       title: this.props.title,
       readOnly: this.props.readOnly,
       required: this.props.required,
-      tabIndex: this.props.tabIndex
+      tabIndex: this.props.tabIndex,
+      ...this.props.dataAttributes
     });
   };
 

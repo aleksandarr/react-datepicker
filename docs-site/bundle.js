@@ -319,7 +319,7 @@
     },
     /* 3 */
     [
-      833,
+      834,
       4,
       5,
       6,
@@ -374,7 +374,7 @@
       /***/
     },
     /* 6 */
-    [834, 7],
+    [835, 7],
     /* 7 */
     /***/ function(module, exports) {
       module.exports = function(exec) {
@@ -452,11 +452,11 @@
       /***/
     },
     /* 10 */
-    [835, 11, 17, 6],
+    [836, 11, 17, 6],
     /* 11 */
-    [836, 12, 14, 16, 6],
+    [837, 12, 14, 16, 6],
     /* 12 */
-    [837, 13],
+    [838, 13],
     /* 13 */
     /***/ function(module, exports) {
       module.exports = function(it) {
@@ -466,11 +466,11 @@
       /***/
     },
     /* 14 */
-    [838, 6, 7, 15],
+    [839, 6, 7, 15],
     /* 15 */
-    [839, 13, 4],
+    [840, 13, 4],
     /* 16 */
-    [840, 13],
+    [841, 13],
     /* 17 */
     /***/ function(module, exports) {
       module.exports = function(bitmap, value) {
@@ -537,7 +537,7 @@
       /***/
     },
     /* 20 */
-    [841, 21],
+    [842, 21],
     /* 21 */
     /***/ function(module, exports) {
       module.exports = function(it) {
@@ -549,17 +549,17 @@
       /***/
     },
     /* 22 */
-    [842, 19, 13, 5, 11, 7],
+    [843, 19, 13, 5, 11, 7],
     /* 23 */
-    [843, 4],
+    [844, 4],
     /* 24 */
-    [844, 11, 5, 25],
+    [845, 11, 5, 25],
     /* 25 */
-    [845, 23, 19, 4],
+    [846, 23, 19, 4],
     /* 26 */
-    [846, 25],
+    [847, 25],
     /* 27 */
-    [847, 4, 9, 28, 26, 11],
+    [848, 4, 9, 28, 26, 11],
     /* 28 */
     /***/ function(module, exports) {
       module.exports = false;
@@ -567,15 +567,15 @@
       /***/
     },
     /* 29 */
-    [848, 30, 42, 43],
+    [849, 30, 42, 43],
     /* 30 */
-    [849, 31, 41],
+    [850, 31, 41],
     /* 31 */
-    [850, 5, 32, 36, 40],
+    [851, 5, 32, 36, 40],
     /* 32 */
-    [851, 33, 35],
+    [852, 33, 35],
     /* 33 */
-    [852, 34],
+    [853, 34],
     /* 34 */
     /***/ function(module, exports) {
       var toString = {}.toString;
@@ -597,9 +597,9 @@
       /***/
     },
     /* 36 */
-    [853, 32, 37, 39],
+    [854, 32, 37, 39],
     /* 37 */
-    [854, 38],
+    [855, 38],
     /* 38 */
     /***/ function(module, exports) {
       // 7.1.4 ToInteger
@@ -612,9 +612,9 @@
       /***/
     },
     /* 39 */
-    [855, 38],
+    [856, 38],
     /* 40 */
-    [856, 23, 19],
+    [857, 23, 19],
     /* 41 */
     /***/ function(module, exports) {
       // IE 8- don't enum bug keys
@@ -637,21 +637,21 @@
       /***/
     },
     /* 44 */
-    [857, 34],
+    [858, 34],
     /* 45 */
-    [858, 12, 46, 41, 40, 15, 47],
+    [859, 12, 46, 41, 40, 15, 47],
     /* 46 */
-    [859, 11, 12, 30, 6],
+    [860, 11, 12, 30, 6],
     /* 47 */
-    [860, 4],
+    [861, 4],
     /* 48 */
-    [861, 32, 49],
+    [862, 32, 49],
     /* 49 */
-    [862, 31, 41],
+    [863, 31, 41],
     /* 50 */
-    [863, 43, 17, 32, 16, 5, 14, 6],
+    [864, 43, 17, 32, 16, 5, 14, 6],
     /* 51 */
-    [864, 8, 45],
+    [865, 8, 45],
     /* 52 */
     /***/ function(module, exports, __webpack_require__) {
       var $export = __webpack_require__(8);
@@ -724,9 +724,9 @@
       /***/
     },
     /* 57 */
-    [865, 35],
+    [866, 35],
     /* 58 */
-    [866, 5, 57, 40],
+    [867, 5, 57, 40],
     /* 59 */
     /***/ function(module, exports, __webpack_require__) {
       // 19.1.2.14 Object.keys(O)
@@ -840,9 +840,9 @@
       /***/
     },
     /* 67 */
-    [867, 8, 68],
+    [868, 8, 68],
     /* 68 */
-    [868, 30, 42, 43, 57, 33, 7],
+    [869, 30, 42, 43, 57, 33, 7],
     /* 69 */
     /***/ function(module, exports, __webpack_require__) {
       // 19.1.3.10 Object.is(value1, value2)
@@ -864,9 +864,9 @@
       /***/
     },
     /* 71 */
-    [869, 8, 72],
+    [870, 8, 72],
     /* 72 */
-    [870, 13, 12, 20, 50],
+    [871, 13, 12, 20, 50],
     /* 73 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
@@ -2044,11 +2044,11 @@
       /***/
     },
     /* 126 */
-    [871, 127, 128],
+    [872, 127, 128],
     /* 127 */
-    [872, 38, 35],
+    [873, 38, 35],
     /* 128 */
-    [873, 28, 8, 18, 10, 5, 129, 130, 24, 58, 25],
+    [874, 28, 8, 18, 10, 5, 129, 130, 24, 58, 25],
     /* 129 */
     /***/ function(module, exports) {
       module.exports = {};
@@ -2056,7 +2056,7 @@
       /***/
     },
     /* 130 */
-    [874, 45, 17, 24, 10, 25],
+    [875, 45, 17, 24, 10, 25],
     /* 131 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
@@ -3417,7 +3417,7 @@
       /***/
     },
     /* 194 */
-    [875, 187, 195, 129, 32, 128],
+    [876, 187, 195, 129, 32, 128],
     /* 195 */
     /***/ function(module, exports) {
       module.exports = function(done, value) {
@@ -6849,9 +6849,9 @@
       /***/
     },
     /* 264 */
-    [876, 27],
-    /* 265 */
     [877, 27],
+    /* 265 */
+    [878, 27],
     /* 266 */
     /***/ function(module, exports, __webpack_require__) {
       // https://github.com/tc39/proposal-object-getownpropertydescriptors
@@ -15543,7 +15543,7 @@
 
       var _example_components2 = _interopRequireDefault(_example_components);
 
-      var _hero_example = __webpack_require__(832);
+      var _hero_example = __webpack_require__(833);
 
       var _hero_example2 = _interopRequireDefault(_hero_example);
 
@@ -15755,261 +15755,261 @@
 
       var _default2 = _interopRequireDefault(_default);
 
-      var _code_example_component = __webpack_require__(738);
+      var _code_example_component = __webpack_require__(739);
 
       var _code_example_component2 = _interopRequireDefault(
         _code_example_component
       );
 
-      var _custom_date_format = __webpack_require__(739);
+      var _custom_date_format = __webpack_require__(740);
 
       var _custom_date_format2 = _interopRequireDefault(_custom_date_format);
 
-      var _custom_class_name = __webpack_require__(740);
+      var _custom_class_name = __webpack_require__(741);
 
       var _custom_class_name2 = _interopRequireDefault(_custom_class_name);
 
-      var _custom_calendar_class_name = __webpack_require__(741);
+      var _custom_calendar_class_name = __webpack_require__(742);
 
       var _custom_calendar_class_name2 = _interopRequireDefault(
         _custom_calendar_class_name
       );
 
-      var _custom_day_class_names = __webpack_require__(742);
+      var _custom_day_class_names = __webpack_require__(743);
 
       var _custom_day_class_names2 = _interopRequireDefault(
         _custom_day_class_names
       );
 
-      var _placeholder_text = __webpack_require__(743);
+      var _placeholder_text = __webpack_require__(744);
 
       var _placeholder_text2 = _interopRequireDefault(_placeholder_text);
 
-      var _specific_date_range = __webpack_require__(744);
+      var _specific_date_range = __webpack_require__(745);
 
       var _specific_date_range2 = _interopRequireDefault(_specific_date_range);
 
-      var _min_date = __webpack_require__(745);
+      var _min_date = __webpack_require__(746);
 
       var _min_date2 = _interopRequireDefault(_min_date);
 
-      var _max_date = __webpack_require__(746);
+      var _max_date = __webpack_require__(747);
 
       var _max_date2 = _interopRequireDefault(_max_date);
 
-      var _locale = __webpack_require__(747);
+      var _locale = __webpack_require__(748);
 
       var _locale2 = _interopRequireDefault(_locale);
 
-      var _locale_with_time = __webpack_require__(750);
+      var _locale_with_time = __webpack_require__(751);
 
       var _locale_with_time2 = _interopRequireDefault(_locale_with_time);
 
-      var _locale_without_global_variable = __webpack_require__(757);
+      var _locale_without_global_variable = __webpack_require__(758);
 
       var _locale_without_global_variable2 = _interopRequireDefault(
         _locale_without_global_variable
       );
 
-      var _exclude_dates = __webpack_require__(764);
+      var _exclude_dates = __webpack_require__(765);
 
       var _exclude_dates2 = _interopRequireDefault(_exclude_dates);
 
-      var _highlight_dates = __webpack_require__(765);
+      var _highlight_dates = __webpack_require__(766);
 
       var _highlight_dates2 = _interopRequireDefault(_highlight_dates);
 
-      var _highlight_dates_with_ranges = __webpack_require__(766);
+      var _highlight_dates_with_ranges = __webpack_require__(767);
 
       var _highlight_dates_with_ranges2 = _interopRequireDefault(
         _highlight_dates_with_ranges
       );
 
-      var _include_dates = __webpack_require__(767);
+      var _include_dates = __webpack_require__(768);
 
       var _include_dates2 = _interopRequireDefault(_include_dates);
 
-      var _filter_dates = __webpack_require__(768);
+      var _filter_dates = __webpack_require__(769);
 
       var _filter_dates2 = _interopRequireDefault(_filter_dates);
 
-      var _disabled = __webpack_require__(769);
+      var _disabled = __webpack_require__(770);
 
       var _disabled2 = _interopRequireDefault(_disabled);
 
-      var _disabled_keyboard_navigation = __webpack_require__(770);
+      var _disabled_keyboard_navigation = __webpack_require__(771);
 
       var _disabled_keyboard_navigation2 = _interopRequireDefault(
         _disabled_keyboard_navigation
       );
 
-      var _clear_input = __webpack_require__(771);
+      var _clear_input = __webpack_require__(772);
 
       var _clear_input2 = _interopRequireDefault(_clear_input);
 
-      var _on_blur_callbacks = __webpack_require__(772);
+      var _on_blur_callbacks = __webpack_require__(773);
 
       var _on_blur_callbacks2 = _interopRequireDefault(_on_blur_callbacks);
 
-      var _configurePopper = __webpack_require__(773);
+      var _configurePopper = __webpack_require__(774);
 
       var _configurePopper2 = _interopRequireDefault(_configurePopper);
 
-      var _date_range = __webpack_require__(774);
+      var _date_range = __webpack_require__(775);
 
       var _date_range2 = _interopRequireDefault(_date_range);
 
-      var _date_range_with_show_disabled_navigation = __webpack_require__(775);
+      var _date_range_with_show_disabled_navigation = __webpack_require__(776);
 
       var _date_range_with_show_disabled_navigation2 = _interopRequireDefault(
         _date_range_with_show_disabled_navigation
       );
 
-      var _tab_index = __webpack_require__(776);
+      var _tab_index = __webpack_require__(777);
 
       var _tab_index2 = _interopRequireDefault(_tab_index);
 
-      var _year_dropdown = __webpack_require__(777);
+      var _year_dropdown = __webpack_require__(778);
 
       var _year_dropdown2 = _interopRequireDefault(_year_dropdown);
 
-      var _month_dropdown = __webpack_require__(778);
+      var _month_dropdown = __webpack_require__(779);
 
       var _month_dropdown2 = _interopRequireDefault(_month_dropdown);
 
-      var _month_year_dropdown = __webpack_require__(779);
+      var _month_year_dropdown = __webpack_require__(780);
 
       var _month_year_dropdown2 = _interopRequireDefault(_month_year_dropdown);
 
-      var _month_dropdown_short = __webpack_require__(780);
+      var _month_dropdown_short = __webpack_require__(781);
 
       var _month_dropdown_short2 = _interopRequireDefault(
         _month_dropdown_short
       );
 
-      var _year_select_dropdown = __webpack_require__(781);
+      var _year_select_dropdown = __webpack_require__(782);
 
       var _year_select_dropdown2 = _interopRequireDefault(
         _year_select_dropdown
       );
 
-      var _today = __webpack_require__(782);
+      var _today = __webpack_require__(783);
 
       var _today2 = _interopRequireDefault(_today);
 
-      var _inline = __webpack_require__(783);
+      var _inline = __webpack_require__(784);
 
       var _inline2 = _interopRequireDefault(_inline);
 
-      var _open_to_date = __webpack_require__(784);
+      var _open_to_date = __webpack_require__(785);
 
       var _open_to_date2 = _interopRequireDefault(_open_to_date);
 
-      var _fixed_calendar = __webpack_require__(785);
+      var _fixed_calendar = __webpack_require__(786);
 
       var _fixed_calendar2 = _interopRequireDefault(_fixed_calendar);
 
-      var _week_numbers = __webpack_require__(786);
+      var _week_numbers = __webpack_require__(787);
 
       var _week_numbers2 = _interopRequireDefault(_week_numbers);
 
-      var _custom_input = __webpack_require__(787);
+      var _custom_input = __webpack_require__(788);
 
       var _custom_input2 = _interopRequireDefault(_custom_input);
 
-      var _multi_month = __webpack_require__(788);
+      var _multi_month = __webpack_require__(789);
 
       var _multi_month2 = _interopRequireDefault(_multi_month);
 
-      var _multi_month_drp = __webpack_require__(789);
+      var _multi_month_drp = __webpack_require__(790);
 
       var _multi_month_drp2 = _interopRequireDefault(_multi_month_drp);
 
-      var _multi_month_inline = __webpack_require__(790);
+      var _multi_month_inline = __webpack_require__(791);
 
       var _multi_month_inline2 = _interopRequireDefault(_multi_month_inline);
 
-      var _children = __webpack_require__(791);
+      var _children = __webpack_require__(792);
 
       var _children2 = _interopRequireDefault(_children);
 
-      var _calendar_container = __webpack_require__(792);
+      var _calendar_container = __webpack_require__(793);
 
       var _calendar_container2 = _interopRequireDefault(_calendar_container);
 
-      var _portal = __webpack_require__(793);
+      var _portal = __webpack_require__(794);
 
       var _portal2 = _interopRequireDefault(_portal);
 
-      var _inline_portal = __webpack_require__(794);
+      var _inline_portal = __webpack_require__(795);
 
       var _inline_portal2 = _interopRequireDefault(_inline_portal);
 
-      var _raw_change = __webpack_require__(795);
+      var _raw_change = __webpack_require__(796);
 
       var _raw_change2 = _interopRequireDefault(_raw_change);
 
-      var _read_only = __webpack_require__(796);
+      var _read_only = __webpack_require__(797);
 
       var _read_only2 = _interopRequireDefault(_read_only);
 
-      var _show_time = __webpack_require__(797);
+      var _show_time = __webpack_require__(798);
 
       var _show_time2 = _interopRequireDefault(_show_time);
 
-      var _show_time_only = __webpack_require__(798);
+      var _show_time_only = __webpack_require__(799);
 
       var _show_time_only2 = _interopRequireDefault(_show_time_only);
 
-      var _exclude_times = __webpack_require__(799);
+      var _exclude_times = __webpack_require__(800);
 
       var _exclude_times2 = _interopRequireDefault(_exclude_times);
 
-      var _exclude_time_period = __webpack_require__(800);
+      var _exclude_time_period = __webpack_require__(801);
 
       var _exclude_time_period2 = _interopRequireDefault(_exclude_time_period);
 
-      var _include_times = __webpack_require__(801);
+      var _include_times = __webpack_require__(802);
 
       var _include_times2 = _interopRequireDefault(_include_times);
 
-      var _inject_times = __webpack_require__(802);
+      var _inject_times = __webpack_require__(803);
 
       var _inject_times2 = _interopRequireDefault(_inject_times);
 
-      var _dont_close_onSelect = __webpack_require__(803);
+      var _dont_close_onSelect = __webpack_require__(804);
 
       var _dont_close_onSelect2 = _interopRequireDefault(_dont_close_onSelect);
 
-      var _render_custom_header = __webpack_require__(804);
+      var _render_custom_header = __webpack_require__(805);
 
       var _render_custom_header2 = _interopRequireDefault(
         _render_custom_header
       );
 
-      var _render_custom_day = __webpack_require__(825);
+      var _render_custom_day = __webpack_require__(826);
 
       var _render_custom_day2 = _interopRequireDefault(_render_custom_day);
 
-      var _timeInput = __webpack_require__(826);
+      var _timeInput = __webpack_require__(827);
 
       var _timeInput2 = _interopRequireDefault(_timeInput);
 
-      var _strict_parsing = __webpack_require__(827);
+      var _strict_parsing = __webpack_require__(828);
 
       var _strict_parsing2 = _interopRequireDefault(_strict_parsing);
 
-      var _month_picker = __webpack_require__(828);
+      var _month_picker = __webpack_require__(829);
 
       var _month_picker2 = _interopRequireDefault(_month_picker);
 
-      var _range_month_picker = __webpack_require__(829);
+      var _range_month_picker = __webpack_require__(830);
 
       var _range_month_picker2 = _interopRequireDefault(_range_month_picker);
 
-      __webpack_require__(830);
-
       __webpack_require__(831);
+
+      __webpack_require__(832);
 
       function _interopRequireDefault(obj) {
         return obj && obj.__esModule ? obj : { default: obj };
@@ -22013,7 +22013,8 @@
     },
     /* 385 */
     /***/ function(module, exports) {
-      module.exports = /**
+      module.exports
+      /**
        * Known issues:
        *
        * - invalid hex string literals will be recognized as a double quoted strings
@@ -22027,7 +22028,7 @@
        *
        * - special token sequence rule is not strictly following D grammar (anything following #line
        *   up to the end of line is matched as special token sequence)
-       */ function(hljs) {
+       */ = function(hljs) {
         /**
          * Language keywords
          *
@@ -25797,8 +25798,7 @@
     },
     /* 419 */
     /***/ function(module, exports) {
-      module.exports = function(hljs) {
-        // TODO support filter tags like :javascript, support inline HTML
+      module.exports = function(hljs) { // TODO support filter tags like :javascript, support inline HTML
         return {
           case_insensitive: true,
           contains: [
@@ -35552,8 +35552,7 @@
     },
     /* 482 */
     /***/ function(module, exports) {
-      module.exports = function(hljs) {
-        // Base deafult colors in PB IDE: background: #FFFFDF; foreground: #000000;
+      module.exports = function(hljs) { // Base deafult colors in PB IDE: background: #FFFFDF; foreground: #000000;
         var STRINGS = {
           // PB IDE color: #0080FF (Azure Radiance)
           className: "string",
@@ -40870,7 +40869,7 @@
 
       var _calendar2 = _interopRequireDefault(_calendar);
 
-      var _popper_component = __webpack_require__(638);
+      var _popper_component = __webpack_require__(639);
 
       var _popper_component2 = _interopRequireDefault(_popper_component);
 
@@ -40880,7 +40879,7 @@
 
       var _date_utils = __webpack_require__(542);
 
-      var _reactOnclickoutside = __webpack_require__(627);
+      var _reactOnclickoutside = __webpack_require__(628);
 
       var _reactOnclickoutside2 = _interopRequireDefault(_reactOnclickoutside);
 
@@ -41729,9 +41728,9 @@
       /***/
     },
     /* 534 */
-    [878, 535],
+    [879, 535],
     /* 535 */
-    [879, 331, 536, 537],
+    [880, 331, 536, 537],
     /* 536 */
     /***/ function(module, exports, __webpack_require__) {
       /**
@@ -41853,23 +41852,23 @@
 
       var _year_dropdown2 = _interopRequireDefault(_year_dropdown);
 
-      var _month_dropdown = __webpack_require__(628);
+      var _month_dropdown = __webpack_require__(629);
 
       var _month_dropdown2 = _interopRequireDefault(_month_dropdown);
 
-      var _month_year_dropdown = __webpack_require__(630);
+      var _month_year_dropdown = __webpack_require__(631);
 
       var _month_year_dropdown2 = _interopRequireDefault(_month_year_dropdown);
 
-      var _month = __webpack_require__(632);
+      var _month = __webpack_require__(633);
 
       var _month2 = _interopRequireDefault(_month);
 
-      var _time = __webpack_require__(636);
+      var _time = __webpack_require__(637);
 
       var _time2 = _interopRequireDefault(_time);
 
-      var _inputTime = __webpack_require__(637);
+      var _inputTime = __webpack_require__(638);
 
       var _inputTime2 = _interopRequireDefault(_inputTime);
 
@@ -42703,7 +42702,7 @@
         _year_dropdown_options
       );
 
-      var _reactOnclickoutside = __webpack_require__(627);
+      var _reactOnclickoutside = __webpack_require__(628);
 
       var _reactOnclickoutside2 = _interopRequireDefault(_reactOnclickoutside);
 
@@ -43273,6 +43272,7 @@
         exports.getMonthInLocale = getMonthInLocale;
         exports.getMonthShortInLocale = getMonthShortInLocale;
         exports.isDayDisabled = isDayDisabled;
+        exports.isMonthDisabled = isMonthDisabled;
         exports.isMonthinRange = isMonthinRange;
         exports.isOutOfBounds = isOutOfBounds;
         exports.isTimeDisabled = isTimeDisabled;
@@ -43487,29 +43487,42 @@
 
         var _parse2 = _interopRequireDefault(_parse);
 
+        var _parseISO = __webpack_require__(627);
+
+        var _parseISO2 = _interopRequireDefault(_parseISO);
+
+        var _longFormatters = __webpack_require__(572);
+
+        var _longFormatters2 = _interopRequireDefault(_longFormatters);
+
         function _interopRequireDefault(obj) {
           return obj && obj.__esModule ? obj : { default: obj };
         }
 
+        // This RegExp catches symbols escaped by quotes, and also
+        // sequences of symbols P, p, and the combinations like `PPPPPPPppppp`
+        var longFormattingTokensRegExp = /P+p+|P+|p+|''|'(''|[^'])+('|$)|./g;
+
         // ** Date Constructors **
 
         function newDate(value) {
-          var d = value ? (0, _toDate2.default)(value) : new Date();
+          var d = value
+            ? typeof value === "string" || value instanceof String
+              ? (0, _parseISO2.default)(value)
+              : (0, _toDate2.default)(value)
+            : new Date();
           return isValid(d) ? d : null;
         }
 
         function parseDate(value, dateFormat, locale, strictParsing) {
           var parsedDate = null;
-          var localeObject = getLocaleObject(locale);
+          var localeObject = getLocaleObject(locale) || getDefaultLocale();
           var strictParsingValueMatch = true;
           if (Array.isArray(dateFormat)) {
             dateFormat.forEach(function(df) {
-              var tryParseDate = (0, _parse2.default)(
-                value,
-                df,
-                new Date(),
-                localeObject
-              );
+              var tryParseDate = (0, _parse2.default)(value, df, new Date(), {
+                locale: localeObject
+              });
               if (strictParsing) {
                 strictParsingValueMatch =
                   isValid(tryParseDate) &&
@@ -43537,7 +43550,31 @@
                   awareOfUnicodeTokens: true
                 });
           } else if (!isValid(parsedDate)) {
-            parsedDate = new Date(value);
+            dateFormat = dateFormat
+              .match(longFormattingTokensRegExp)
+              .map(function(substring) {
+                var firstCharacter = substring[0];
+                if (firstCharacter === "p" || firstCharacter === "P") {
+                  var longFormatter = _longFormatters2.default[firstCharacter];
+                  return localeObject
+                    ? longFormatter(substring, localeObject.formatLong)
+                    : firstCharacter;
+                }
+                return substring;
+              })
+              .join("");
+
+            if (value.length > 0) {
+              parsedDate = (0, _parse2.default)(
+                value,
+                dateFormat.slice(0, value.length),
+                new Date()
+              );
+            }
+
+            if (!isValid(parsedDate)) {
+              parsedDate = new Date(value);
+            }
           }
 
           return isValid(parsedDate) && strictParsingValueMatch
@@ -43847,6 +43884,32 @@
           );
         }
 
+        function isMonthDisabled(month) {
+          var _ref4 =
+              arguments.length > 1 && arguments[1] !== undefined
+                ? arguments[1]
+                : {},
+            minDate = _ref4.minDate,
+            maxDate = _ref4.maxDate,
+            excludeDates = _ref4.excludeDates,
+            includeDates = _ref4.includeDates,
+            filterDate = _ref4.filterDate;
+
+          return (
+            isOutOfBounds(month, { minDate: minDate, maxDate: maxDate }) ||
+            (excludeDates &&
+              excludeDates.some(function(excludeDate) {
+                return isSameMonth(month, excludeDate);
+              })) ||
+            (includeDates &&
+              !includeDates.some(function(includeDate) {
+                return isSameMonth(month, includeDate);
+              })) ||
+            (filterDate && !filterDate(newDate(month))) ||
+            false
+          );
+        }
+
         function isMonthinRange(startDate, endDate, m, day) {
           var startDateYear = (0, _getYear2.default)(startDate);
           var startDateMonth = (0, _getMonth2.default)(startDate);
@@ -43865,12 +43928,12 @@
         }
 
         function isOutOfBounds(day) {
-          var _ref4 =
+          var _ref5 =
               arguments.length > 1 && arguments[1] !== undefined
                 ? arguments[1]
                 : {},
-            minDate = _ref4.minDate,
-            maxDate = _ref4.maxDate;
+            minDate = _ref5.minDate,
+            maxDate = _ref5.maxDate;
 
           return (
             (minDate &&
@@ -43896,9 +43959,9 @@
           return false;
         }
 
-        function isTimeInDisabledRange(time, _ref5) {
-          var minTime = _ref5.minTime,
-            maxTime = _ref5.maxTime;
+        function isTimeInDisabledRange(time, _ref6) {
+          var minTime = _ref6.minTime,
+            maxTime = _ref6.maxTime;
 
           if (!minTime || !maxTime) {
             throw new Error("Both minTime and maxTime props required");
@@ -43930,12 +43993,12 @@
         }
 
         function monthDisabledBefore(day) {
-          var _ref6 =
+          var _ref7 =
               arguments.length > 1 && arguments[1] !== undefined
                 ? arguments[1]
                 : {},
-            minDate = _ref6.minDate,
-            includeDates = _ref6.includeDates;
+            minDate = _ref7.minDate,
+            includeDates = _ref7.includeDates;
 
           var previousMonth = (0, _subMonths2.default)(day, 1);
           return (
@@ -43958,12 +44021,12 @@
         }
 
         function monthDisabledAfter(day) {
-          var _ref7 =
+          var _ref8 =
               arguments.length > 1 && arguments[1] !== undefined
                 ? arguments[1]
                 : {},
-            maxDate = _ref7.maxDate,
-            includeDates = _ref7.includeDates;
+            maxDate = _ref8.maxDate,
+            includeDates = _ref8.includeDates;
 
           var nextMonth = (0, _addMonths2.default)(day, 1);
           return (
@@ -43983,9 +44046,9 @@
           );
         }
 
-        function getEffectiveMinDate(_ref8) {
-          var minDate = _ref8.minDate,
-            includeDates = _ref8.includeDates;
+        function getEffectiveMinDate(_ref9) {
+          var minDate = _ref9.minDate,
+            includeDates = _ref9.includeDates;
 
           if (includeDates && minDate) {
             var minDates = includeDates.filter(function(includeDate) {
@@ -44002,9 +44065,9 @@
           }
         }
 
-        function getEffectiveMaxDate(_ref9) {
-          var maxDate = _ref9.maxDate,
-            includeDates = _ref9.includeDates;
+        function getEffectiveMaxDate(_ref10) {
+          var maxDate = _ref10.maxDate,
+            includeDates = _ref10.includeDates;
 
           if (includeDates && maxDate) {
             var maxDates = includeDates.filter(function(includeDate) {
@@ -44101,10 +44164,7 @@
         }
 
         function addZero(i) {
-          if (i < 10) {
-            i = "0" + i;
-          }
-          return i;
+          return i < 10 ? "0" + i : "" + i;
         }
         /* WEBPACK VAR INJECTION */
       }.call(
@@ -44123,32 +44183,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = isDate;
-=======
-      exports["default"] = isDate;
-
-      function _typeof(obj) {
-        if (
-          typeof Symbol === "function" &&
-          typeof Symbol.iterator === "symbol"
-        ) {
-          _typeof = function _typeof(obj) {
-            return typeof obj;
-          };
-        } else {
-          _typeof = function _typeof(obj) {
-            return obj &&
-              typeof Symbol === "function" &&
-              obj.constructor === Symbol &&
-              obj !== Symbol.prototype
-              ? "symbol"
-              : typeof obj;
-          };
-        }
-        return _typeof(obj);
-      }
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       /**
        * @name isDate
@@ -44195,11 +44230,7 @@
 
         return (
           value instanceof Date ||
-<<<<<<< HEAD
           (typeof value === "object" &&
-=======
-          (_typeof(value) === "object" &&
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
             Object.prototype.toString.call(value) === "[object Date]")
         );
       }
@@ -44215,7 +44246,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-      exports["default"] = isValid;
+      exports.default = isValid;
 
       var _index = _interopRequireDefault(__webpack_require__(545));
 
@@ -44287,11 +44318,7 @@
           );
         }
 
-<<<<<<< HEAD
         var date = (0, _index.default)(dirtyDate);
-=======
-        var date = (0, _index["default"])(dirtyDate);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         return !isNaN(date);
       }
 
@@ -44306,32 +44333,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = toDate;
-=======
-      exports["default"] = toDate;
-
-      function _typeof(obj) {
-        if (
-          typeof Symbol === "function" &&
-          typeof Symbol.iterator === "symbol"
-        ) {
-          _typeof = function _typeof(obj) {
-            return typeof obj;
-          };
-        } else {
-          _typeof = function _typeof(obj) {
-            return obj &&
-              typeof Symbol === "function" &&
-              obj.constructor === Symbol &&
-              obj !== Symbol.prototype
-              ? "symbol"
-              : typeof obj;
-          };
-        }
-        return _typeof(obj);
-      }
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       /**
        * @name toDate
@@ -44374,11 +44376,7 @@
 
         if (
           argument instanceof Date ||
-<<<<<<< HEAD
           (typeof argument === "object" && argStr === "[object Date]")
-=======
-          (_typeof(argument) === "object" && argStr === "[object Date]")
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         ) {
           // Prevent the date to lose the milliseconds when passed to new Date() in IE10
           return new Date(argument.getTime());
@@ -44395,12 +44393,8 @@
             // eslint-disable-next-line no-console
             console.warn(
               "Starting with v2.0.0-beta.1 date-fns doesn't accept strings as arguments. Please use `parseISO` to parse strings. See: https://git.io/fjule"
-<<<<<<< HEAD
             ); // eslint-disable-next-line no-console
 
-=======
-            );
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
             console.warn(new Error().stack);
           }
 
@@ -44419,7 +44413,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-      exports["default"] = format;
+      exports.default = format;
 
       var _index = _interopRequireDefault(__webpack_require__(544));
 
@@ -44779,29 +44773,17 @@
 
         var formatStr = String(dirtyFormatStr);
         var options = dirtyOptions || {};
-<<<<<<< HEAD
         var locale = options.locale || _index2.default;
-=======
-        var locale = options.locale || _index2["default"];
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         var localeFirstWeekContainsDate =
           locale.options && locale.options.firstWeekContainsDate;
         var defaultFirstWeekContainsDate =
           localeFirstWeekContainsDate == null
             ? 1
-<<<<<<< HEAD
             : (0, _index9.default)(localeFirstWeekContainsDate);
         var firstWeekContainsDate =
           options.firstWeekContainsDate == null
             ? defaultFirstWeekContainsDate
             : (0, _index9.default)(options.firstWeekContainsDate); // Test if weekStartsOn is between 1 and 7 _and_ is not NaN
-=======
-            : (0, _index9["default"])(localeFirstWeekContainsDate);
-        var firstWeekContainsDate =
-          options.firstWeekContainsDate == null
-            ? defaultFirstWeekContainsDate
-            : (0, _index9["default"])(options.firstWeekContainsDate); // Test if weekStartsOn is between 1 and 7 _and_ is not NaN
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
         if (!(firstWeekContainsDate >= 1 && firstWeekContainsDate <= 7)) {
           throw new RangeError(
@@ -44813,19 +44795,11 @@
         var defaultWeekStartsOn =
           localeWeekStartsOn == null
             ? 0
-<<<<<<< HEAD
             : (0, _index9.default)(localeWeekStartsOn);
         var weekStartsOn =
           options.weekStartsOn == null
             ? defaultWeekStartsOn
             : (0, _index9.default)(options.weekStartsOn); // Test if weekStartsOn is between 0 and 6 _and_ is not NaN
-=======
-            : (0, _index9["default"])(localeWeekStartsOn);
-        var weekStartsOn =
-          options.weekStartsOn == null
-            ? defaultWeekStartsOn
-            : (0, _index9["default"])(options.weekStartsOn); // Test if weekStartsOn is between 0 and 6 _and_ is not NaN
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
         if (!(weekStartsOn >= 0 && weekStartsOn <= 6)) {
           throw new RangeError(
@@ -44841,27 +44815,16 @@
           throw new RangeError("locale must contain formatLong property");
         }
 
-<<<<<<< HEAD
         var originalDate = (0, _index4.default)(dirtyDate);
 
         if (!(0, _index.default)(originalDate)) {
-=======
-        var originalDate = (0, _index4["default"])(dirtyDate);
-
-        if (!(0, _index["default"])(originalDate)) {
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
           throw new RangeError("Invalid time value");
         } // Convert the date in system timezone to the same date in UTC+00:00 timezone.
         // This ensures that when UTC functions will be implemented, locales will be compatible with them.
         // See an issue about UTC functions: https://github.com/date-fns/date-fns/issues/376
 
-<<<<<<< HEAD
         var timezoneOffset = (0, _index7.default)(originalDate);
         var utcDate = (0, _index3.default)(originalDate, timezoneOffset);
-=======
-        var timezoneOffset = (0, _index7["default"])(originalDate);
-        var utcDate = (0, _index3["default"])(originalDate, timezoneOffset);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         var formatterOptions = {
           firstWeekContainsDate: firstWeekContainsDate,
           weekStartsOn: weekStartsOn,
@@ -44874,11 +44837,7 @@
             var firstCharacter = substring[0];
 
             if (firstCharacter === "p" || firstCharacter === "P") {
-<<<<<<< HEAD
               var longFormatter = _index6.default[firstCharacter];
-=======
-              var longFormatter = _index6["default"][firstCharacter];
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
               return longFormatter(
                 substring,
                 locale.formatLong,
@@ -44902,11 +44861,7 @@
               return cleanEscapedString(substring);
             }
 
-<<<<<<< HEAD
             var formatter = _index5.default[firstCharacter];
-=======
-            var formatter = _index5["default"][firstCharacter];
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
             if (formatter) {
               if (
@@ -44962,7 +44917,6 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = void 0;
 
       var _index = _interopRequireDefault(__webpack_require__(548));
@@ -44971,16 +44925,6 @@
 
       var _index3 = _interopRequireDefault(__webpack_require__(551));
 
-=======
-      exports["default"] = void 0;
-
-      var _index = _interopRequireDefault(__webpack_require__(548));
-
-      var _index2 = _interopRequireDefault(__webpack_require__(549));
-
-      var _index3 = _interopRequireDefault(__webpack_require__(551));
-
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
       var _index4 = _interopRequireDefault(__webpack_require__(552));
 
       var _index5 = _interopRequireDefault(__webpack_require__(554));
@@ -44999,19 +44943,11 @@
        * @author Lesha Koss [@leshakoss]{@link https://github.com/leshakoss}
        */
       var locale = {
-<<<<<<< HEAD
         formatDistance: _index.default,
         formatLong: _index2.default,
         formatRelative: _index3.default,
         localize: _index4.default,
         match: _index5.default,
-=======
-        formatDistance: _index["default"],
-        formatLong: _index2["default"],
-        formatRelative: _index3["default"],
-        localize: _index4["default"],
-        match: _index5["default"],
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         options: {
           weekStartsOn: 0,
           /* Sunday */
@@ -45019,11 +44955,7 @@
         }
       };
       var _default = locale;
-<<<<<<< HEAD
       exports.default = _default;
-=======
-      exports["default"] = _default;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
       module.exports = exports.default;
 
       /***/
@@ -45035,7 +44967,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-      exports["default"] = formatDistance;
+      exports.default = formatDistance;
       var formatDistanceLocale = {
         lessThanXSeconds: {
           one: "less than a second",
@@ -45129,11 +45061,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = void 0;
-=======
-      exports["default"] = void 0;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       var _index = _interopRequireDefault(__webpack_require__(550));
 
@@ -45160,7 +45088,6 @@
         short: "{{date}}, {{time}}"
       };
       var formatLong = {
-<<<<<<< HEAD
         date: (0, _index.default)({
           formats: dateFormats,
           defaultWidth: "full"
@@ -45170,27 +45097,12 @@
           defaultWidth: "full"
         }),
         dateTime: (0, _index.default)({
-=======
-        date: (0, _index["default"])({
-          formats: dateFormats,
-          defaultWidth: "full"
-        }),
-        time: (0, _index["default"])({
-          formats: timeFormats,
-          defaultWidth: "full"
-        }),
-        dateTime: (0, _index["default"])({
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
           formats: dateTimeFormats,
           defaultWidth: "full"
         })
       };
       var _default = formatLong;
-<<<<<<< HEAD
       exports.default = _default;
-=======
-      exports["default"] = _default;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
       module.exports = exports.default;
 
       /***/
@@ -45202,11 +45114,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = buildFormatLongFn;
-=======
-      exports["default"] = buildFormatLongFn;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       function buildFormatLongFn(args) {
         return function(dirtyOptions) {
@@ -45228,7 +45136,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-      exports["default"] = formatRelative;
+      exports.default = formatRelative;
       var formatRelativeLocale = {
         lastWeek: "'last' eeee 'at' p",
         yesterday: "'yesterday at' p",
@@ -45253,11 +45161,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = void 0;
-=======
-      exports["default"] = void 0;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       var _index = _interopRequireDefault(__webpack_require__(553));
 
@@ -45388,11 +45292,7 @@
         }
       };
 
-<<<<<<< HEAD
       function ordinalNumber(dirtyNumber, _dirtyOptions) {
-=======
-      function ordinalNumber(dirtyNumber, dirtyOptions) {
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         var number = Number(dirtyNumber); // If ordinal numbers depend on context, for example,
         // if they are different for different grammatical genders,
         // use `options.unit`:
@@ -45423,26 +45323,17 @@
 
       var localize = {
         ordinalNumber: ordinalNumber,
-<<<<<<< HEAD
         era: (0, _index.default)({
           values: eraValues,
           defaultWidth: "wide"
         }),
         quarter: (0, _index.default)({
-=======
-        era: (0, _index["default"])({
-          values: eraValues,
-          defaultWidth: "wide"
-        }),
-        quarter: (0, _index["default"])({
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
           values: quarterValues,
           defaultWidth: "wide",
           argumentCallback: function(quarter) {
             return Number(quarter) - 1;
           }
         }),
-<<<<<<< HEAD
         month: (0, _index.default)({
           values: monthValues,
           defaultWidth: "wide"
@@ -45452,17 +45343,6 @@
           defaultWidth: "wide"
         }),
         dayPeriod: (0, _index.default)({
-=======
-        month: (0, _index["default"])({
-          values: monthValues,
-          defaultWidth: "wide"
-        }),
-        day: (0, _index["default"])({
-          values: dayValues,
-          defaultWidth: "wide"
-        }),
-        dayPeriod: (0, _index["default"])({
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
           values: dayPeriodValues,
           defaultWidth: "wide",
           formattingValues: formattingDayPeriodValues,
@@ -45470,11 +45350,7 @@
         })
       };
       var _default = localize;
-<<<<<<< HEAD
       exports.default = _default;
-=======
-      exports["default"] = _default;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
       module.exports = exports.default;
 
       /***/
@@ -45486,11 +45362,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = buildLocalizeFn;
-=======
-      exports["default"] = buildLocalizeFn;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       function buildLocalizeFn(args) {
         return function(dirtyIndex, dirtyOptions) {
@@ -45507,7 +45379,6 @@
               args.formattingValues[width] ||
               args.formattingValues[defaultWidth];
           } else {
-<<<<<<< HEAD
             var _defaultWidth = args.defaultWidth;
 
             var _width = options.width
@@ -45515,13 +45386,6 @@
               : args.defaultWidth;
 
             valuesArray = args.values[_width] || args.values[_defaultWidth];
-=======
-            var defaultWidth = args.defaultWidth;
-            var width = options.width
-              ? String(options.width)
-              : args.defaultWidth;
-            valuesArray = args.values[width] || args.values[defaultWidth];
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
           }
 
           var index = args.argumentCallback
@@ -45542,11 +45406,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = void 0;
-=======
-      exports["default"] = void 0;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       var _index = _interopRequireDefault(__webpack_require__(555));
 
@@ -45636,32 +45496,20 @@
         }
       };
       var match = {
-<<<<<<< HEAD
         ordinalNumber: (0, _index.default)({
-=======
-        ordinalNumber: (0, _index["default"])({
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
           matchPattern: matchOrdinalNumberPattern,
           parsePattern: parseOrdinalNumberPattern,
           valueCallback: function(value) {
             return parseInt(value, 10);
           }
         }),
-<<<<<<< HEAD
         era: (0, _index2.default)({
-=======
-        era: (0, _index2["default"])({
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
           matchPatterns: matchEraPatterns,
           defaultMatchWidth: "wide",
           parsePatterns: parseEraPatterns,
           defaultParseWidth: "any"
         }),
-<<<<<<< HEAD
         quarter: (0, _index2.default)({
-=======
-        quarter: (0, _index2["default"])({
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
           matchPatterns: matchQuarterPatterns,
           defaultMatchWidth: "wide",
           parsePatterns: parseQuarterPatterns,
@@ -45670,31 +45518,19 @@
             return index + 1;
           }
         }),
-<<<<<<< HEAD
         month: (0, _index2.default)({
-=======
-        month: (0, _index2["default"])({
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
           matchPatterns: matchMonthPatterns,
           defaultMatchWidth: "wide",
           parsePatterns: parseMonthPatterns,
           defaultParseWidth: "any"
         }),
-<<<<<<< HEAD
         day: (0, _index2.default)({
-=======
-        day: (0, _index2["default"])({
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
           matchPatterns: matchDayPatterns,
           defaultMatchWidth: "wide",
           parsePatterns: parseDayPatterns,
           defaultParseWidth: "any"
         }),
-<<<<<<< HEAD
         dayPeriod: (0, _index2.default)({
-=======
-        dayPeriod: (0, _index2["default"])({
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
           matchPatterns: matchDayPeriodPatterns,
           defaultMatchWidth: "any",
           parsePatterns: parseDayPeriodPatterns,
@@ -45702,11 +45538,7 @@
         })
       };
       var _default = match;
-<<<<<<< HEAD
       exports.default = _default;
-=======
-      exports["default"] = _default;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
       module.exports = exports.default;
 
       /***/
@@ -45718,11 +45550,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = buildMatchPatternFn;
-=======
-      exports["default"] = buildMatchPatternFn;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       function buildMatchPatternFn(args) {
         return function(dirtyString, dirtyOptions) {
@@ -45763,11 +45591,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = buildMatchFn;
-=======
-      exports["default"] = buildMatchFn;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       function buildMatchFn(args) {
         return function(dirtyString, dirtyOptions) {
@@ -45819,94 +45643,6 @@
       }
 
       module.exports = exports.default;
-<<<<<<< HEAD
-=======
-
-      /***/
-    },
-    /* 557 */
-    /***/ function(module, exports, __webpack_require__) {
-      "use strict";
-
-      Object.defineProperty(exports, "__esModule", {
-        value: true
-      });
-      exports["default"] = subMilliseconds;
-
-      var _index = _interopRequireDefault(__webpack_require__(558));
-
-      var _index2 = _interopRequireDefault(__webpack_require__(559));
-
-      function _interopRequireDefault(obj) {
-        return obj && obj.__esModule ? obj : { default: obj };
-      }
-
-      /**
-       * @name subMilliseconds
-       * @category Millisecond Helpers
-       * @summary Subtract the specified number of milliseconds from the given date.
-       *
-       * @description
-       * Subtract the specified number of milliseconds from the given date.
-       *
-       * ### v2.0.0 breaking changes:
-       *
-       * - [Changes that are common for the whole library](https://github.com/date-fns/date-fns/blob/master/docs/upgradeGuide.md#Common-Changes).
-       *
-       * @param {Date|Number} date - the date to be changed
-       * @param {Number} amount - the amount of milliseconds to be subtracted
-       * @returns {Date} the new date with the milliseconds subtracted
-       * @throws {TypeError} 2 arguments required
-       *
-       * @example
-       * // Subtract 750 milliseconds from 10 July 2014 12:45:30.000:
-       * var result = subMilliseconds(new Date(2014, 6, 10, 12, 45, 30, 0), 750)
-       * //=> Thu Jul 10 2014 12:45:29.250
-       */
-      function subMilliseconds(dirtyDate, dirtyAmount) {
-        if (arguments.length < 2) {
-          throw new TypeError(
-            "2 arguments required, but only " + arguments.length + " present"
-          );
-        }
-
-        var amount = (0, _index["default"])(dirtyAmount);
-        return (0, _index2["default"])(dirtyDate, -amount);
-      }
-
-      module.exports = exports.default;
-
-      /***/
-    },
-    /* 558 */
-    /***/ function(module, exports) {
-      "use strict";
-
-      Object.defineProperty(exports, "__esModule", {
-        value: true
-      });
-      exports["default"] = toInteger;
-
-      function toInteger(dirtyNumber) {
-        if (
-          dirtyNumber === null ||
-          dirtyNumber === true ||
-          dirtyNumber === false
-        ) {
-          return NaN;
-        }
-
-        var number = Number(dirtyNumber);
-
-        if (isNaN(number)) {
-          return number;
-        }
-
-        return number < 0 ? Math.ceil(number) : Math.floor(number);
-      }
-
-      module.exports = exports.default;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       /***/
     },
@@ -46002,16 +45738,11 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = addMilliseconds;
-=======
-      exports["default"] = addMilliseconds;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       var _index = _interopRequireDefault(__webpack_require__(558));
 
       var _index2 = _interopRequireDefault(__webpack_require__(545));
-<<<<<<< HEAD
 
       function _interopRequireDefault(obj) {
         return obj && obj.__esModule ? obj : { default: obj };
@@ -46069,73 +45800,6 @@
       var _index2 = _interopRequireDefault(__webpack_require__(563));
 
       var _index3 = _interopRequireDefault(__webpack_require__(564));
-=======
-
-      function _interopRequireDefault(obj) {
-        return obj && obj.__esModule ? obj : { default: obj };
-      }
-
-      /**
-       * @name addMilliseconds
-       * @category Millisecond Helpers
-       * @summary Add the specified number of milliseconds to the given date.
-       *
-       * @description
-       * Add the specified number of milliseconds to the given date.
-       *
-       * ### v2.0.0 breaking changes:
-       *
-       * - [Changes that are common for the whole library](https://github.com/date-fns/date-fns/blob/master/docs/upgradeGuide.md#Common-Changes).
-       *
-       * @param {Date|Number} date - the date to be changed
-       * @param {Number} amount - the amount of milliseconds to be added
-       * @returns {Date} the new date with the milliseconds added
-       * @throws {TypeError} 2 arguments required
-       *
-       * @example
-       * // Add 750 milliseconds to 10 July 2014 12:45:30.000:
-       * var result = addMilliseconds(new Date(2014, 6, 10, 12, 45, 30, 0), 750)
-       * //=> Thu Jul 10 2014 12:45:30.750
-       */
-      function addMilliseconds(dirtyDate, dirtyAmount) {
-        if (arguments.length < 2) {
-          throw new TypeError(
-            "2 arguments required, but only " + arguments.length + " present"
-          );
-        }
-
-        var timestamp = (0, _index2["default"])(dirtyDate).getTime();
-        var amount = (0, _index["default"])(dirtyAmount);
-        return new Date(timestamp + amount);
-      }
-
-      module.exports = exports.default;
-
-      /***/
-    },
-    /* 560 */
-    /***/ function(module, exports, __webpack_require__) {
-      "use strict";
-
-      Object.defineProperty(exports, "__esModule", {
-        value: true
-      });
-      exports["default"] = void 0;
-
-      var _index = _interopRequireDefault(__webpack_require__(561));
-
-      var _index2 = _interopRequireDefault(__webpack_require__(563));
-
-      var _index3 = _interopRequireDefault(__webpack_require__(564));
-
-      var _index4 = _interopRequireDefault(__webpack_require__(567));
-
-      var _index5 = _interopRequireDefault(__webpack_require__(568));
-
-      var _index6 = _interopRequireDefault(__webpack_require__(571));
-
-      var _index7 = _interopRequireDefault(__webpack_require__(562));
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       var _index4 = _interopRequireDefault(__webpack_require__(567));
 
@@ -46244,30 +45908,18 @@
             });
           }
 
-<<<<<<< HEAD
           return _index.default.y(date, token);
         },
         // Local week-numbering year
         Y: function(date, token, localize, options) {
           var signedWeekYear = (0, _index6.default)(date, options); // Returns 1 for 1 BC (which is year 0 in JavaScript)
-=======
-          return _index["default"].y(date, token);
-        },
-        // Local week-numbering year
-        Y: function Y(date, token, localize, options) {
-          var signedWeekYear = (0, _index6["default"])(date, options); // Returns 1 for 1 BC (which is year 0 in JavaScript)
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
           var weekYear =
             signedWeekYear > 0 ? signedWeekYear : 1 - signedWeekYear; // Two digit year
 
           if (token === "YY") {
             var twoDigitYear = weekYear % 100;
-<<<<<<< HEAD
             return (0, _index7.default)(twoDigitYear, 2);
-=======
-            return (0, _index7["default"])(twoDigitYear, 2);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
           } // Ordinal number
 
           if (token === "Yo") {
@@ -46276,7 +45928,6 @@
             });
           } // Padding
 
-<<<<<<< HEAD
           return (0, _index7.default)(weekYear, token.length);
         },
         // ISO week-numbering year
@@ -46284,15 +45935,6 @@
           var isoWeekYear = (0, _index4.default)(date); // Padding
 
           return (0, _index7.default)(isoWeekYear, token.length);
-=======
-          return (0, _index7["default"])(weekYear, token.length);
-        },
-        // ISO week-numbering year
-        R: function R(date, token) {
-          var isoWeekYear = (0, _index4["default"])(date); // Padding
-
-          return (0, _index7["default"])(isoWeekYear, token.length);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         },
         // Extended year. This is a single number designating the year of this calendar system.
         // The main difference between `y` and `u` localizers are B.C. years:
@@ -46305,11 +45947,7 @@
         // while `uu` pads single digit years to 2 characters and returns other years unchanged.
         u: function(date, token) {
           var year = date.getUTCFullYear();
-<<<<<<< HEAD
           return (0, _index7.default)(year, token.length);
-=======
-          return (0, _index7["default"])(year, token.length);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         },
         // Quarter
         Q: function(date, token, localize) {
@@ -46322,11 +45960,7 @@
             // 01, 02, 03, 04
 
             case "QQ":
-<<<<<<< HEAD
               return (0, _index7.default)(quarter, 2);
-=======
-              return (0, _index7["default"])(quarter, 2);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
             // 1st, 2nd, 3rd, 4th
 
             case "Qo":
@@ -46368,11 +46002,7 @@
             // 01, 02, 03, 04
 
             case "qq":
-<<<<<<< HEAD
               return (0, _index7.default)(quarter, 2);
-=======
-              return (0, _index7["default"])(quarter, 2);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
             // 1st, 2nd, 3rd, 4th
 
             case "qo":
@@ -46410,11 +46040,7 @@
           switch (token) {
             case "M":
             case "MM":
-<<<<<<< HEAD
               return _index.default.M(date, token);
-=======
-              return _index["default"].M(date, token);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
             // 1st, 2nd, ..., 12th
 
             case "Mo":
@@ -46456,11 +46082,7 @@
             // 01, 02, ..., 12
 
             case "LL":
-<<<<<<< HEAD
               return (0, _index7.default)(month + 1, 2);
-=======
-              return (0, _index7["default"])(month + 1, 2);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
             // 1st, 2nd, ..., 12th
 
             case "Lo":
@@ -46492,13 +46114,8 @@
           }
         },
         // Local week of year
-<<<<<<< HEAD
         w: function(date, token, localize, options) {
           var week = (0, _index5.default)(date, options);
-=======
-        w: function w(date, token, localize, options) {
-          var week = (0, _index5["default"])(date, options);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
           if (token === "wo") {
             return localize.ordinalNumber(week, {
@@ -46506,19 +46123,11 @@
             });
           }
 
-<<<<<<< HEAD
           return (0, _index7.default)(week, token.length);
         },
         // ISO week of year
         I: function(date, token, localize) {
           var isoWeek = (0, _index3.default)(date);
-=======
-          return (0, _index7["default"])(week, token.length);
-        },
-        // ISO week of year
-        I: function I(date, token, localize) {
-          var isoWeek = (0, _index3["default"])(date);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
           if (token === "Io") {
             return localize.ordinalNumber(isoWeek, {
@@ -46526,11 +46135,7 @@
             });
           }
 
-<<<<<<< HEAD
           return (0, _index7.default)(isoWeek, token.length);
-=======
-          return (0, _index7["default"])(isoWeek, token.length);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         },
         // Day of the month
         d: function(date, token, localize) {
@@ -46540,19 +46145,11 @@
             });
           }
 
-<<<<<<< HEAD
           return _index.default.d(date, token);
         },
         // Day of year
         D: function(date, token, localize) {
           var dayOfYear = (0, _index2.default)(date);
-=======
-          return _index["default"].d(date, token);
-        },
-        // Day of year
-        D: function D(date, token, localize) {
-          var dayOfYear = (0, _index2["default"])(date);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
           if (token === "Do") {
             return localize.ordinalNumber(dayOfYear, {
@@ -46560,11 +46157,7 @@
             });
           }
 
-<<<<<<< HEAD
           return (0, _index7.default)(dayOfYear, token.length);
-=======
-          return (0, _index7["default"])(dayOfYear, token.length);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         },
         // Day of week
         E: function(date, token, localize) {
@@ -46615,11 +46208,7 @@
             // Padded numerical value
 
             case "ee":
-<<<<<<< HEAD
               return (0, _index7.default)(localDayOfWeek, 2);
-=======
-              return (0, _index7["default"])(localDayOfWeek, 2);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
             // 1st, 2nd, ..., 7th
 
             case "eo":
@@ -46668,11 +46257,7 @@
             // Padded numerical value
 
             case "cc":
-<<<<<<< HEAD
               return (0, _index7.default)(localDayOfWeek, token.length);
-=======
-              return (0, _index7["default"])(localDayOfWeek, token.length);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
             // 1st, 2nd, ..., 7th
 
             case "co":
@@ -46721,11 +46306,7 @@
             // 02
 
             case "ii":
-<<<<<<< HEAD
               return (0, _index7.default)(isoDayOfWeek, token.length);
-=======
-              return (0, _index7["default"])(isoDayOfWeek, token.length);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
             // 2nd
 
             case "io":
@@ -46875,11 +46456,7 @@
             });
           }
 
-<<<<<<< HEAD
           return _index.default.h(date, token);
-=======
-          return _index["default"].h(date, token);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         },
         // Hour [0-23]
         H: function(date, token, localize) {
@@ -46889,11 +46466,7 @@
             });
           }
 
-<<<<<<< HEAD
           return _index.default.H(date, token);
-=======
-          return _index["default"].H(date, token);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         },
         // Hour [0-11]
         K: function(date, token, localize) {
@@ -46905,11 +46478,7 @@
             });
           }
 
-<<<<<<< HEAD
           return (0, _index7.default)(hours, token.length);
-=======
-          return (0, _index7["default"])(hours, token.length);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         },
         // Hour [1-24]
         k: function(date, token, localize) {
@@ -46922,11 +46491,7 @@
             });
           }
 
-<<<<<<< HEAD
           return (0, _index7.default)(hours, token.length);
-=======
-          return (0, _index7["default"])(hours, token.length);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         },
         // Minute
         m: function(date, token, localize) {
@@ -46936,11 +46501,7 @@
             });
           }
 
-<<<<<<< HEAD
           return _index.default.m(date, token);
-=======
-          return _index["default"].m(date, token);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         },
         // Second
         s: function(date, token, localize) {
@@ -46950,19 +46511,11 @@
             });
           }
 
-<<<<<<< HEAD
           return _index.default.s(date, token);
         },
         // Fraction of second
         S: function(date, token) {
           return _index.default.S(date, token);
-=======
-          return _index["default"].s(date, token);
-        },
-        // Fraction of second
-        S: function S(date, token) {
-          return _index["default"].S(date, token);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         },
         // Timezone (ISO-8601. If offset is 0, output is always `'Z'`)
         X: function(date, token, _localize, options) {
@@ -47064,21 +46617,13 @@
         t: function(date, token, _localize, options) {
           var originalDate = options._originalDate || date;
           var timestamp = Math.floor(originalDate.getTime() / 1000);
-<<<<<<< HEAD
           return (0, _index7.default)(timestamp, token.length);
-=======
-          return (0, _index7["default"])(timestamp, token.length);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         },
         // Milliseconds timestamp
         T: function(date, token, _localize, options) {
           var originalDate = options._originalDate || date;
           var timestamp = originalDate.getTime();
-<<<<<<< HEAD
           return (0, _index7.default)(timestamp, token.length);
-=======
-          return (0, _index7["default"])(timestamp, token.length);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         }
       };
 
@@ -47094,22 +46639,14 @@
 
         var delimiter = dirtyDelimiter || "";
         return (
-<<<<<<< HEAD
           sign + String(hours) + delimiter + (0, _index7.default)(minutes, 2)
-=======
-          sign + String(hours) + delimiter + (0, _index7["default"])(minutes, 2)
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         );
       }
 
       function formatTimezoneWithOptionalMinutes(offset, dirtyDelimiter) {
         if (offset % 60 === 0) {
           var sign = offset > 0 ? "-" : "+";
-<<<<<<< HEAD
           return sign + (0, _index7.default)(Math.abs(offset) / 60, 2);
-=======
-          return sign + (0, _index7["default"])(Math.abs(offset) / 60, 2);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         }
 
         return formatTimezone(offset, dirtyDelimiter);
@@ -47119,22 +46656,13 @@
         var delimiter = dirtyDelimiter || "";
         var sign = offset > 0 ? "-" : "+";
         var absOffset = Math.abs(offset);
-<<<<<<< HEAD
         var hours = (0, _index7.default)(Math.floor(absOffset / 60), 2);
         var minutes = (0, _index7.default)(absOffset % 60, 2);
-=======
-        var hours = (0, _index7["default"])(Math.floor(absOffset / 60), 2);
-        var minutes = (0, _index7["default"])(absOffset % 60, 2);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         return sign + hours + delimiter + minutes;
       }
 
       var _default = formatters;
-<<<<<<< HEAD
       exports.default = _default;
-=======
-      exports["default"] = _default;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
       module.exports = exports.default;
 
       /***/
@@ -47146,11 +46674,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = void 0;
-=======
-      exports["default"] = void 0;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       var _index = _interopRequireDefault(__webpack_require__(562));
 
@@ -47184,11 +46708,7 @@
           var signedYear = date.getUTCFullYear(); // Returns 1 for 1 BC (which is year 0 in JavaScript)
 
           var year = signedYear > 0 ? signedYear : 1 - signedYear;
-<<<<<<< HEAD
           return (0, _index.default)(
-=======
-          return (0, _index["default"])(
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
             token === "yy" ? year % 100 : year,
             token.length
           );
@@ -47198,19 +46718,11 @@
           var month = date.getUTCMonth();
           return token === "M"
             ? String(month + 1)
-<<<<<<< HEAD
             : (0, _index.default)(month + 1, 2);
         },
         // Day of the month
         d: function(date, token) {
           return (0, _index.default)(date.getUTCDate(), token.length);
-=======
-            : (0, _index["default"])(month + 1, 2);
-        },
-        // Day of the month
-        d: function d(date, token) {
-          return (0, _index["default"])(date.getUTCDate(), token.length);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         },
         // AM or PM
         a: function(date, token) {
@@ -47231,19 +46743,13 @@
           }
         },
         // Hour [1-12]
-<<<<<<< HEAD
         h: function(date, token) {
           return (0, _index.default)(
-=======
-        h: function h(date, token) {
-          return (0, _index["default"])(
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
             date.getUTCHours() % 12 || 12,
             token.length
           );
         },
         // Hour [0-23]
-<<<<<<< HEAD
         H: function(date, token) {
           return (0, _index.default)(date.getUTCHours(), token.length);
         },
@@ -47257,39 +46763,16 @@
         },
         // Fraction of second
         S: function(date, token) {
-=======
-        H: function H(date, token) {
-          return (0, _index["default"])(date.getUTCHours(), token.length);
-        },
-        // Minute
-        m: function m(date, token) {
-          return (0, _index["default"])(date.getUTCMinutes(), token.length);
-        },
-        // Second
-        s: function s(date, token) {
-          return (0, _index["default"])(date.getUTCSeconds(), token.length);
-        },
-        // Fraction of second
-        S: function S(date, token) {
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
           var numberOfDigits = token.length;
           var milliseconds = date.getUTCMilliseconds();
           var fractionalSeconds = Math.floor(
             milliseconds * Math.pow(10, numberOfDigits - 3)
           );
-<<<<<<< HEAD
           return (0, _index.default)(fractionalSeconds, token.length);
         }
       };
       var _default = formatters;
       exports.default = _default;
-=======
-          return (0, _index["default"])(fractionalSeconds, token.length);
-        }
-      };
-      var _default = formatters;
-      exports["default"] = _default;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
       module.exports = exports.default;
 
       /***/
@@ -47301,11 +46784,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = addLeadingZeros;
-=======
-      exports["default"] = addLeadingZeros;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       function addLeadingZeros(number, targetLength) {
         var sign = number < 0 ? "-" : "";
@@ -47329,7 +46808,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-      exports["default"] = getUTCDayOfYear;
+      exports.default = getUTCDayOfYear;
 
       var _index = _interopRequireDefault(__webpack_require__(545));
 
@@ -47347,11 +46826,7 @@
           );
         }
 
-<<<<<<< HEAD
         var date = (0, _index.default)(dirtyDate);
-=======
-        var date = (0, _index["default"])(dirtyDate);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         var timestamp = date.getTime();
         date.setUTCMonth(0, 1);
         date.setUTCHours(0, 0, 0, 0);
@@ -47371,11 +46846,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = getUTCISOWeek;
-=======
-      exports["default"] = getUTCISOWeek;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       var _index = _interopRequireDefault(__webpack_require__(545));
 
@@ -47397,17 +46868,10 @@
           );
         }
 
-<<<<<<< HEAD
         var date = (0, _index.default)(dirtyDate);
         var diff =
           (0, _index2.default)(date).getTime() -
           (0, _index3.default)(date).getTime(); // Round the number of days to the nearest integer
-=======
-        var date = (0, _index["default"])(dirtyDate);
-        var diff =
-          (0, _index2["default"])(date).getTime() -
-          (0, _index3["default"])(date).getTime(); // Round the number of days to the nearest integer
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         // because the number of milliseconds in a week is not constant
         // (e.g. it's different in the week of the daylight saving time clock shift)
 
@@ -47425,11 +46889,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = startOfUTCISOWeek;
-=======
-      exports["default"] = startOfUTCISOWeek;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       var _index = _interopRequireDefault(__webpack_require__(545));
 
@@ -47447,11 +46907,7 @@
         }
 
         var weekStartsOn = 1;
-<<<<<<< HEAD
         var date = (0, _index.default)(dirtyDate);
-=======
-        var date = (0, _index["default"])(dirtyDate);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         var day = date.getUTCDay();
         var diff = (day < weekStartsOn ? 7 : 0) + day - weekStartsOn;
         date.setUTCDate(date.getUTCDate() - diff);
@@ -47470,7 +46926,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-      exports["default"] = startOfUTCISOWeekYear;
+      exports.default = startOfUTCISOWeekYear;
 
       var _index = _interopRequireDefault(__webpack_require__(567));
 
@@ -47489,19 +46945,11 @@
           );
         }
 
-<<<<<<< HEAD
         var year = (0, _index.default)(dirtyDate);
         var fourthOfJanuary = new Date(0);
         fourthOfJanuary.setUTCFullYear(year, 0, 4);
         fourthOfJanuary.setUTCHours(0, 0, 0, 0);
         var date = (0, _index2.default)(fourthOfJanuary);
-=======
-        var year = (0, _index["default"])(dirtyDate);
-        var fourthOfJanuary = new Date(0);
-        fourthOfJanuary.setUTCFullYear(year, 0, 4);
-        fourthOfJanuary.setUTCHours(0, 0, 0, 0);
-        var date = (0, _index2["default"])(fourthOfJanuary);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         return date;
       }
 
@@ -47516,11 +46964,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = getUTCISOWeekYear;
-=======
-      exports["default"] = getUTCISOWeekYear;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       var _index = _interopRequireDefault(__webpack_require__(545));
 
@@ -47539,32 +46983,16 @@
           );
         }
 
-<<<<<<< HEAD
         var date = (0, _index.default)(dirtyDate);
-=======
-        var date = (0, _index["default"])(dirtyDate);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         var year = date.getUTCFullYear();
         var fourthOfJanuaryOfNextYear = new Date(0);
         fourthOfJanuaryOfNextYear.setUTCFullYear(year + 1, 0, 4);
         fourthOfJanuaryOfNextYear.setUTCHours(0, 0, 0, 0);
-<<<<<<< HEAD
         var startOfNextYear = (0, _index2.default)(fourthOfJanuaryOfNextYear);
         var fourthOfJanuaryOfThisYear = new Date(0);
         fourthOfJanuaryOfThisYear.setUTCFullYear(year, 0, 4);
         fourthOfJanuaryOfThisYear.setUTCHours(0, 0, 0, 0);
         var startOfThisYear = (0, _index2.default)(fourthOfJanuaryOfThisYear);
-=======
-        var startOfNextYear = (0, _index2["default"])(
-          fourthOfJanuaryOfNextYear
-        );
-        var fourthOfJanuaryOfThisYear = new Date(0);
-        fourthOfJanuaryOfThisYear.setUTCFullYear(year, 0, 4);
-        fourthOfJanuaryOfThisYear.setUTCHours(0, 0, 0, 0);
-        var startOfThisYear = (0, _index2["default"])(
-          fourthOfJanuaryOfThisYear
-        );
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
         if (date.getTime() >= startOfNextYear.getTime()) {
           return year + 1;
@@ -47586,7 +47014,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-      exports["default"] = getUTCWeek;
+      exports.default = getUTCWeek;
 
       var _index = _interopRequireDefault(__webpack_require__(545));
 
@@ -47608,17 +47036,10 @@
           );
         }
 
-<<<<<<< HEAD
         var date = (0, _index.default)(dirtyDate);
         var diff =
           (0, _index2.default)(date, options).getTime() -
           (0, _index3.default)(date, options).getTime(); // Round the number of days to the nearest integer
-=======
-        var date = (0, _index["default"])(dirtyDate);
-        var diff =
-          (0, _index2["default"])(date, options).getTime() -
-          (0, _index3["default"])(date, options).getTime(); // Round the number of days to the nearest integer
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         // because the number of milliseconds in a week is not constant
         // (e.g. it's different in the week of the daylight saving time clock shift)
 
@@ -47636,7 +47057,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-      exports["default"] = startOfUTCWeek;
+      exports.default = startOfUTCWeek;
 
       var _index = _interopRequireDefault(__webpack_require__(558));
 
@@ -47662,19 +47083,11 @@
         var defaultWeekStartsOn =
           localeWeekStartsOn == null
             ? 0
-<<<<<<< HEAD
             : (0, _index.default)(localeWeekStartsOn);
         var weekStartsOn =
           options.weekStartsOn == null
             ? defaultWeekStartsOn
             : (0, _index.default)(options.weekStartsOn); // Test if weekStartsOn is between 0 and 6 _and_ is not NaN
-=======
-            : (0, _index["default"])(localeWeekStartsOn);
-        var weekStartsOn =
-          options.weekStartsOn == null
-            ? defaultWeekStartsOn
-            : (0, _index["default"])(options.weekStartsOn); // Test if weekStartsOn is between 0 and 6 _and_ is not NaN
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
         if (!(weekStartsOn >= 0 && weekStartsOn <= 6)) {
           throw new RangeError(
@@ -47682,11 +47095,7 @@
           );
         }
 
-<<<<<<< HEAD
         var date = (0, _index2.default)(dirtyDate);
-=======
-        var date = (0, _index2["default"])(dirtyDate);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         var day = date.getUTCDay();
         var diff = (day < weekStartsOn ? 7 : 0) + day - weekStartsOn;
         date.setUTCDate(date.getUTCDate() - diff);
@@ -47705,18 +47114,12 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-      exports["default"] = startOfUTCWeekYear;
+      exports.default = startOfUTCWeekYear;
 
       var _index = _interopRequireDefault(__webpack_require__(558));
-<<<<<<< HEAD
 
       var _index2 = _interopRequireDefault(__webpack_require__(571));
 
-=======
-
-      var _index2 = _interopRequireDefault(__webpack_require__(571));
-
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
       var _index3 = _interopRequireDefault(__webpack_require__(569));
 
       function _interopRequireDefault(obj) {
@@ -47739,7 +47142,6 @@
         var defaultFirstWeekContainsDate =
           localeFirstWeekContainsDate == null
             ? 1
-<<<<<<< HEAD
             : (0, _index.default)(localeFirstWeekContainsDate);
         var firstWeekContainsDate =
           options.firstWeekContainsDate == null
@@ -47750,18 +47152,6 @@
         firstWeek.setUTCFullYear(year, 0, firstWeekContainsDate);
         firstWeek.setUTCHours(0, 0, 0, 0);
         var date = (0, _index3.default)(firstWeek, dirtyOptions);
-=======
-            : (0, _index["default"])(localeFirstWeekContainsDate);
-        var firstWeekContainsDate =
-          options.firstWeekContainsDate == null
-            ? defaultFirstWeekContainsDate
-            : (0, _index["default"])(options.firstWeekContainsDate);
-        var year = (0, _index2["default"])(dirtyDate, dirtyOptions);
-        var firstWeek = new Date(0);
-        firstWeek.setUTCFullYear(year, 0, firstWeekContainsDate);
-        firstWeek.setUTCHours(0, 0, 0, 0);
-        var date = (0, _index3["default"])(firstWeek, dirtyOptions);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         return date;
       }
 
@@ -47776,18 +47166,12 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-      exports["default"] = getUTCWeekYear;
+      exports.default = getUTCWeekYear;
 
       var _index = _interopRequireDefault(__webpack_require__(558));
-<<<<<<< HEAD
 
       var _index2 = _interopRequireDefault(__webpack_require__(545));
 
-=======
-
-      var _index2 = _interopRequireDefault(__webpack_require__(545));
-
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
       var _index3 = _interopRequireDefault(__webpack_require__(569));
 
       function _interopRequireDefault(obj) {
@@ -47803,11 +47187,7 @@
           );
         }
 
-<<<<<<< HEAD
         var date = (0, _index2.default)(dirtyDate, dirtyOptions);
-=======
-        var date = (0, _index2["default"])(dirtyDate, dirtyOptions);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         var year = date.getUTCFullYear();
         var options = dirtyOptions || {};
         var locale = options.locale;
@@ -47816,19 +47196,11 @@
         var defaultFirstWeekContainsDate =
           localeFirstWeekContainsDate == null
             ? 1
-<<<<<<< HEAD
             : (0, _index.default)(localeFirstWeekContainsDate);
         var firstWeekContainsDate =
           options.firstWeekContainsDate == null
             ? defaultFirstWeekContainsDate
             : (0, _index.default)(options.firstWeekContainsDate); // Test if weekStartsOn is between 1 and 7 _and_ is not NaN
-=======
-            : (0, _index["default"])(localeFirstWeekContainsDate);
-        var firstWeekContainsDate =
-          options.firstWeekContainsDate == null
-            ? defaultFirstWeekContainsDate
-            : (0, _index["default"])(options.firstWeekContainsDate); // Test if weekStartsOn is between 1 and 7 _and_ is not NaN
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
         if (!(firstWeekContainsDate >= 1 && firstWeekContainsDate <= 7)) {
           throw new RangeError(
@@ -47839,22 +47211,14 @@
         var firstWeekOfNextYear = new Date(0);
         firstWeekOfNextYear.setUTCFullYear(year + 1, 0, firstWeekContainsDate);
         firstWeekOfNextYear.setUTCHours(0, 0, 0, 0);
-<<<<<<< HEAD
         var startOfNextYear = (0, _index3.default)(
-=======
-        var startOfNextYear = (0, _index3["default"])(
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
           firstWeekOfNextYear,
           dirtyOptions
         );
         var firstWeekOfThisYear = new Date(0);
         firstWeekOfThisYear.setUTCFullYear(year, 0, firstWeekContainsDate);
         firstWeekOfThisYear.setUTCHours(0, 0, 0, 0);
-<<<<<<< HEAD
         var startOfThisYear = (0, _index3.default)(
-=======
-        var startOfThisYear = (0, _index3["default"])(
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
           firstWeekOfThisYear,
           dirtyOptions
         );
@@ -47879,11 +47243,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = void 0;
-=======
-      exports["default"] = void 0;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       function dateLongFormatter(pattern, formatLong) {
         switch (pattern) {
@@ -47983,11 +47343,7 @@
         P: dateTimeLongFormatter
       };
       var _default = longFormatters;
-<<<<<<< HEAD
       exports.default = _default;
-=======
-      exports["default"] = _default;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
       module.exports = exports.default;
 
       /***/
@@ -47999,11 +47355,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = getTimezoneOffsetInMilliseconds;
-=======
-      exports["default"] = getTimezoneOffsetInMilliseconds;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
       var MILLISECONDS_IN_MINUTE = 60000;
       /**
        * Google Chrome as of 67.0.3396.87 introduced timezones with offset that includes seconds.
@@ -48083,11 +47435,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = addMinutes;
-=======
-      exports["default"] = addMinutes;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       var _index = _interopRequireDefault(__webpack_require__(558));
 
@@ -48128,16 +47476,8 @@
           );
         }
 
-<<<<<<< HEAD
         var amount = (0, _index.default)(dirtyAmount);
         return (0, _index2.default)(dirtyDate, amount * MILLISECONDS_IN_MINUTE);
-=======
-        var amount = (0, _index["default"])(dirtyAmount);
-        return (0, _index2["default"])(
-          dirtyDate,
-          amount * MILLISECONDS_IN_MINUTE
-        );
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
       }
 
       module.exports = exports.default;
@@ -48151,11 +47491,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = addHours;
-=======
-      exports["default"] = addHours;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       var _index = _interopRequireDefault(__webpack_require__(558));
 
@@ -48196,16 +47532,8 @@
           );
         }
 
-<<<<<<< HEAD
         var amount = (0, _index.default)(dirtyAmount);
         return (0, _index2.default)(dirtyDate, amount * MILLISECONDS_IN_HOUR);
-=======
-        var amount = (0, _index["default"])(dirtyAmount);
-        return (0, _index2["default"])(
-          dirtyDate,
-          amount * MILLISECONDS_IN_HOUR
-        );
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
       }
 
       module.exports = exports.default;
@@ -48219,17 +47547,10 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = addDays;
 
       var _index = _interopRequireDefault(__webpack_require__(558));
 
-=======
-      exports["default"] = addDays;
-
-      var _index = _interopRequireDefault(__webpack_require__(558));
-
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
       var _index2 = _interopRequireDefault(__webpack_require__(545));
 
       function _interopRequireDefault(obj) {
@@ -48265,13 +47586,8 @@
           );
         }
 
-<<<<<<< HEAD
         var date = (0, _index2.default)(dirtyDate);
         var amount = (0, _index.default)(dirtyAmount);
-=======
-        var date = (0, _index2["default"])(dirtyDate);
-        var amount = (0, _index["default"])(dirtyAmount);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         date.setDate(date.getDate() + amount);
         return date;
       }
@@ -48287,11 +47603,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = addWeeks;
-=======
-      exports["default"] = addWeeks;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       var _index = _interopRequireDefault(__webpack_require__(558));
 
@@ -48330,15 +47642,9 @@
           );
         }
 
-<<<<<<< HEAD
         var amount = (0, _index.default)(dirtyAmount);
         var days = amount * 7;
         return (0, _index2.default)(dirtyDate, days);
-=======
-        var amount = (0, _index["default"])(dirtyAmount);
-        var days = amount * 7;
-        return (0, _index2["default"])(dirtyDate, days);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
       }
 
       module.exports = exports.default;
@@ -48352,11 +47658,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = addMonths;
-=======
-      exports["default"] = addMonths;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       var _index = _interopRequireDefault(__webpack_require__(558));
 
@@ -48397,22 +47699,13 @@
           );
         }
 
-<<<<<<< HEAD
         var date = (0, _index2.default)(dirtyDate);
         var amount = (0, _index.default)(dirtyAmount);
-=======
-        var date = (0, _index2["default"])(dirtyDate);
-        var amount = (0, _index["default"])(dirtyAmount);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         var desiredMonth = date.getMonth() + amount;
         var dateWithDesiredMonth = new Date(0);
         dateWithDesiredMonth.setFullYear(date.getFullYear(), desiredMonth, 1);
         dateWithDesiredMonth.setHours(0, 0, 0, 0);
-<<<<<<< HEAD
         var daysInMonth = (0, _index3.default)(dateWithDesiredMonth); // Set the last day of the new month
-=======
-        var daysInMonth = (0, _index3["default"])(dateWithDesiredMonth); // Set the last day of the new month
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         // if the original date was the last day of the longer month
 
         date.setMonth(desiredMonth, Math.min(daysInMonth, date.getDate()));
@@ -48430,7 +47723,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-      exports["default"] = getDaysInMonth;
+      exports.default = getDaysInMonth;
 
       var _index = _interopRequireDefault(__webpack_require__(545));
 
@@ -48466,11 +47759,7 @@
           );
         }
 
-<<<<<<< HEAD
         var date = (0, _index.default)(dirtyDate);
-=======
-        var date = (0, _index["default"])(dirtyDate);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         var year = date.getFullYear();
         var monthIndex = date.getMonth();
         var lastDayOfMonth = new Date(0);
@@ -48490,7 +47779,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-      exports["default"] = addYears;
+      exports.default = addYears;
 
       var _index = _interopRequireDefault(__webpack_require__(558));
 
@@ -48529,13 +47818,8 @@
           );
         }
 
-<<<<<<< HEAD
         var amount = (0, _index.default)(dirtyAmount);
         return (0, _index2.default)(dirtyDate, amount * 12);
-=======
-        var amount = (0, _index["default"])(dirtyAmount);
-        return (0, _index2["default"])(dirtyDate, amount * 12);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
       }
 
       module.exports = exports.default;
@@ -48549,7 +47833,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-      exports["default"] = subMinutes;
+      exports.default = subMinutes;
 
       var _index = _interopRequireDefault(__webpack_require__(558));
 
@@ -48588,13 +47872,8 @@
           );
         }
 
-<<<<<<< HEAD
         var amount = (0, _index.default)(dirtyAmount);
         return (0, _index2.default)(dirtyDate, -amount);
-=======
-        var amount = (0, _index["default"])(dirtyAmount);
-        return (0, _index2["default"])(dirtyDate, -amount);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
       }
 
       module.exports = exports.default;
@@ -48608,7 +47887,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-      exports["default"] = subHours;
+      exports.default = subHours;
 
       var _index = _interopRequireDefault(__webpack_require__(558));
 
@@ -48647,13 +47926,8 @@
           );
         }
 
-<<<<<<< HEAD
         var amount = (0, _index.default)(dirtyAmount);
         return (0, _index2.default)(dirtyDate, -amount);
-=======
-        var amount = (0, _index["default"])(dirtyAmount);
-        return (0, _index2["default"])(dirtyDate, -amount);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
       }
 
       module.exports = exports.default;
@@ -48667,7 +47941,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-      exports["default"] = subDays;
+      exports.default = subDays;
 
       var _index = _interopRequireDefault(__webpack_require__(558));
 
@@ -48706,13 +47980,8 @@
           );
         }
 
-<<<<<<< HEAD
         var amount = (0, _index.default)(dirtyAmount);
         return (0, _index2.default)(dirtyDate, -amount);
-=======
-        var amount = (0, _index["default"])(dirtyAmount);
-        return (0, _index2["default"])(dirtyDate, -amount);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
       }
 
       module.exports = exports.default;
@@ -48726,7 +47995,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-      exports["default"] = subWeeks;
+      exports.default = subWeeks;
 
       var _index = _interopRequireDefault(__webpack_require__(558));
 
@@ -48765,13 +48034,8 @@
           );
         }
 
-<<<<<<< HEAD
         var amount = (0, _index.default)(dirtyAmount);
         return (0, _index2.default)(dirtyDate, -amount);
-=======
-        var amount = (0, _index["default"])(dirtyAmount);
-        return (0, _index2["default"])(dirtyDate, -amount);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
       }
 
       module.exports = exports.default;
@@ -48785,17 +48049,10 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = subMonths;
 
       var _index = _interopRequireDefault(__webpack_require__(558));
 
-=======
-      exports["default"] = subMonths;
-
-      var _index = _interopRequireDefault(__webpack_require__(558));
-
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
       var _index2 = _interopRequireDefault(__webpack_require__(579));
 
       function _interopRequireDefault(obj) {
@@ -48831,13 +48088,8 @@
           );
         }
 
-<<<<<<< HEAD
         var amount = (0, _index.default)(dirtyAmount);
         return (0, _index2.default)(dirtyDate, -amount);
-=======
-        var amount = (0, _index["default"])(dirtyAmount);
-        return (0, _index2["default"])(dirtyDate, -amount);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
       }
 
       module.exports = exports.default;
@@ -48851,11 +48103,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = subYears;
-=======
-      exports["default"] = subYears;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       var _index = _interopRequireDefault(__webpack_require__(558));
 
@@ -48894,13 +48142,8 @@
           );
         }
 
-<<<<<<< HEAD
         var amount = (0, _index.default)(dirtyAmount);
         return (0, _index2.default)(dirtyDate, -amount);
-=======
-        var amount = (0, _index["default"])(dirtyAmount);
-        return (0, _index2["default"])(dirtyDate, -amount);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
       }
 
       module.exports = exports.default;
@@ -48914,11 +48157,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = getSeconds;
-=======
-      exports["default"] = getSeconds;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       var _index = _interopRequireDefault(__webpack_require__(545));
 
@@ -48954,11 +48193,7 @@
           );
         }
 
-<<<<<<< HEAD
         var date = (0, _index.default)(dirtyDate);
-=======
-        var date = (0, _index["default"])(dirtyDate);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         var seconds = date.getSeconds();
         return seconds;
       }
@@ -48974,11 +48209,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = getMinutes;
-=======
-      exports["default"] = getMinutes;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       var _index = _interopRequireDefault(__webpack_require__(545));
 
@@ -49014,11 +48245,7 @@
           );
         }
 
-<<<<<<< HEAD
         var date = (0, _index.default)(dirtyDate);
-=======
-        var date = (0, _index["default"])(dirtyDate);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         var minutes = date.getMinutes();
         return minutes;
       }
@@ -49034,11 +48261,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = getHours;
-=======
-      exports["default"] = getHours;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       var _index = _interopRequireDefault(__webpack_require__(545));
 
@@ -49074,11 +48297,7 @@
           );
         }
 
-<<<<<<< HEAD
         var date = (0, _index.default)(dirtyDate);
-=======
-        var date = (0, _index["default"])(dirtyDate);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         var hours = date.getHours();
         return hours;
       }
@@ -49094,11 +48313,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = getDay;
-=======
-      exports["default"] = getDay;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       var _index = _interopRequireDefault(__webpack_require__(545));
 
@@ -49134,11 +48349,7 @@
           );
         }
 
-<<<<<<< HEAD
         var date = (0, _index.default)(dirtyDate);
-=======
-        var date = (0, _index["default"])(dirtyDate);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         var day = date.getDay();
         return day;
       }
@@ -49154,11 +48365,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = getDate;
-=======
-      exports["default"] = getDate;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       var _index = _interopRequireDefault(__webpack_require__(545));
 
@@ -49194,11 +48401,7 @@
           );
         }
 
-<<<<<<< HEAD
         var date = (0, _index.default)(dirtyDate);
-=======
-        var date = (0, _index["default"])(dirtyDate);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         var dayOfMonth = date.getDate();
         return dayOfMonth;
       }
@@ -49214,11 +48417,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = getMonth;
-=======
-      exports["default"] = getMonth;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       var _index = _interopRequireDefault(__webpack_require__(545));
 
@@ -49254,11 +48453,7 @@
           );
         }
 
-<<<<<<< HEAD
         var date = (0, _index.default)(dirtyDate);
-=======
-        var date = (0, _index["default"])(dirtyDate);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         var month = date.getMonth();
         return month;
       }
@@ -49274,11 +48469,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = getYear;
-=======
-      exports["default"] = getYear;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       var _index = _interopRequireDefault(__webpack_require__(545));
 
@@ -49314,11 +48505,7 @@
           );
         }
 
-<<<<<<< HEAD
         var date = (0, _index.default)(dirtyDate);
-=======
-        var date = (0, _index["default"])(dirtyDate);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         var year = date.getFullYear();
         return year;
       }
@@ -49334,7 +48521,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-      exports["default"] = getTime;
+      exports.default = getTime;
 
       var _index = _interopRequireDefault(__webpack_require__(545));
 
@@ -49370,11 +48557,7 @@
           );
         }
 
-<<<<<<< HEAD
         var date = (0, _index.default)(dirtyDate);
-=======
-        var date = (0, _index["default"])(dirtyDate);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         var timestamp = date.getTime();
         return timestamp;
       }
@@ -49390,11 +48573,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = setSeconds;
-=======
-      exports["default"] = setSeconds;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       var _index = _interopRequireDefault(__webpack_require__(558));
 
@@ -49433,13 +48612,8 @@
           );
         }
 
-<<<<<<< HEAD
         var date = (0, _index2.default)(dirtyDate);
         var seconds = (0, _index.default)(dirtySeconds);
-=======
-        var date = (0, _index2["default"])(dirtyDate);
-        var seconds = (0, _index["default"])(dirtySeconds);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         date.setSeconds(seconds);
         return date;
       }
@@ -49455,11 +48629,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = setMinutes;
-=======
-      exports["default"] = setMinutes;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       var _index = _interopRequireDefault(__webpack_require__(558));
 
@@ -49498,13 +48668,8 @@
           );
         }
 
-<<<<<<< HEAD
         var date = (0, _index2.default)(dirtyDate);
         var minutes = (0, _index.default)(dirtyMinutes);
-=======
-        var date = (0, _index2["default"])(dirtyDate);
-        var minutes = (0, _index["default"])(dirtyMinutes);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         date.setMinutes(minutes);
         return date;
       }
@@ -49520,17 +48685,10 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = setHours;
 
       var _index = _interopRequireDefault(__webpack_require__(558));
 
-=======
-      exports["default"] = setHours;
-
-      var _index = _interopRequireDefault(__webpack_require__(558));
-
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
       var _index2 = _interopRequireDefault(__webpack_require__(545));
 
       function _interopRequireDefault(obj) {
@@ -49566,13 +48724,8 @@
           );
         }
 
-<<<<<<< HEAD
         var date = (0, _index2.default)(dirtyDate);
         var hours = (0, _index.default)(dirtyHours);
-=======
-        var date = (0, _index2["default"])(dirtyDate);
-        var hours = (0, _index["default"])(dirtyHours);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         date.setHours(hours);
         return date;
       }
@@ -49588,11 +48741,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = setMonth;
-=======
-      exports["default"] = setMonth;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       var _index = _interopRequireDefault(__webpack_require__(558));
 
@@ -49633,23 +48782,14 @@
           );
         }
 
-<<<<<<< HEAD
         var date = (0, _index2.default)(dirtyDate);
         var month = (0, _index.default)(dirtyMonth);
-=======
-        var date = (0, _index2["default"])(dirtyDate);
-        var month = (0, _index["default"])(dirtyMonth);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         var year = date.getFullYear();
         var day = date.getDate();
         var dateWithDesiredMonth = new Date(0);
         dateWithDesiredMonth.setFullYear(year, month, 15);
         dateWithDesiredMonth.setHours(0, 0, 0, 0);
-<<<<<<< HEAD
         var daysInMonth = (0, _index3.default)(dateWithDesiredMonth); // Set the last day of the new month
-=======
-        var daysInMonth = (0, _index3["default"])(dateWithDesiredMonth); // Set the last day of the new month
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         // if the original date was the last day of the longer month
 
         date.setMonth(month, Math.min(day, daysInMonth));
@@ -49667,11 +48807,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = setYear;
-=======
-      exports["default"] = setYear;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       var _index = _interopRequireDefault(__webpack_require__(558));
 
@@ -49710,13 +48846,8 @@
           );
         }
 
-<<<<<<< HEAD
         var date = (0, _index2.default)(dirtyDate);
         var year = (0, _index.default)(dirtyYear); // Check if date is Invalid Date because Date.prototype.setFullYear ignores the value of Invalid Date
-=======
-        var date = (0, _index2["default"])(dirtyDate);
-        var year = (0, _index["default"])(dirtyYear); // Check if date is Invalid Date because Date.prototype.setFullYear ignores the value of Invalid Date
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
         if (isNaN(date)) {
           return new Date(NaN);
@@ -49737,7 +48868,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-      exports["default"] = min;
+      exports.default = min;
 
       var _index = _interopRequireDefault(__webpack_require__(545));
 
@@ -49803,11 +48934,7 @@
 
         var result;
         datesArray.forEach(function(dirtyDate) {
-<<<<<<< HEAD
           var currentDate = (0, _index.default)(dirtyDate);
-=======
-          var currentDate = (0, _index["default"])(dirtyDate);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
           if (
             result === undefined ||
@@ -49831,7 +48958,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-      exports["default"] = max;
+      exports.default = max;
 
       var _index = _interopRequireDefault(__webpack_require__(545));
 
@@ -49897,11 +49024,7 @@
 
         var result;
         datesArray.forEach(function(dirtyDate) {
-<<<<<<< HEAD
           var currentDate = (0, _index.default)(dirtyDate);
-=======
-          var currentDate = (0, _index["default"])(dirtyDate);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
           if (
             result === undefined ||
@@ -49925,11 +49048,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = differenceInCalendarDays;
-=======
-      exports["default"] = differenceInCalendarDays;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       var _index = _interopRequireDefault(__webpack_require__(573));
 
@@ -49982,21 +49101,12 @@
           );
         }
 
-<<<<<<< HEAD
         var startOfDayLeft = (0, _index2.default)(dirtyDateLeft);
         var startOfDayRight = (0, _index2.default)(dirtyDateRight);
         var timestampLeft =
           startOfDayLeft.getTime() - (0, _index.default)(startOfDayLeft);
         var timestampRight =
           startOfDayRight.getTime() - (0, _index.default)(startOfDayRight); // Round the number of days to the nearest integer
-=======
-        var startOfDayLeft = (0, _index2["default"])(dirtyDateLeft);
-        var startOfDayRight = (0, _index2["default"])(dirtyDateRight);
-        var timestampLeft =
-          startOfDayLeft.getTime() - (0, _index["default"])(startOfDayLeft);
-        var timestampRight =
-          startOfDayRight.getTime() - (0, _index["default"])(startOfDayRight); // Round the number of days to the nearest integer
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         // because the number of milliseconds in a day is not constant
         // (e.g. it's different in the day of the daylight saving time clock shift)
 
@@ -50016,11 +49126,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = startOfDay;
-=======
-      exports["default"] = startOfDay;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       var _index = _interopRequireDefault(__webpack_require__(545));
 
@@ -50057,11 +49163,7 @@
           );
         }
 
-<<<<<<< HEAD
         var date = (0, _index.default)(dirtyDate);
-=======
-        var date = (0, _index["default"])(dirtyDate);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         date.setHours(0, 0, 0, 0);
         return date;
       }
@@ -50077,11 +49179,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = differenceInCalendarMonths;
-=======
-      exports["default"] = differenceInCalendarMonths;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       var _index = _interopRequireDefault(__webpack_require__(545));
 
@@ -50121,13 +49219,8 @@
           );
         }
 
-<<<<<<< HEAD
         var dateLeft = (0, _index.default)(dirtyDateLeft);
         var dateRight = (0, _index.default)(dirtyDateRight);
-=======
-        var dateLeft = (0, _index["default"])(dirtyDateLeft);
-        var dateRight = (0, _index["default"])(dirtyDateRight);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         var yearDiff = dateLeft.getFullYear() - dateRight.getFullYear();
         var monthDiff = dateLeft.getMonth() - dateRight.getMonth();
         return yearDiff * 12 + monthDiff;
@@ -50144,11 +49237,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = differenceInCalendarWeeks;
-=======
-      exports["default"] = differenceInCalendarWeeks;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       var _index = _interopRequireDefault(__webpack_require__(607));
 
@@ -50210,28 +49299,15 @@
           );
         }
 
-<<<<<<< HEAD
         var startOfWeekLeft = (0, _index.default)(dirtyDateLeft, dirtyOptions);
         var startOfWeekRight = (0, _index.default)(
-=======
-        var startOfWeekLeft = (0, _index["default"])(
-          dirtyDateLeft,
-          dirtyOptions
-        );
-        var startOfWeekRight = (0, _index["default"])(
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
           dirtyDateRight,
           dirtyOptions
         );
         var timestampLeft =
-          startOfWeekLeft.getTime() - (0, _index2["default"])(startOfWeekLeft);
+          startOfWeekLeft.getTime() - (0, _index2.default)(startOfWeekLeft);
         var timestampRight =
-<<<<<<< HEAD
           startOfWeekRight.getTime() - (0, _index2.default)(startOfWeekRight); // Round the number of days to the nearest integer
-=======
-          startOfWeekRight.getTime() -
-          (0, _index2["default"])(startOfWeekRight); // Round the number of days to the nearest integer
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         // because the number of milliseconds in a week is not constant
         // (e.g. it's different in the week of the daylight saving time clock shift)
 
@@ -50251,7 +49327,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-      exports["default"] = startOfWeek;
+      exports.default = startOfWeek;
 
       var _index = _interopRequireDefault(__webpack_require__(545));
 
@@ -50306,15 +49382,11 @@
         var defaultWeekStartsOn =
           localeWeekStartsOn == null
             ? 0
-            : (0, _index2["default"])(localeWeekStartsOn);
+            : (0, _index2.default)(localeWeekStartsOn);
         var weekStartsOn =
           options.weekStartsOn == null
             ? defaultWeekStartsOn
-<<<<<<< HEAD
             : (0, _index2.default)(options.weekStartsOn); // Test if weekStartsOn is between 0 and 6 _and_ is not NaN
-=======
-            : (0, _index2["default"])(options.weekStartsOn); // Test if weekStartsOn is between 0 and 6 _and_ is not NaN
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
         if (!(weekStartsOn >= 0 && weekStartsOn <= 6)) {
           throw new RangeError(
@@ -50322,11 +49394,7 @@
           );
         }
 
-<<<<<<< HEAD
         var date = (0, _index.default)(dirtyDate);
-=======
-        var date = (0, _index["default"])(dirtyDate);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         var day = date.getDay();
         var diff = (day < weekStartsOn ? 7 : 0) + day - weekStartsOn;
         date.setDate(date.getDate() - diff);
@@ -50345,7 +49413,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-      exports["default"] = setDayOfYear;
+      exports.default = setDayOfYear;
 
       var _index = _interopRequireDefault(__webpack_require__(558));
 
@@ -50384,13 +49452,8 @@
           );
         }
 
-<<<<<<< HEAD
         var date = (0, _index2.default)(dirtyDate);
         var dayOfYear = (0, _index.default)(dirtyDayOfYear);
-=======
-        var date = (0, _index2["default"])(dirtyDate);
-        var dayOfYear = (0, _index["default"])(dirtyDayOfYear);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         date.setMonth(0);
         date.setDate(dayOfYear);
         return date;
@@ -50407,11 +49470,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = startOfMonth;
-=======
-      exports["default"] = startOfMonth;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       var _index = _interopRequireDefault(__webpack_require__(545));
 
@@ -50448,11 +49507,7 @@
           );
         }
 
-<<<<<<< HEAD
         var date = (0, _index.default)(dirtyDate);
-=======
-        var date = (0, _index["default"])(dirtyDate);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         date.setDate(1);
         date.setHours(0, 0, 0, 0);
         return date;
@@ -50469,11 +49524,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = startOfYear;
-=======
-      exports["default"] = startOfYear;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       var _index = _interopRequireDefault(__webpack_require__(545));
 
@@ -50510,11 +49561,7 @@
           );
         }
 
-<<<<<<< HEAD
         var cleanDate = (0, _index.default)(dirtyDate);
-=======
-        var cleanDate = (0, _index["default"])(dirtyDate);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         var date = new Date(0);
         date.setFullYear(cleanDate.getFullYear(), 0, 1);
         date.setHours(0, 0, 0, 0);
@@ -50532,11 +49579,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = endOfWeek;
-=======
-      exports["default"] = endOfWeek;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       var _index = _interopRequireDefault(__webpack_require__(545));
 
@@ -50591,15 +49634,11 @@
         var defaultWeekStartsOn =
           localeWeekStartsOn == null
             ? 0
-            : (0, _index2["default"])(localeWeekStartsOn);
+            : (0, _index2.default)(localeWeekStartsOn);
         var weekStartsOn =
           options.weekStartsOn == null
             ? defaultWeekStartsOn
-<<<<<<< HEAD
             : (0, _index2.default)(options.weekStartsOn); // Test if weekStartsOn is between 0 and 6 _and_ is not NaN
-=======
-            : (0, _index2["default"])(options.weekStartsOn); // Test if weekStartsOn is between 0 and 6 _and_ is not NaN
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
         if (!(weekStartsOn >= 0 && weekStartsOn <= 6)) {
           throw new RangeError(
@@ -50607,11 +49646,7 @@
           );
         }
 
-<<<<<<< HEAD
         var date = (0, _index.default)(dirtyDate);
-=======
-        var date = (0, _index["default"])(dirtyDate);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         var day = date.getDay();
         var diff = (day < weekStartsOn ? -7 : 0) + 6 - (day - weekStartsOn);
         date.setDate(date.getDate() + diff);
@@ -50630,11 +49665,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = endOfMonth;
-=======
-      exports["default"] = endOfMonth;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       var _index = _interopRequireDefault(__webpack_require__(545));
 
@@ -50671,11 +49702,7 @@
           );
         }
 
-<<<<<<< HEAD
         var date = (0, _index.default)(dirtyDate);
-=======
-        var date = (0, _index["default"])(dirtyDate);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         var month = date.getMonth();
         date.setFullYear(date.getFullYear(), month + 1, 0);
         date.setHours(23, 59, 59, 999);
@@ -50693,11 +49720,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = isEqual;
-=======
-      exports["default"] = isEqual;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       var _index = _interopRequireDefault(__webpack_require__(545));
 
@@ -50737,13 +49760,8 @@
           );
         }
 
-<<<<<<< HEAD
         var dateLeft = (0, _index.default)(dirtyLeftDate);
         var dateRight = (0, _index.default)(dirtyRightDate);
-=======
-        var dateLeft = (0, _index["default"])(dirtyLeftDate);
-        var dateRight = (0, _index["default"])(dirtyRightDate);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         return dateLeft.getTime() === dateRight.getTime();
       }
 
@@ -50758,11 +49776,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = isSameDay;
-=======
-      exports["default"] = isSameDay;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       var _index = _interopRequireDefault(__webpack_require__(604));
 
@@ -50799,13 +49813,8 @@
           );
         }
 
-<<<<<<< HEAD
         var dateLeftStartOfDay = (0, _index.default)(dirtyDateLeft);
         var dateRightStartOfDay = (0, _index.default)(dirtyDateRight);
-=======
-        var dateLeftStartOfDay = (0, _index["default"])(dirtyDateLeft);
-        var dateRightStartOfDay = (0, _index["default"])(dirtyDateRight);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         return dateLeftStartOfDay.getTime() === dateRightStartOfDay.getTime();
       }
 
@@ -50820,7 +49829,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-      exports["default"] = isSameMonth;
+      exports.default = isSameMonth;
 
       var _index = _interopRequireDefault(__webpack_require__(545));
 
@@ -50857,13 +49866,8 @@
           );
         }
 
-<<<<<<< HEAD
         var dateLeft = (0, _index.default)(dirtyDateLeft);
         var dateRight = (0, _index.default)(dirtyDateRight);
-=======
-        var dateLeft = (0, _index["default"])(dirtyDateLeft);
-        var dateRight = (0, _index["default"])(dirtyDateRight);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         return (
           dateLeft.getFullYear() === dateRight.getFullYear() &&
           dateLeft.getMonth() === dateRight.getMonth()
@@ -50881,7 +49885,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-      exports["default"] = isSameYear;
+      exports.default = isSameYear;
 
       var _index = _interopRequireDefault(__webpack_require__(545));
 
@@ -50918,13 +49922,8 @@
           );
         }
 
-<<<<<<< HEAD
         var dateLeft = (0, _index.default)(dirtyDateLeft);
         var dateRight = (0, _index.default)(dirtyDateRight);
-=======
-        var dateLeft = (0, _index["default"])(dirtyDateLeft);
-        var dateRight = (0, _index["default"])(dirtyDateRight);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         return dateLeft.getFullYear() === dateRight.getFullYear();
       }
 
@@ -50939,7 +49938,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-      exports["default"] = isAfter;
+      exports.default = isAfter;
 
       var _index = _interopRequireDefault(__webpack_require__(545));
 
@@ -50976,13 +49975,8 @@
           );
         }
 
-<<<<<<< HEAD
         var date = (0, _index.default)(dirtyDate);
         var dateToCompare = (0, _index.default)(dirtyDateToCompare);
-=======
-        var date = (0, _index["default"])(dirtyDate);
-        var dateToCompare = (0, _index["default"])(dirtyDateToCompare);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         return date.getTime() > dateToCompare.getTime();
       }
 
@@ -50997,7 +49991,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-      exports["default"] = isBefore;
+      exports.default = isBefore;
 
       var _index = _interopRequireDefault(__webpack_require__(545));
 
@@ -51034,13 +50028,8 @@
           );
         }
 
-<<<<<<< HEAD
         var date = (0, _index.default)(dirtyDate);
         var dateToCompare = (0, _index.default)(dirtyDateToCompare);
-=======
-        var date = (0, _index["default"])(dirtyDate);
-        var dateToCompare = (0, _index["default"])(dirtyDateToCompare);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         return date.getTime() < dateToCompare.getTime();
       }
 
@@ -51055,11 +50044,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = isWithinInterval;
-=======
-      exports["default"] = isWithinInterval;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       var _index = _interopRequireDefault(__webpack_require__(545));
 
@@ -51140,15 +50125,9 @@
         }
 
         var interval = dirtyInterval || {};
-<<<<<<< HEAD
         var time = (0, _index.default)(dirtyDate).getTime();
         var startTime = (0, _index.default)(interval.start).getTime();
         var endTime = (0, _index.default)(interval.end).getTime(); // Throw an exception if start date is after end date or if any date is `Invalid Date`
-=======
-        var time = (0, _index["default"])(dirtyDate).getTime();
-        var startTime = (0, _index["default"])(interval.start).getTime();
-        var endTime = (0, _index["default"])(interval.end).getTime(); // Throw an exception if start date is after end date or if any date is `Invalid Date`
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
         if (!(startTime <= endTime)) {
           throw new RangeError("Invalid interval");
@@ -51168,25 +50147,25 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-      exports["default"] = parse;
+      exports.default = parse;
 
-      var _index = _interopRequireDefault(__webpack_require__(558));
+      var _index = _interopRequireDefault(__webpack_require__(547));
 
-      var _index2 = _interopRequireDefault(__webpack_require__(621));
+      var _index2 = _interopRequireDefault(__webpack_require__(557));
 
-      var _index3 = _interopRequireDefault(__webpack_require__(573));
+      var _index3 = _interopRequireDefault(__webpack_require__(545));
 
-      var _index4 = _interopRequireDefault(__webpack_require__(545));
+      var _index4 = _interopRequireDefault(__webpack_require__(621));
 
-      var _index5 = _interopRequireDefault(__webpack_require__(557));
+      var _index5 = _interopRequireDefault(__webpack_require__(572));
 
-      var _index6 = _interopRequireDefault(__webpack_require__(547));
+      var _index6 = _interopRequireDefault(__webpack_require__(573));
 
-      var _index7 = _interopRequireDefault(__webpack_require__(622));
+      var _index7 = __webpack_require__(574);
 
-      var _index8 = _interopRequireDefault(__webpack_require__(572));
+      var _index8 = _interopRequireDefault(__webpack_require__(558));
 
-      var _index9 = __webpack_require__(574);
+      var _index9 = _interopRequireDefault(__webpack_require__(622));
 
       function _interopRequireDefault(obj) {
         return obj && obj.__esModule ? obj : { default: obj };
@@ -51229,6 +50208,16 @@
        * Format of the format string is based on Unicode Technical Standard #35:
        * https://www.unicode.org/reports/tr35/tr35-dates.html#Date_Field_Symbol_Table
        * with a few additions (see note 5 below the table).
+       *
+       * Not all tokens are compatible. Combinations that don't make sense or could lead to bugs are prohibited
+       * and will throw `RangeError`. For example usage of 24-hour format token with AM/PM token will throw an exception:
+       *
+       * ```javascript
+       * parse('23 AM', 'HH a', new Date())
+       * //=> RangeError: The format string mustn't contain `HH` and `a` at the same time
+       * ```
+       *
+       * See the compatibility table: https://docs.google.com/spreadsheets/d/e/2PACX-1vQOPU3xUhplll6dyoMmVUXHKl_8CRDs6_ueLmex3SoqwhuolkuN3O05l4rqx5h1dKX8eb46Ul-CCSrq/pubhtml?gid=0&single=true
        *
        * Accepted format string patterns:
        * | Unit                            |Prior| Pattern | Result examples                   | Notes |
@@ -51408,7 +50397,7 @@
        *    | BC 1 |   1 |   0 |
        *    | BC 2 |   2 |  -1 |
        *
-       *    Also `yy` will try to guess the century of two digit year by proximity with `baseDate`:
+       *    Also `yy` will try to guess the century of two digit year by proximity with `backupDate`:
        *
        *    `parse('50', 'yy', new Date(2018, 0, 1)) //=> Sat Jan 01 2050 00:00:00`
        *
@@ -51435,7 +50424,6 @@
        *
        * 6. `YY` and `YYYY` tokens represent week-numbering years but they are often confused with years.
        *    You should enable `options.useAdditionalWeekYearTokens` to use them. See: https://git.io/fxCyr
-<<<<<<< HEAD
        *
        * 7. `D` and `DD` tokens represent days of the year but they are ofthen confused with days of the month.
        *    You should enable `options.useAdditionalDayOfYearTokens` to use them. See: https://git.io/fxCyr
@@ -51443,15 +50431,6 @@
        * 8. `P+` tokens do not have a defined priority since they are merely aliases to other tokens based
        *    on the given locale.
        *
-=======
-       *
-       * 7. `D` and `DD` tokens represent days of the year but they are ofthen confused with days of the month.
-       *    You should enable `options.useAdditionalDayOfYearTokens` to use them. See: https://git.io/fxCyr
-       *
-       * 8. `P+` tokens do not have a defined priority since they are merely aliases to other tokens based
-       *    on the given locale.
-       *
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
        *    using `en-US` locale: `P` => `MM/dd/yyyy`
        *    using `en-US` locale: `p` => `hh:mm a`
        *    using `pt-BR` locale: `P` => `dd/MM/yyyy`
@@ -51461,18 +50440,18 @@
        * Units of an equal priority overwrite each other in the order of appearance.
        *
        * If no values of higher priority are parsed (e.g. when parsing string 'January 1st' without a year),
-       * the values will be taken from 3rd argument `baseDate` which works as a context of parsing.
+       * the values will be taken from 3rd argument `backupDate` which works as a context of parsing.
        *
-       * `baseDate` must be passed for correct work of the function.
-       * If you're not sure which `baseDate` to supply, create a new instance of Date:
+       * `backupDate` must be passed for correct work of the function.
+       * If you're not sure which `backupDate` to supply, create a new instance of Date:
        * `parse('02/11/2014', 'MM/dd/yyyy', new Date())`
        * In this case parsing will be done in the context of the current date.
-       * If `baseDate` is `Invalid Date` or a value not convertible to valid `Date`,
+       * If `backupDate` is `Invalid Date` or a value not convertible to valid `Date`,
        * then `Invalid Date` will be returned.
        *
        * The result may vary by locale.
        *
-       * If `formatString` matches with `dateString` but does not provides tokens, `baseDate` will be returned.
+       * If `formatString` matches with `dateString` but does not provides tokens, `backupDate` will be returned.
        *
        * If parsing failed, `Invalid Date` will be returned.
        * Invalid Date is a Date, whose time value is NaN.
@@ -51496,7 +50475,7 @@
        *
        * @param {String} dateString - the string to parse
        * @param {String} formatString - the string of tokens
-       * @param {Date|Number} baseDate - defines values missing from the parsed dateString
+       * @param {Date|Number} backupDate - defines values missing from the parsed dateString
        * @param {Object} [options] - an object with options.
        * @param {Locale} [options.locale=defaultLocale] - the locale object. See [Locale]{@link https://date-fns.org/docs/Locale}
        * @param {0|1|2|3|4|5|6} [options.weekStartsOn=0] - the index of the first day of the week (0 - Sunday)
@@ -51533,7 +50512,7 @@
       function parse(
         dirtyDateString,
         dirtyFormatString,
-        dirtyBaseDate,
+        dirtyBackupDate,
         dirtyOptions
       ) {
         if (arguments.length < 3) {
@@ -51545,11 +50524,7 @@
         var dateString = String(dirtyDateString);
         var formatString = String(dirtyFormatString);
         var options = dirtyOptions || {};
-<<<<<<< HEAD
-        var locale = options.locale || _index6.default;
-=======
-        var locale = options.locale || _index6["default"];
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
+        var locale = options.locale || _index.default;
 
         if (!locale.match) {
           throw new RangeError("locale must contain match property");
@@ -51560,19 +50535,11 @@
         var defaultFirstWeekContainsDate =
           localeFirstWeekContainsDate == null
             ? 1
-<<<<<<< HEAD
-            : (0, _index.default)(localeFirstWeekContainsDate);
+            : (0, _index8.default)(localeFirstWeekContainsDate);
         var firstWeekContainsDate =
           options.firstWeekContainsDate == null
             ? defaultFirstWeekContainsDate
-            : (0, _index.default)(options.firstWeekContainsDate); // Test if weekStartsOn is between 1 and 7 _and_ is not NaN
-=======
-            : (0, _index["default"])(localeFirstWeekContainsDate);
-        var firstWeekContainsDate =
-          options.firstWeekContainsDate == null
-            ? defaultFirstWeekContainsDate
-            : (0, _index["default"])(options.firstWeekContainsDate); // Test if weekStartsOn is between 1 and 7 _and_ is not NaN
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
+            : (0, _index8.default)(options.firstWeekContainsDate); // Test if weekStartsOn is between 1 and 7 _and_ is not NaN
 
         if (!(firstWeekContainsDate >= 1 && firstWeekContainsDate <= 7)) {
           throw new RangeError(
@@ -51584,19 +50551,11 @@
         var defaultWeekStartsOn =
           localeWeekStartsOn == null
             ? 0
-<<<<<<< HEAD
-            : (0, _index.default)(localeWeekStartsOn);
+            : (0, _index8.default)(localeWeekStartsOn);
         var weekStartsOn =
           options.weekStartsOn == null
             ? defaultWeekStartsOn
-            : (0, _index.default)(options.weekStartsOn); // Test if weekStartsOn is between 0 and 6 _and_ is not NaN
-=======
-            : (0, _index["default"])(localeWeekStartsOn);
-        var weekStartsOn =
-          options.weekStartsOn == null
-            ? defaultWeekStartsOn
-            : (0, _index["default"])(options.weekStartsOn); // Test if weekStartsOn is between 0 and 6 _and_ is not NaN
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
+            : (0, _index8.default)(options.weekStartsOn); // Test if weekStartsOn is between 0 and 6 _and_ is not NaN
 
         if (!(weekStartsOn >= 0 && weekStartsOn <= 6)) {
           throw new RangeError(
@@ -51606,11 +50565,7 @@
 
         if (formatString === "") {
           if (dateString === "") {
-<<<<<<< HEAD
-            return (0, _index4.default)(dirtyBaseDate);
-=======
-            return (0, _index4["default"])(dirtyBaseDate);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
+            return (0, _index3.default)(dirtyBackupDate);
           } else {
             return new Date(NaN);
           }
@@ -51633,63 +50588,76 @@
           .match(longFormattingTokensRegExp)
           .map(function(substring) {
             var firstCharacter = substring[0];
-<<<<<<< HEAD
 
             if (firstCharacter === "p" || firstCharacter === "P") {
-              var longFormatter = _index8.default[firstCharacter];
+              var longFormatter = _index5.default[firstCharacter];
               return longFormatter(substring, locale.formatLong, subFnOptions);
             }
 
-=======
-
-            if (firstCharacter === "p" || firstCharacter === "P") {
-              var longFormatter = _index8["default"][firstCharacter];
-              return longFormatter(substring, locale.formatLong, subFnOptions);
-            }
-
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
             return substring;
           })
           .join("")
           .match(formattingTokensRegExp);
+        var usedTokens = [];
 
         for (i = 0; i < tokens.length; i++) {
           var token = tokens[i];
 
           if (
             !options.useAdditionalWeekYearTokens &&
-            (0, _index9.isProtectedWeekYearToken)(token)
-<<<<<<< HEAD
+            (0, _index7.isProtectedWeekYearToken)(token)
           ) {
-            (0, _index9.throwProtectedError)(token);
+            (0, _index7.throwProtectedError)(token);
           }
 
           if (
             !options.useAdditionalDayOfYearTokens &&
-            (0, _index9.isProtectedDayOfYearToken)(token)
+            (0, _index7.isProtectedDayOfYearToken)(token)
           ) {
-            (0, _index9.throwProtectedError)(token);
+            (0, _index7.throwProtectedError)(token);
           }
 
           var firstCharacter = token[0];
-          var parser = _index7.default[firstCharacter];
-=======
-          ) {
-            (0, _index9.throwProtectedError)(token);
-          }
-
-          if (
-            !options.useAdditionalDayOfYearTokens &&
-            (0, _index9.isProtectedDayOfYearToken)(token)
-          ) {
-            (0, _index9.throwProtectedError)(token);
-          }
-
-          var firstCharacter = token[0];
-          var parser = _index7["default"][firstCharacter];
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
+          var parser = _index9.default[firstCharacter];
 
           if (parser) {
+            var incompatibleTokens = parser.incompatibleTokens;
+
+            if (Array.isArray(incompatibleTokens)) {
+              var incompatibleToken = void 0;
+
+              for (var _i = 0; _i < usedTokens.length; _i++) {
+                var usedToken = usedTokens[_i].token;
+
+                if (
+                  incompatibleTokens.indexOf(usedToken) !== -1 ||
+                  usedToken === firstCharacter
+                ) {
+                  incompatibleToken = usedTokens[_i];
+                  break;
+                }
+              }
+
+              if (incompatibleToken) {
+                throw new RangeError(
+                  "The format string mustn't contain `"
+                    .concat(incompatibleToken.fullToken, "` and `")
+                    .concat(token, "` at the same time")
+                );
+              }
+            } else if (parser.incompatibleTokens === "*" && usedTokens.length) {
+              throw new RangeError(
+                "The format string mustn't contain `".concat(
+                  token,
+                  "` and any other token at the same time"
+                )
+              );
+            }
+
+            usedTokens.push({
+              token: firstCharacter,
+              fullToken: token
+            });
             var parseResult = parser.parse(
               dateString,
               token,
@@ -51756,28 +50724,15 @@
           .map(function(setterArray) {
             return setterArray[0];
           });
-<<<<<<< HEAD
-        var date = (0, _index4.default)(dirtyBaseDate);
-=======
-        var date = (0, _index4["default"])(dirtyBaseDate);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
+        var date = (0, _index3.default)(dirtyBackupDate);
 
         if (isNaN(date)) {
           return new Date(NaN);
         } // Convert the date in system timezone to the same date in UTC+00:00 timezone.
         // This ensures that when UTC functions will be implemented, locales will be compatible with them.
         // See an issue about UTC functions: https://github.com/date-fns/date-fns/issues/37
-<<<<<<< HEAD
-=======
 
-        var utcDate = (0, _index5["default"])(
-          date,
-          (0, _index3["default"])(date)
-        );
-        var flags = {};
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
-
-        var utcDate = (0, _index5.default)(date, (0, _index3.default)(date));
+        var utcDate = (0, _index2.default)(date, (0, _index6.default)(date));
         var flags = {};
 
         for (i = 0; i < uniquePrioritySetters.length; i++) {
@@ -51794,11 +50749,7 @@
 
           if (result[0]) {
             utcDate = result[0];
-<<<<<<< HEAD
-            (0, _index2.default)(flags, result[1]); // Result is date
-=======
-            (0, _index2["default"])(flags, result[1]); // Result is date
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
+            (0, _index4.default)(flags, result[1]); // Result is date
           } else {
             utcDate = result;
           }
@@ -51844,11 +50795,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = assign;
-=======
-      exports["default"] = assign;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       function assign(target, dirtyObject) {
         if (target == null) {
@@ -51879,7 +50826,6 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = void 0;
 
       var _index = _interopRequireDefault(__webpack_require__(571));
@@ -51895,23 +50841,6 @@
       var _index6 = _interopRequireDefault(__webpack_require__(565));
 
       var _index7 = _interopRequireDefault(__webpack_require__(569));
-=======
-      exports["default"] = void 0;
-
-      var _index = _interopRequireDefault(__webpack_require__(571));
-
-      var _index2 = _interopRequireDefault(__webpack_require__(623));
-
-      var _index3 = _interopRequireDefault(__webpack_require__(624));
-
-      var _index4 = _interopRequireDefault(__webpack_require__(569));
-
-      var _index5 = _interopRequireDefault(__webpack_require__(625));
-
-      var _index6 = _interopRequireDefault(__webpack_require__(626));
-
-      var _index7 = _interopRequireDefault(__webpack_require__(565));
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       function _interopRequireDefault(obj) {
         return obj && obj.__esModule ? obj : { default: obj };
@@ -52241,12 +51170,13 @@
                 );
             }
           },
-          set: function(date, _flags, value, _options) {
-            // Sets year 10 BC if BC, or 10 AC if AC
-            date.setUTCFullYear(value === 1 ? 10 : -9, 0, 1);
+          set: function(date, flags, value, _options) {
+            flags.era = value;
+            date.setUTCFullYear(value, 0, 1);
             date.setUTCHours(0, 0, 0, 0);
             return date;
-          }
+          },
+          incompatibleTokens: ["R", "u", "t", "T"]
         },
         // Year
         y: {
@@ -52281,16 +51211,11 @@
                 return parseNDigits(token.length, string, valueCallback);
             }
           },
-          validate: function(date, value, _options) {
+          validate: function(_date, value, _options) {
             return value.isTwoDigitYear || value.year > 0;
           },
-<<<<<<< HEAD
-          set: function(date, _flags, value, options) {
-            var currentYear = (0, _index.default)(date, options);
-=======
-          set: function set(date, flags, value, options) {
-            var currentYear = (0, _index["default"])(date, options);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
+          set: function(date, flags, value, _options) {
+            var currentYear = date.getUTCFullYear();
 
             if (value.isTwoDigitYear) {
               var normalizedTwoDigitYear = normalizeTwoDigitYear(
@@ -52302,11 +51227,15 @@
               return date;
             }
 
-            var year = currentYear > 0 ? value.year : 1 - value.year;
+            var year =
+              !("era" in flags) || flags.era === 1
+                ? value.year
+                : 1 - value.year;
             date.setUTCFullYear(year, 0, 1);
             date.setUTCHours(0, 0, 0, 0);
             return date;
-          }
+          },
+          incompatibleTokens: ["Y", "R", "u", "w", "I", "i", "e", "c", "t", "T"]
         },
         // Local week-numbering year
         Y: {
@@ -52336,8 +51265,8 @@
           validate: function(_date, value, _options) {
             return value.isTwoDigitYear || value.year > 0;
           },
-          set: function(date, _flags, value, options) {
-            var currentYear = date.getUTCFullYear();
+          set: function(date, flags, value, options) {
+            var currentYear = (0, _index.default)(date, options);
 
             if (value.isTwoDigitYear) {
               var normalizedTwoDigitYear = normalizeTwoDigitYear(
@@ -52350,22 +51279,32 @@
                 options.firstWeekContainsDate
               );
               date.setUTCHours(0, 0, 0, 0);
-<<<<<<< HEAD
               return (0, _index7.default)(date, options);
-=======
-              return (0, _index4["default"])(date, options);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
             }
 
-            var year = currentYear > 0 ? value.year : 1 - value.year;
+            var year =
+              !("era" in flags) || flags.era === 1
+                ? value.year
+                : 1 - value.year;
             date.setUTCFullYear(year, 0, options.firstWeekContainsDate);
             date.setUTCHours(0, 0, 0, 0);
-<<<<<<< HEAD
             return (0, _index7.default)(date, options);
-=======
-            return (0, _index4["default"])(date, options);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
-          }
+          },
+          incompatibleTokens: [
+            "y",
+            "R",
+            "u",
+            "Q",
+            "q",
+            "M",
+            "L",
+            "I",
+            "d",
+            "D",
+            "i",
+            "t",
+            "T"
+          ]
         },
         // ISO week-numbering year
         R: {
@@ -52381,12 +51320,25 @@
             var firstWeekOfYear = new Date(0);
             firstWeekOfYear.setUTCFullYear(value, 0, 4);
             firstWeekOfYear.setUTCHours(0, 0, 0, 0);
-<<<<<<< HEAD
             return (0, _index6.default)(firstWeekOfYear);
-=======
-            return (0, _index7["default"])(firstWeekOfYear);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
-          }
+          },
+          incompatibleTokens: [
+            "G",
+            "y",
+            "Y",
+            "u",
+            "Q",
+            "q",
+            "M",
+            "L",
+            "w",
+            "d",
+            "D",
+            "e",
+            "c",
+            "t",
+            "T"
+          ]
         },
         // Extended year
         u: {
@@ -52402,7 +51354,20 @@
             date.setUTCFullYear(value, 0, 1);
             date.setUTCHours(0, 0, 0, 0);
             return date;
-          }
+          },
+          incompatibleTokens: [
+            "G",
+            "y",
+            "Y",
+            "R",
+            "w",
+            "I",
+            "i",
+            "e",
+            "c",
+            "t",
+            "T"
+          ]
         },
         // Quarter
         Q: {
@@ -52467,7 +51432,23 @@
             date.setUTCMonth((value - 1) * 3, 1);
             date.setUTCHours(0, 0, 0, 0);
             return date;
-          }
+          },
+          incompatibleTokens: [
+            "Y",
+            "R",
+            "q",
+            "M",
+            "L",
+            "w",
+            "I",
+            "d",
+            "D",
+            "i",
+            "e",
+            "c",
+            "t",
+            "T"
+          ]
         },
         // Stand-alone quarter
         q: {
@@ -52532,7 +51513,23 @@
             date.setUTCMonth((value - 1) * 3, 1);
             date.setUTCHours(0, 0, 0, 0);
             return date;
-          }
+          },
+          incompatibleTokens: [
+            "Y",
+            "R",
+            "Q",
+            "M",
+            "L",
+            "w",
+            "I",
+            "d",
+            "D",
+            "i",
+            "e",
+            "c",
+            "t",
+            "T"
+          ]
         },
         // Month
         M: {
@@ -52608,7 +51605,22 @@
             date.setUTCMonth(value, 1);
             date.setUTCHours(0, 0, 0, 0);
             return date;
-          }
+          },
+          incompatibleTokens: [
+            "Y",
+            "R",
+            "q",
+            "Q",
+            "L",
+            "w",
+            "I",
+            "D",
+            "i",
+            "e",
+            "c",
+            "t",
+            "T"
+          ]
         },
         // Stand-alone month
         L: {
@@ -52684,7 +51696,22 @@
             date.setUTCMonth(value, 1);
             date.setUTCHours(0, 0, 0, 0);
             return date;
-          }
+          },
+          incompatibleTokens: [
+            "Y",
+            "R",
+            "q",
+            "Q",
+            "M",
+            "w",
+            "I",
+            "D",
+            "i",
+            "e",
+            "c",
+            "t",
+            "T"
+          ]
         },
         // Local week of year
         w: {
@@ -52706,18 +51733,27 @@
           validate: function(_date, value, _options) {
             return value >= 1 && value <= 53;
           },
-<<<<<<< HEAD
           set: function(date, _flags, value, options) {
             return (0, _index7.default)(
               (0, _index5.default)(date, value, options),
-=======
-          set: function set(date, flags, value, options) {
-            return (0, _index4["default"])(
-              (0, _index3["default"])(date, value, options),
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
               options
             );
-          }
+          },
+          incompatibleTokens: [
+            "y",
+            "R",
+            "u",
+            "q",
+            "Q",
+            "M",
+            "L",
+            "I",
+            "d",
+            "D",
+            "i",
+            "t",
+            "T"
+          ]
         },
         // ISO week of year
         I: {
@@ -52739,18 +51775,28 @@
           validate: function(_date, value, _options) {
             return value >= 1 && value <= 53;
           },
-<<<<<<< HEAD
           set: function(date, _flags, value, options) {
             return (0, _index6.default)(
               (0, _index4.default)(date, value, options),
-=======
-          set: function set(date, flags, value, options) {
-            return (0, _index7["default"])(
-              (0, _index6["default"])(date, value, options),
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
               options
             );
-          }
+          },
+          incompatibleTokens: [
+            "y",
+            "Y",
+            "u",
+            "q",
+            "Q",
+            "M",
+            "L",
+            "w",
+            "d",
+            "D",
+            "e",
+            "c",
+            "t",
+            "T"
+          ]
         },
         // Day of the month
         d: {
@@ -52784,7 +51830,21 @@
             date.setUTCDate(value);
             date.setUTCHours(0, 0, 0, 0);
             return date;
-          }
+          },
+          incompatibleTokens: [
+            "Y",
+            "R",
+            "q",
+            "Q",
+            "w",
+            "I",
+            "D",
+            "i",
+            "e",
+            "c",
+            "t",
+            "T"
+          ]
         },
         // Day of year
         D: {
@@ -52818,7 +51878,24 @@
             date.setUTCMonth(0, value);
             date.setUTCHours(0, 0, 0, 0);
             return date;
-          }
+          },
+          incompatibleTokens: [
+            "Y",
+            "R",
+            "q",
+            "Q",
+            "M",
+            "L",
+            "w",
+            "I",
+            "d",
+            "E",
+            "i",
+            "e",
+            "c",
+            "t",
+            "T"
+          ]
         },
         // Day of week
         E: {
@@ -52890,16 +51967,12 @@
           validate: function(_date, value, _options) {
             return value >= 0 && value <= 6;
           },
-<<<<<<< HEAD
           set: function(date, _flags, value, options) {
             date = (0, _index2.default)(date, value, options);
-=======
-          set: function set(date, flags, value, options) {
-            date = (0, _index2["default"])(date, value, options);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
             date.setUTCHours(0, 0, 0, 0);
             return date;
-          }
+          },
+          incompatibleTokens: ["D", "i", "e", "c", "t", "T"]
         },
         // Local day of week
         e: {
@@ -52987,16 +52060,28 @@
           validate: function(_date, value, _options) {
             return value >= 0 && value <= 6;
           },
-<<<<<<< HEAD
           set: function(date, _flags, value, options) {
             date = (0, _index2.default)(date, value, options);
-=======
-          set: function set(date, flags, value, options) {
-            date = (0, _index2["default"])(date, value, options);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
             date.setUTCHours(0, 0, 0, 0);
             return date;
-          }
+          },
+          incompatibleTokens: [
+            "y",
+            "R",
+            "u",
+            "q",
+            "Q",
+            "M",
+            "L",
+            "I",
+            "d",
+            "D",
+            "E",
+            "i",
+            "c",
+            "t",
+            "T"
+          ]
         },
         // Stand-alone local day of week
         c: {
@@ -53084,16 +52169,28 @@
           validate: function(_date, value, _options) {
             return value >= 0 && value <= 6;
           },
-<<<<<<< HEAD
           set: function(date, _flags, value, options) {
             date = (0, _index2.default)(date, value, options);
-=======
-          set: function set(date, flags, value, options) {
-            date = (0, _index2["default"])(date, value, options);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
             date.setUTCHours(0, 0, 0, 0);
             return date;
-          }
+          },
+          incompatibleTokens: [
+            "y",
+            "R",
+            "u",
+            "q",
+            "Q",
+            "M",
+            "L",
+            "I",
+            "d",
+            "D",
+            "E",
+            "i",
+            "e",
+            "t",
+            "T"
+          ]
         },
         // ISO day of week
         i: {
@@ -53193,16 +52290,28 @@
           validate: function(_date, value, _options) {
             return value >= 1 && value <= 7;
           },
-<<<<<<< HEAD
           set: function(date, _flags, value, options) {
             date = (0, _index3.default)(date, value, options);
-=======
-          set: function set(date, flags, value, options) {
-            date = (0, _index5["default"])(date, value, options);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
             date.setUTCHours(0, 0, 0, 0);
             return date;
-          }
+          },
+          incompatibleTokens: [
+            "y",
+            "Y",
+            "u",
+            "q",
+            "Q",
+            "M",
+            "L",
+            "w",
+            "d",
+            "D",
+            "E",
+            "e",
+            "c",
+            "t",
+            "T"
+          ]
         },
         // AM or PM
         a: {
@@ -53250,7 +52359,8 @@
           set: function(date, _flags, value, _options) {
             date.setUTCHours(dayPeriodEnumToHours(value), 0, 0, 0);
             return date;
-          }
+          },
+          incompatibleTokens: ["b", "B", "H", "K", "k", "t", "T"]
         },
         // AM, PM, midnight
         b: {
@@ -53298,7 +52408,8 @@
           set: function(date, _flags, value, _options) {
             date.setUTCHours(dayPeriodEnumToHours(value), 0, 0, 0);
             return date;
-          }
+          },
+          incompatibleTokens: ["a", "B", "H", "K", "k", "t", "T"]
         },
         // in the morning, in the afternoon, in the evening, at night
         B: {
@@ -53346,7 +52457,8 @@
           set: function(date, _flags, value, _options) {
             date.setUTCHours(dayPeriodEnumToHours(value), 0, 0, 0);
             return date;
-          }
+          },
+          incompatibleTokens: ["a", "b", "t", "T"]
         },
         // Hour [1-12]
         h: {
@@ -53380,7 +52492,8 @@
             }
 
             return date;
-          }
+          },
+          incompatibleTokens: ["H", "K", "k", "t", "T"]
         },
         // Hour [0-23]
         H: {
@@ -53405,7 +52518,8 @@
           set: function(date, _flags, value, _options) {
             date.setUTCHours(value, 0, 0, 0);
             return date;
-          }
+          },
+          incompatibleTokens: ["a", "b", "h", "K", "k", "t", "T"]
         },
         // Hour [0-11]
         K: {
@@ -53437,7 +52551,8 @@
             }
 
             return date;
-          }
+          },
+          incompatibleTokens: ["a", "b", "h", "H", "k", "t", "T"]
         },
         // Hour [1-24]
         k: {
@@ -53463,7 +52578,8 @@
             var hours = value <= 24 ? value % 24 : value;
             date.setUTCHours(hours, 0, 0, 0);
             return date;
-          }
+          },
+          incompatibleTokens: ["a", "b", "h", "H", "K", "t", "T"]
         },
         // Minute
         m: {
@@ -53488,7 +52604,8 @@
           set: function(date, _flags, value, _options) {
             date.setUTCMinutes(value, 0, 0);
             return date;
-          }
+          },
+          incompatibleTokens: ["t", "T"]
         },
         // Second
         s: {
@@ -53513,7 +52630,8 @@
           set: function(date, _flags, value, _options) {
             date.setUTCSeconds(value, 0);
             return date;
-          }
+          },
+          incompatibleTokens: ["t", "T"]
         },
         // Fraction of second
         S: {
@@ -53528,7 +52646,8 @@
           set: function(date, _flags, value, _options) {
             date.setUTCMilliseconds(value);
             return date;
-          }
+          },
+          incompatibleTokens: ["t", "T"]
         },
         // Timezone (ISO-8601. +00:00 is `'Z'`)
         X: {
@@ -53567,7 +52686,8 @@
             }
 
             return new Date(date.getTime() - value);
-          }
+          },
+          incompatibleTokens: ["t", "T", "x"]
         },
         // Timezone (ISO-8601)
         x: {
@@ -53606,7 +52726,8 @@
             }
 
             return new Date(date.getTime() - value);
-          }
+          },
+          incompatibleTokens: ["t", "T", "X"]
         },
         // Seconds timestamp
         t: {
@@ -53614,18 +52735,15 @@
           parse: function(string, _token, _match, _options) {
             return parseAnyDigitsSigned(string);
           },
-<<<<<<< HEAD
           set: function(_date, _flags, value, _options) {
-=======
-          set: function set(date, flags, value, options) {
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
             return [
               new Date(value * 1000),
               {
                 timestampIsSet: true
               }
             ];
-          }
+          },
+          incompatibleTokens: "*"
         },
         // Milliseconds timestamp
         T: {
@@ -53633,26 +52751,19 @@
           parse: function(string, _token, _match, _options) {
             return parseAnyDigitsSigned(string);
           },
-<<<<<<< HEAD
           set: function(_date, _flags, value, _options) {
-=======
-          set: function set(date, flags, value, options) {
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
             return [
               new Date(value),
               {
                 timestampIsSet: true
               }
             ];
-          }
+          },
+          incompatibleTokens: "*"
         }
       };
       var _default = parsers;
-<<<<<<< HEAD
       exports.default = _default;
-=======
-      exports["default"] = _default;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
       module.exports = exports.default;
 
       /***/
@@ -53664,7 +52775,7 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-      exports["default"] = setUTCDay;
+      exports.default = setUTCDay;
 
       var _index = _interopRequireDefault(__webpack_require__(558));
 
@@ -53690,19 +52801,11 @@
         var defaultWeekStartsOn =
           localeWeekStartsOn == null
             ? 0
-<<<<<<< HEAD
             : (0, _index.default)(localeWeekStartsOn);
         var weekStartsOn =
           options.weekStartsOn == null
             ? defaultWeekStartsOn
             : (0, _index.default)(options.weekStartsOn); // Test if weekStartsOn is between 0 and 6 _and_ is not NaN
-=======
-            : (0, _index["default"])(localeWeekStartsOn);
-        var weekStartsOn =
-          options.weekStartsOn == null
-            ? defaultWeekStartsOn
-            : (0, _index["default"])(options.weekStartsOn); // Test if weekStartsOn is between 0 and 6 _and_ is not NaN
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
         if (!(weekStartsOn >= 0 && weekStartsOn <= 6)) {
           throw new RangeError(
@@ -53710,13 +52813,8 @@
           );
         }
 
-<<<<<<< HEAD
         var date = (0, _index2.default)(dirtyDate);
         var day = (0, _index.default)(dirtyDay);
-=======
-        var date = (0, _index2["default"])(dirtyDate);
-        var day = (0, _index["default"])(dirtyDay);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         var currentDay = date.getUTCDay();
         var remainder = day % 7;
         var dayIndex = (remainder + 7) % 7;
@@ -53736,21 +52834,11 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = setUTCISODay;
 
       var _index = _interopRequireDefault(__webpack_require__(558));
 
       var _index2 = _interopRequireDefault(__webpack_require__(545));
-=======
-      exports["default"] = setUTCWeek;
-
-      var _index = _interopRequireDefault(__webpack_require__(558));
-
-      var _index2 = _interopRequireDefault(__webpack_require__(545));
-
-      var _index3 = _interopRequireDefault(__webpack_require__(568));
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       function _interopRequireDefault(obj) {
         return obj && obj.__esModule ? obj : { default: obj };
@@ -53765,7 +52853,6 @@
           );
         }
 
-<<<<<<< HEAD
         var day = (0, _index.default)(dirtyDay);
 
         if (day % 7 === 0) {
@@ -53779,12 +52866,6 @@
         var dayIndex = (remainder + 7) % 7;
         var diff = (dayIndex < weekStartsOn ? 7 : 0) + day - currentDay;
         date.setUTCDate(date.getUTCDate() + diff);
-=======
-        var date = (0, _index2["default"])(dirtyDate);
-        var week = (0, _index["default"])(dirtyWeek);
-        var diff = (0, _index3["default"])(date, options) - week;
-        date.setUTCDate(date.getUTCDate() - diff * 7);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         return date;
       }
 
@@ -53799,7 +52880,6 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = setUTCISOWeek;
 
       var _index = _interopRequireDefault(__webpack_require__(558));
@@ -53807,13 +52887,6 @@
       var _index2 = _interopRequireDefault(__webpack_require__(545));
 
       var _index3 = _interopRequireDefault(__webpack_require__(564));
-=======
-      exports["default"] = setUTCISODay;
-
-      var _index = _interopRequireDefault(__webpack_require__(558));
-
-      var _index2 = _interopRequireDefault(__webpack_require__(545));
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       function _interopRequireDefault(obj) {
         return obj && obj.__esModule ? obj : { default: obj };
@@ -53828,26 +52901,10 @@
           );
         }
 
-<<<<<<< HEAD
         var date = (0, _index2.default)(dirtyDate);
         var isoWeek = (0, _index.default)(dirtyISOWeek);
         var diff = (0, _index3.default)(date) - isoWeek;
         date.setUTCDate(date.getUTCDate() - diff * 7);
-=======
-        var day = (0, _index["default"])(dirtyDay);
-
-        if (day % 7 === 0) {
-          day = day - 7;
-        }
-
-        var weekStartsOn = 1;
-        var date = (0, _index2["default"])(dirtyDate);
-        var currentDay = date.getUTCDay();
-        var remainder = day % 7;
-        var dayIndex = (remainder + 7) % 7;
-        var diff = (dayIndex < weekStartsOn ? 7 : 0) + day - currentDay;
-        date.setUTCDate(date.getUTCDate() + diff);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         return date;
       }
 
@@ -53862,7 +52919,6 @@
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = setUTCWeek;
 
       var _index = _interopRequireDefault(__webpack_require__(558));
@@ -53870,15 +52926,6 @@
       var _index2 = _interopRequireDefault(__webpack_require__(545));
 
       var _index3 = _interopRequireDefault(__webpack_require__(568));
-=======
-      exports["default"] = setUTCISOWeek;
-
-      var _index = _interopRequireDefault(__webpack_require__(558));
-
-      var _index2 = _interopRequireDefault(__webpack_require__(545));
-
-      var _index3 = _interopRequireDefault(__webpack_require__(564));
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       function _interopRequireDefault(obj) {
         return obj && obj.__esModule ? obj : { default: obj };
@@ -53893,15 +52940,9 @@
           );
         }
 
-<<<<<<< HEAD
         var date = (0, _index2.default)(dirtyDate);
         var week = (0, _index.default)(dirtyWeek);
         var diff = (0, _index3.default)(date, options) - week;
-=======
-        var date = (0, _index2["default"])(dirtyDate);
-        var isoWeek = (0, _index["default"])(dirtyISOWeek);
-        var diff = (0, _index3["default"])(date) - isoWeek;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         date.setUTCDate(date.getUTCDate() - diff * 7);
         return date;
       }
@@ -53911,6 +52952,362 @@
       /***/
     },
     /* 627 */
+    /***/ function(module, exports, __webpack_require__) {
+      "use strict";
+
+      Object.defineProperty(exports, "__esModule", {
+        value: true
+      });
+      exports.default = parseISO;
+
+      var _index = _interopRequireDefault(__webpack_require__(558));
+
+      var _index2 = _interopRequireDefault(__webpack_require__(573));
+
+      function _interopRequireDefault(obj) {
+        return obj && obj.__esModule ? obj : { default: obj };
+      }
+
+      var MILLISECONDS_IN_HOUR = 3600000;
+      var MILLISECONDS_IN_MINUTE = 60000;
+      var DEFAULT_ADDITIONAL_DIGITS = 2;
+      var patterns = {
+        dateTimeDelimiter: /[T ]/,
+        timeZoneDelimiter: /[Z ]/i,
+        timezone: /([Z+-].*)$/
+      };
+      var dateRegex = /^-?(?:(\d{3})|(\d{2})(?:-?(\d{2}))?|W(\d{2})(?:-?(\d{1}))?|)$/;
+      var timeRegex = /^(\d{2}(?:[.,]\d*)?)(?::?(\d{2}(?:[.,]\d*)?))?(?::?(\d{2}(?:[.,]\d*)?))?$/;
+      var timezoneRegex = /^([+-])(\d{2})(?::?(\d{2}))?$/;
+      /**
+       * @name parseISO
+       * @category Common Helpers
+       * @summary Parse ISO string
+       *
+       * @description
+       * Parse the given string in ISO 8601 format and return an instance of Date.
+       *
+       * Function accepts complete ISO 8601 formats as well as partial implementations.
+       * ISO 8601: http://en.wikipedia.org/wiki/ISO_8601
+       *
+       * If the argument isn't a string, the function cannot parse the string or
+       * the values are invalid, it returns Invalid Date.
+       *
+       * ### v2.0.0 breaking changes:
+       *
+       * - [Changes that are common for the whole library](https://github.com/date-fns/date-fns/blob/master/docs/upgradeGuide.md#Common-Changes).
+       *
+       * - The previous `parse` implementation was renamed to `parseISO`.
+       *
+       *   ```javascript
+       *   // Before v2.0.0
+       *   parse('2016-01-01')
+       *
+       *   // v2.0.0 onward
+       *   parseISO('2016-01-01')
+       *   ```
+       *
+       * - `parseISO` now validates separate date and time values in ISO-8601 strings
+       *   and returns `Invalid Date` if the date is invalid.
+       *
+       *   ```javascript
+       *   parseISO('2018-13-32')
+       *   //=> Invalid Date
+       *   ```
+       *
+       * - `parseISO` now doesn't fall back to `new Date` constructor
+       *   if it fails to parse a string argument. Instead, it returns `Invalid Date`.
+       *
+       * @param {String} argument - the value to convert
+       * @param {Object} [options] - an object with options.
+       * @param {0|1|2} [options.additionalDigits=2] - the additional number of digits in the extended year format
+       * @returns {Date} the parsed date in the local time zone
+       * @throws {TypeError} 1 argument required
+       * @throws {RangeError} `options.additionalDigits` must be 0, 1 or 2
+       *
+       * @example
+       * // Convert string '2014-02-11T11:30:30' to date:
+       * var result = parseISO('2014-02-11T11:30:30')
+       * //=> Tue Feb 11 2014 11:30:30
+       *
+       * @example
+       * // Convert string '+02014101' to date,
+       * // if the additional number of digits in the extended year format is 1:
+       * var result = parseISO('+02014101', { additionalDigits: 1 })
+       * //=> Fri Apr 11 2014 00:00:00
+       */
+
+      function parseISO(argument, dirtyOptions) {
+        if (arguments.length < 1) {
+          throw new TypeError(
+            "1 argument required, but only " + arguments.length + " present"
+          );
+        }
+
+        var options = dirtyOptions || {};
+        var additionalDigits =
+          options.additionalDigits == null
+            ? DEFAULT_ADDITIONAL_DIGITS
+            : (0, _index.default)(options.additionalDigits);
+
+        if (
+          additionalDigits !== 2 &&
+          additionalDigits !== 1 &&
+          additionalDigits !== 0
+        ) {
+          throw new RangeError("additionalDigits must be 0, 1 or 2");
+        }
+
+        if (
+          !(
+            typeof argument === "string" ||
+            Object.prototype.toString.call(argument) === "[object String]"
+          )
+        ) {
+          return new Date(NaN);
+        }
+
+        var dateStrings = splitDateString(argument);
+        var date;
+
+        if (dateStrings.date) {
+          var parseYearResult = parseYear(dateStrings.date, additionalDigits);
+          date = parseDate(
+            parseYearResult.restDateString,
+            parseYearResult.year
+          );
+        }
+
+        if (isNaN(date) || !date) {
+          return new Date(NaN);
+        }
+
+        var timestamp = date.getTime();
+        var time = 0;
+        var offset;
+
+        if (dateStrings.time) {
+          time = parseTime(dateStrings.time);
+
+          if (isNaN(time) || time === null) {
+            return new Date(NaN);
+          }
+        }
+
+        if (dateStrings.timezone) {
+          offset = parseTimezone(dateStrings.timezone);
+
+          if (isNaN(offset)) {
+            return new Date(NaN);
+          }
+        } else {
+          var fullTime = timestamp + time;
+          var fullTimeDate = new Date(fullTime);
+          offset = (0, _index2.default)(fullTimeDate); // Adjust time when it's coming from DST
+
+          var fullTimeDateNextDay = new Date(fullTime);
+          fullTimeDateNextDay.setDate(fullTimeDate.getDate() + 1);
+          var offsetDiff = (0, _index2.default)(fullTimeDateNextDay) - offset;
+
+          if (offsetDiff > 0) {
+            offset += offsetDiff;
+          }
+        }
+
+        return new Date(timestamp + time + offset);
+      }
+
+      function splitDateString(dateString) {
+        var dateStrings = {};
+        var array = dateString.split(patterns.dateTimeDelimiter);
+        var timeString;
+
+        if (/:/.test(array[0])) {
+          dateStrings.date = null;
+          timeString = array[0];
+        } else {
+          dateStrings.date = array[0];
+          timeString = array[1];
+
+          if (patterns.timeZoneDelimiter.test(dateStrings.date)) {
+            dateStrings.date = dateString.split(patterns.timeZoneDelimiter)[0];
+            timeString = dateString.substr(
+              dateStrings.date.length,
+              dateString.length
+            );
+          }
+        }
+
+        if (timeString) {
+          var token = patterns.timezone.exec(timeString);
+
+          if (token) {
+            dateStrings.time = timeString.replace(token[1], "");
+            dateStrings.timezone = token[1];
+          } else {
+            dateStrings.time = timeString;
+          }
+        }
+
+        return dateStrings;
+      }
+
+      function parseYear(dateString, additionalDigits) {
+        var regex = new RegExp(
+          "^(?:(\\d{4}|[+-]\\d{" +
+            (4 + additionalDigits) +
+            "})|(\\d{2}|[+-]\\d{" +
+            (2 + additionalDigits) +
+            "})$)"
+        );
+        var captures = dateString.match(regex); // Invalid ISO-formatted year
+
+        if (!captures)
+          return {
+            year: null
+          };
+        var year = captures[1] && parseInt(captures[1]);
+        var century = captures[2] && parseInt(captures[2]);
+        return {
+          year: century == null ? year : century * 100,
+          restDateString: dateString.slice((captures[1] || captures[2]).length)
+        };
+      }
+
+      function parseDate(dateString, year) {
+        // Invalid ISO-formatted year
+        if (year === null) return null;
+        var captures = dateString.match(dateRegex); // Invalid ISO-formatted string
+
+        if (!captures) return null;
+        var isWeekDate = !!captures[4];
+        var dayOfYear = parseDateUnit(captures[1]);
+        var month = parseDateUnit(captures[2]) - 1;
+        var day = parseDateUnit(captures[3]);
+        var week = parseDateUnit(captures[4]) - 1;
+        var dayOfWeek = parseDateUnit(captures[5]) - 1;
+
+        if (isWeekDate) {
+          if (!validateWeekDate(year, week, dayOfWeek)) {
+            return new Date(NaN);
+          }
+
+          return dayOfISOWeekYear(year, week, dayOfWeek);
+        } else {
+          var date = new Date(0);
+
+          if (
+            !validateDate(year, month, day) ||
+            !validateDayOfYearDate(year, dayOfYear)
+          ) {
+            return new Date(NaN);
+          }
+
+          date.setUTCFullYear(year, month, Math.max(dayOfYear, day));
+          return date;
+        }
+      }
+
+      function parseDateUnit(value) {
+        return value ? parseInt(value) : 1;
+      }
+
+      function parseTime(timeString) {
+        var captures = timeString.match(timeRegex);
+        if (!captures) return null; // Invalid ISO-formatted time
+
+        var hours = parseTimeUnit(captures[1]);
+        var minutes = parseTimeUnit(captures[2]);
+        var seconds = parseTimeUnit(captures[3]);
+
+        if (!validateTime(hours, minutes, seconds)) {
+          return NaN;
+        }
+
+        return (
+          (hours % 24) * MILLISECONDS_IN_HOUR +
+          minutes * MILLISECONDS_IN_MINUTE +
+          seconds * 1000
+        );
+      }
+
+      function parseTimeUnit(value) {
+        return (value && parseFloat(value.replace(",", "."))) || 0;
+      }
+
+      function parseTimezone(timezoneString) {
+        if (timezoneString === "Z") return 0;
+        var captures = timezoneString.match(timezoneRegex);
+        if (!captures) return 0;
+        var sign = captures[1] === "+" ? -1 : 1;
+        var hours = parseInt(captures[2]);
+        var minutes = (captures[3] && parseInt(captures[3])) || 0;
+
+        if (!validateTimezone(hours, minutes)) {
+          return NaN;
+        }
+
+        return (
+          sign *
+          (hours * MILLISECONDS_IN_HOUR + minutes * MILLISECONDS_IN_MINUTE)
+        );
+      }
+
+      function dayOfISOWeekYear(isoWeekYear, week, day) {
+        var date = new Date(0);
+        date.setUTCFullYear(isoWeekYear, 0, 4);
+        var fourthOfJanuaryDay = date.getUTCDay() || 7;
+        var diff = (week || 0) * 7 + (day || 0) + 1 - fourthOfJanuaryDay;
+        date.setUTCDate(date.getUTCDate() + diff);
+        return date;
+      } // Validation functions
+      // February is null to handle the leap year (using ||)
+
+      var daysInMonths = [31, null, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
+
+      function isLeapYearIndex(year) {
+        return year % 400 === 0 || (year % 4 === 0 && year % 100);
+      }
+
+      function validateDate(year, month, date) {
+        return !(
+          month < 0 ||
+          month > 11 ||
+          date < 1 ||
+          date > (daysInMonths[month] || (isLeapYearIndex(year) ? 29 : 28))
+        );
+      }
+
+      function validateDayOfYearDate(year, dayOfYear) {
+        return !(
+          dayOfYear < 1 || dayOfYear > (isLeapYearIndex(year) ? 366 : 365)
+        );
+      }
+
+      function validateWeekDate(_year, week, day) {
+        return !(week < 0 || week > 52 || day < 0 || day > 6);
+      }
+
+      function validateTime(hours, minutes, seconds) {
+        return !(
+          seconds < 0 ||
+          seconds >= 60 ||
+          minutes < 0 ||
+          minutes >= 60 ||
+          hours < 0 ||
+          hours >= 25
+        );
+      }
+
+      function validateTimezone(_hours, minutes) {
+        return !(minutes < 0 || minutes > 59);
+      }
+
+      module.exports = exports.default;
+
+      /***/
+    },
+    /* 628 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -54309,7 +53706,7 @@
 
       /***/
     },
-    /* 628 */
+    /* 629 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -54323,13 +53720,13 @@
 
       var _propTypes2 = _interopRequireDefault(_propTypes);
 
-      var _month_dropdown_options = __webpack_require__(629);
+      var _month_dropdown_options = __webpack_require__(630);
 
       var _month_dropdown_options2 = _interopRequireDefault(
         _month_dropdown_options
       );
 
-      var _reactOnclickoutside = __webpack_require__(627);
+      var _reactOnclickoutside = __webpack_require__(628);
 
       var _reactOnclickoutside2 = _interopRequireDefault(_reactOnclickoutside);
 
@@ -54547,7 +53944,7 @@
 
       /***/
     },
-    /* 629 */
+    /* 630 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -54677,7 +54074,7 @@
 
       /***/
     },
-    /* 630 */
+    /* 631 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -54691,13 +54088,13 @@
 
       var _propTypes2 = _interopRequireDefault(_propTypes);
 
-      var _month_year_dropdown_options = __webpack_require__(631);
+      var _month_year_dropdown_options = __webpack_require__(632);
 
       var _month_year_dropdown_options2 = _interopRequireDefault(
         _month_year_dropdown_options
       );
 
-      var _reactOnclickoutside = __webpack_require__(627);
+      var _reactOnclickoutside = __webpack_require__(628);
 
       var _reactOnclickoutside2 = _interopRequireDefault(_reactOnclickoutside);
 
@@ -54930,7 +54327,7 @@
 
       /***/
     },
-    /* 631 */
+    /* 632 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -55087,7 +54484,7 @@
 
       /***/
     },
-    /* 632 */
+    /* 633 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -55105,7 +54502,7 @@
 
       var _classnames2 = _interopRequireDefault(_classnames);
 
-      var _week = __webpack_require__(633);
+      var _week = __webpack_require__(634);
 
       var _week2 = _interopRequireDefault(_week);
 
@@ -55210,7 +54607,7 @@
                 _this.props.onMouseLeave();
               }
             }),
-            (_this.isRangeStart = function() {
+            (_this.isRangeStart = function(m) {
               var _this$props = _this.props,
                 day = _this$props.day,
                 startDate = _this$props.startDate,
@@ -55219,9 +54616,9 @@
               if (!startDate || !endDate) {
                 return false;
               }
-              return utils.isSameMonth(startDate, day);
+              return utils.isSameMonth(utils.setMonth(day, m), startDate);
             }),
-            (_this.isRangeEnd = function() {
+            (_this.isRangeEnd = function(m) {
               var _this$props2 = _this.props,
                 day = _this$props2.day,
                 startDate = _this$props2.startDate,
@@ -55230,7 +54627,7 @@
               if (!startDate || !endDate) {
                 return false;
               }
-              return utils.isSameMonth(endDate, day);
+              return utils.isSameMonth(utils.setMonth(day, m), endDate);
             }),
             (_this.isWeekInMonth = function(startOfWeek) {
               var day = _this.props.day;
@@ -55327,9 +54724,8 @@
                 "react-datepicker__month-" + m,
                 {
                   "react-datepicker__month--disabled":
-                    minDate &&
-                    maxDate &&
-                    !utils.isMonthinRange(minDate, maxDate, m, day),
+                    (minDate || maxDate) &&
+                    utils.isMonthDisabled(utils.setMonth(day, m), _this.props),
                   "react-datepicker__month--selected":
                     utils.getMonth(day) === m &&
                     utils.getYear(day) === utils.getYear(selected),
@@ -55339,8 +54735,8 @@
                     m,
                     day
                   ),
-                  "react-datepicker__month--range-start": _this.isRangeStart(),
-                  "react-datepicker__month--range-end": _this.isRangeEnd()
+                  "react-datepicker__month--range-start": _this.isRangeStart(m),
+                  "react-datepicker__month--range-end": _this.isRangeEnd(m)
                 }
               );
             }),
@@ -55410,7 +54806,7 @@
 
       /***/
     },
-    /* 633 */
+    /* 634 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -55441,11 +54837,11 @@
 
       var _propTypes2 = _interopRequireDefault(_propTypes);
 
-      var _day = __webpack_require__(634);
+      var _day = __webpack_require__(635);
 
       var _day2 = _interopRequireDefault(_day);
 
-      var _week_number = __webpack_require__(635);
+      var _week_number = __webpack_require__(636);
 
       var _week_number2 = _interopRequireDefault(_week_number);
 
@@ -55638,7 +55034,7 @@
 
       /***/
     },
-    /* 634 */
+    /* 635 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -55945,7 +55341,7 @@
 
       /***/
     },
-    /* 635 */
+    /* 636 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -56060,7 +55456,7 @@
 
       /***/
     },
-    /* 636 */
+    /* 637 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -56375,8 +55771,7 @@
 
       /***/
     },
-    /* 637 */
-<<<<<<< HEAD
+    /* 638 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -56500,9 +55895,7 @@
 
       /***/
     },
-    /* 638 */
-=======
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
+    /* 639 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -56552,170 +55945,7 @@
 
       var _propTypes2 = _interopRequireDefault(_propTypes);
 
-<<<<<<< HEAD
-=======
-      function _interopRequireDefault(obj) {
-        return obj && obj.__esModule ? obj : { default: obj };
-      }
-
-      function _classCallCheck(instance, Constructor) {
-        if (!(instance instanceof Constructor)) {
-          throw new TypeError("Cannot call a class as a function");
-        }
-      }
-
-      function _possibleConstructorReturn(self, call) {
-        if (!self) {
-          throw new ReferenceError(
-            "this hasn't been initialised - super() hasn't been called"
-          );
-        }
-        return call && (typeof call === "object" || typeof call === "function")
-          ? call
-          : self;
-      }
-
-      function _inherits(subClass, superClass) {
-        if (typeof superClass !== "function" && superClass !== null) {
-          throw new TypeError(
-            "Super expression must either be null or a function, not " +
-              typeof superClass
-          );
-        }
-        subClass.prototype = Object.create(superClass && superClass.prototype, {
-          constructor: {
-            value: subClass,
-            enumerable: false,
-            writable: true,
-            configurable: true
-          }
-        });
-        if (superClass)
-          Object.setPrototypeOf
-            ? Object.setPrototypeOf(subClass, superClass)
-            : (subClass.__proto__ = superClass);
-      }
-
-      var inputTime = (function(_React$Component) {
-        _inherits(inputTime, _React$Component);
-
-        function inputTime(props) {
-          _classCallCheck(this, inputTime);
-
-          var _this = _possibleConstructorReturn(
-            this,
-            _React$Component.call(this, props)
-          );
-
-          _this.onTimeChange = function(time) {
-            _this.setState({ time: time });
-            var date = new Date();
-            date.setHours(time.split(":")[0]);
-            date.setMinutes(time.split(":")[1]);
-            _this.props.onChange(date);
-          };
-
-          _this.state = {
-            time: _this.props.timeString
-          };
-          return _this;
-        }
-
-        inputTime.prototype.render = function render() {
-          var _this2 = this;
-
-          var time = this.state.time;
-          var timeString = this.props.timeString;
-
-          return _react2.default.createElement(
-            "div",
-            { className: "react-datepicker__input-time-container" },
-            _react2.default.createElement(
-              "div",
-              { className: "react-datepicker-time__caption" },
-              this.props.timeInputLabel
-            ),
-            _react2.default.createElement(
-              "div",
-              { className: "react-datepicker-time__input-container" },
-              _react2.default.createElement(
-                "div",
-                { className: "react-datepicker-time__input" },
-                _react2.default.createElement("input", {
-                  type: "time",
-                  className: "react-datepicker-time__input",
-                  placeholder: "Time",
-                  name: "time-input",
-                  required: true,
-                  value: time,
-                  onChange: function onChange(ev) {
-                    _this2.onTimeChange(ev.target.value || timeString);
-                  }
-                })
-              )
-            )
-          );
-        };
-
-        return inputTime;
-      })(_react2.default.Component);
-
-      exports.default = inputTime;
-
-      /***/
-    },
-    /* 638 */
-    /***/ function(module, exports, __webpack_require__) {
-      "use strict";
-
-      exports.__esModule = true;
-      exports.popperPlacementPositions = undefined;
-
-      var _extends =
-        Object.assign ||
-        function(target) {
-          for (var i = 1; i < arguments.length; i++) {
-            var source = arguments[i];
-            for (var key in source) {
-              if (Object.prototype.hasOwnProperty.call(source, key)) {
-                target[key] = source[key];
-              }
-            }
-          }
-          return target;
-        };
-
-      var _createClass = (function() {
-        function defineProperties(target, props) {
-          for (var i = 0; i < props.length; i++) {
-            var descriptor = props[i];
-            descriptor.enumerable = descriptor.enumerable || false;
-            descriptor.configurable = true;
-            if ("value" in descriptor) descriptor.writable = true;
-            Object.defineProperty(target, descriptor.key, descriptor);
-          }
-        }
-        return function(Constructor, protoProps, staticProps) {
-          if (protoProps) defineProperties(Constructor.prototype, protoProps);
-          if (staticProps) defineProperties(Constructor, staticProps);
-          return Constructor;
-        };
-      })();
-
-      var _classnames = __webpack_require__(541);
-
-      var _classnames2 = _interopRequireDefault(_classnames);
-
-      var _react = __webpack_require__(327);
-
-      var _react2 = _interopRequireDefault(_react);
-
-      var _propTypes = __webpack_require__(534);
-
-      var _propTypes2 = _interopRequireDefault(_propTypes);
-
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
-      var _reactPopper = __webpack_require__(639);
+      var _reactPopper = __webpack_require__(640);
 
       function _interopRequireDefault(obj) {
         return obj && obj.__esModule ? obj : { default: obj };
@@ -56876,7 +56106,7 @@
 
       /***/
     },
-    /* 639 */
+    /* 640 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -56884,29 +56114,16 @@
         value: true
       });
       exports.Reference = exports.Manager = exports.placements = exports.Popper = undefined;
-<<<<<<< HEAD
 
-      var _Popper = __webpack_require__(640);
-=======
-
-      var _Popper = __webpack_require__(640);
+      var _Popper = __webpack_require__(641);
 
       var _Popper2 = _interopRequireDefault(_Popper);
 
-      var _Manager = __webpack_require__(724);
-
-      var _Popper = _interopRequireWildcard(__webpack_require__(638));
-
-      var _Reference = __webpack_require__(736);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
-
-      var _Popper2 = _interopRequireDefault(_Popper);
-
-      var _Manager = __webpack_require__(724);
+      var _Manager = __webpack_require__(725);
 
       var _Manager2 = _interopRequireDefault(_Manager);
 
-      var _Reference = __webpack_require__(736);
+      var _Reference = __webpack_require__(737);
 
       var _Reference2 = _interopRequireDefault(_Reference);
 
@@ -56925,7 +56142,7 @@
 
       /***/
     },
-    /* 640 */
+    /* 641 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -56933,49 +56150,23 @@
         value: true
       });
       exports.placements = exports.InnerPopper = undefined;
-<<<<<<< HEAD
-=======
 
-      var _extends2 = __webpack_require__(641);
+      var _extends2 = __webpack_require__(642);
 
       var _extends3 = _interopRequireDefault(_extends2);
 
-      var _classCallCheck2 = __webpack_require__(679);
+      var _classCallCheck2 = __webpack_require__(680);
 
       var _classCallCheck3 = _interopRequireDefault(_classCallCheck2);
 
-      var _possibleConstructorReturn2 = __webpack_require__(680);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
+      var _possibleConstructorReturn2 = __webpack_require__(681);
 
-      var _extends2 = __webpack_require__(641);
-
-      var _extends3 = _interopRequireDefault(_extends2);
-
-      var _classCallCheck2 = __webpack_require__(679);
-
-<<<<<<< HEAD
-      var _classCallCheck3 = _interopRequireDefault(_classCallCheck2);
-=======
-      var _inherits2 = __webpack_require__(715);
-
-      var _inherits3 = _interopRequireDefault(_inherits2);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
-
-      var _possibleConstructorReturn2 = __webpack_require__(680);
-
-<<<<<<< HEAD
       var _possibleConstructorReturn3 = _interopRequireDefault(
         _possibleConstructorReturn2
       );
-=======
-      var React = _interopRequireWildcard(_react);
 
-      var _popper = __webpack_require__(723);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
+      var _inherits2 = __webpack_require__(716);
 
-      var _inherits2 = __webpack_require__(715);
-
-<<<<<<< HEAD
       var _inherits3 = _interopRequireDefault(_inherits2);
 
       exports.default = Popper;
@@ -56984,18 +56175,13 @@
 
       var React = _interopRequireWildcard(_react);
 
-      var _popper = __webpack_require__(723);
-=======
-      var _Manager = __webpack_require__(724);
-
-      var _utils = __webpack_require__(735);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
+      var _popper = __webpack_require__(724);
 
       var _popper2 = _interopRequireDefault(_popper);
 
-      var _Manager = __webpack_require__(724);
+      var _Manager = __webpack_require__(725);
 
-      var _utils = __webpack_require__(735);
+      var _utils = __webpack_require__(736);
 
       function _interopRequireWildcard(obj) {
         if (obj && obj.__esModule) {
@@ -57222,33 +56408,16 @@
 
       /***/
     },
-    /* 641 */
+    /* 642 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
-<<<<<<< HEAD
-=======
 
       exports.__esModule = true;
 
-      var _assign = __webpack_require__(642);
-
-        for (i = 0; i < sourceKeys.length; i++) {
-          key = sourceKeys[i];
-          if (excluded.indexOf(key) >= 0) continue;
-          target[key] = source[key];
-        }
-
-        return target;
-      }
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
-
-      exports.__esModule = true;
-
-      var _assign = __webpack_require__(642);
+      var _assign = __webpack_require__(643);
 
       var _assign2 = _interopRequireDefault(_assign);
 
-<<<<<<< HEAD
       function _interopRequireDefault(obj) {
         return obj && obj.__esModule ? obj : { default: obj };
       }
@@ -57271,533 +56440,27 @@
 
       /***/
     },
-    /* 642 */
-    /***/ function(module, exports, __webpack_require__) {
-      module.exports = { default: __webpack_require__(643), __esModule: true };
-
-      /***/
-    },
     /* 643 */
     /***/ function(module, exports, __webpack_require__) {
-      __webpack_require__(644);
-      module.exports = __webpack_require__(647).Object.assign;
+      module.exports = { default: __webpack_require__(644), __esModule: true };
 
       /***/
     },
     /* 644 */
-    [867, 645, 660],
+    /***/ function(module, exports, __webpack_require__) {
+      __webpack_require__(645);
+      module.exports = __webpack_require__(648).Object.assign;
+
+      /***/
+    },
     /* 645 */
-=======
-      /***/
-    },
-    /* 642 */
-    /***/ function(module, exports, __webpack_require__) {
-      module.exports = { default: __webpack_require__(643), __esModule: true };
-
-      /***/
-    },
-    /* 643 */
-    /***/ function(module, exports, __webpack_require__) {
-      __webpack_require__(644);
-      module.exports = __webpack_require__(647).Object.assign;
-
-      /***/
-    },
-    /* 644 */
-    [867, 645, 660],
-    /* 645 */
-    /***/ function(module, exports, __webpack_require__) {
-      var global = __webpack_require__(646);
-      var core = __webpack_require__(647);
-      var ctx = __webpack_require__(648);
-      var hide = __webpack_require__(650);
-      var PROTOTYPE = "prototype";
-
-      var $export = function(type, name, source) {
-        var IS_FORCED = type & $export.F;
-        var IS_GLOBAL = type & $export.G;
-        var IS_STATIC = type & $export.S;
-        var IS_PROTO = type & $export.P;
-        var IS_BIND = type & $export.B;
-        var IS_WRAP = type & $export.W;
-        var exports = IS_GLOBAL ? core : core[name] || (core[name] = {});
-        var expProto = exports[PROTOTYPE];
-        var target = IS_GLOBAL
-          ? global
-          : IS_STATIC
-          ? global[name]
-          : (global[name] || {})[PROTOTYPE];
-        var key, own, out;
-        if (IS_GLOBAL) source = name;
-        for (key in source) {
-          // contains in native
-          own = !IS_FORCED && target && target[key] !== undefined;
-          if (own && key in exports) continue;
-          // export native or passed
-          out = own ? target[key] : source[key];
-          // prevent global pollution for namespaces
-          exports[key] =
-            IS_GLOBAL && typeof target[key] != "function"
-              ? source[key]
-              : // bind timers to global for call from export context
-              IS_BIND && own
-              ? ctx(out, global)
-              : // wrap global constructors for prevent change them in library
-              IS_WRAP && target[key] == out
-              ? (function(C) {
-                  var F = function(a, b, c) {
-                    if (this instanceof C) {
-                      switch (arguments.length) {
-                        case 0:
-                          return new C();
-                        case 1:
-                          return new C(a);
-                        case 2:
-                          return new C(a, b);
-                      }
-                      return new C(a, b, c);
-                    }
-                    return C.apply(this, arguments);
-                  };
-                  F[PROTOTYPE] = C[PROTOTYPE];
-                  return F;
-                  // make static versions for prototype methods
-                })(out)
-              : IS_PROTO && typeof out == "function"
-              ? ctx(Function.call, out)
-              : out;
-          // export proto methods to core.%CONSTRUCTOR%.methods.%NAME%
-          if (IS_PROTO) {
-            (exports.virtual || (exports.virtual = {}))[key] = out;
-            // export proto methods to core.%CONSTRUCTOR%.prototype.%NAME%
-            if (type & $export.R && expProto && !expProto[key])
-              hide(expProto, key, out);
-          }
-        }
-
-        return self;
-      }
-
-      module.exports = _assertThisInitialized;
-
-      /***/
-    },
+    [868, 646, 661],
     /* 646 */
-    4,
-    /* 647 */
-    9,
-    /* 648 */
-    [841, 649],
-    /* 649 */
-    21,
-    /* 650 */
-    [835, 651, 659, 655],
-    /* 651 */
-    [836, 652, 654, 658, 655],
-    /* 652 */
-    [837, 653],
-    /* 653 */
-    13,
-    /* 654 */
-    [838, 655, 656, 657],
-    /* 655 */
-    [834, 656],
-    /* 656 */
-    7,
-    /* 657 */
-    [839, 653, 646],
-    /* 658 */
-    [840, 653],
-    /* 659 */
-    17,
-    /* 660 */
-    [868, 661, 676, 677, 678, 665, 656],
-    /* 661 */
-    [849, 662, 675],
-    /* 662 */
-    [850, 663, 664, 668, 672],
-    /* 663 */
-    5,
-    /* 664 */
-    [851, 665, 667],
-    /* 665 */
-    [852, 666],
-    /* 666 */
-    34,
-    /* 667 */
-    35,
-    /* 668 */
-    [853, 664, 669, 671],
-    /* 669 */
-    [854, 670],
-    /* 670 */
-    38,
-    /* 671 */
-    [855, 670],
-    /* 672 */
-    [856, 673, 674],
-    /* 673 */
-    [843, 646],
-    /* 674 */
-    19,
-    /* 675 */
-    41,
-    /* 676 */
-    42,
-    /* 677 */
-    43,
-    /* 678 */
-    [865, 667],
-    /* 679 */
-    /***/ function(module, exports) {
-      "use strict";
-
-      exports.__esModule = true;
-
-      exports.default = function(instance, Constructor) {
-        if (!(instance instanceof Constructor)) {
-          throw new TypeError("Cannot call a class as a function");
-        }
-      };
-
-      /***/
-    },
-    /* 680 */
     /***/ function(module, exports, __webpack_require__) {
-      "use strict";
-
-      exports.__esModule = true;
-
-      var _typeof2 = __webpack_require__(681);
-
-      var _typeof3 = _interopRequireDefault(_typeof2);
-
-      function _interopRequireDefault(obj) {
-        return obj && obj.__esModule ? obj : { default: obj };
-      }
-
-      exports.default = function(self, call) {
-        if (!self) {
-          throw new ReferenceError(
-            "this hasn't been initialised - super() hasn't been called"
-          );
-        }
-
-        return call &&
-          ((typeof call === "undefined"
-            ? "undefined"
-            : (0, _typeof3.default)(call)) === "object" ||
-            typeof call === "function")
-          ? call
-          : self;
-      };
-
-      /***/
-    },
-    /* 681 */
-    /***/ function(module, exports, __webpack_require__) {
-      "use strict";
-
-      exports.__esModule = true;
-
-      var _iterator = __webpack_require__(682);
-
-      var _iterator2 = _interopRequireDefault(_iterator);
-
-      var _symbol = __webpack_require__(702);
-
-      var _symbol2 = _interopRequireDefault(_symbol);
-
-      var _typeof =
-        typeof _symbol2.default === "function" &&
-        typeof _iterator2.default === "symbol"
-          ? function(obj) {
-              return typeof obj;
-            }
-          : function(obj) {
-              return obj &&
-                typeof _symbol2.default === "function" &&
-                obj.constructor === _symbol2.default &&
-                obj !== _symbol2.default.prototype
-                ? "symbol"
-                : typeof obj;
-            };
-
-      function _interopRequireDefault(obj) {
-        return obj && obj.__esModule ? obj : { default: obj };
-      }
-
-      exports.default =
-        typeof _symbol2.default === "function" &&
-        _typeof(_iterator2.default) === "symbol"
-          ? function(obj) {
-              return typeof obj === "undefined" ? "undefined" : _typeof(obj);
-            }
-          : function(obj) {
-              return obj &&
-                typeof _symbol2.default === "function" &&
-                obj.constructor === _symbol2.default &&
-                obj !== _symbol2.default.prototype
-                ? "symbol"
-                : typeof obj === "undefined"
-                ? "undefined"
-                : _typeof(obj);
-            };
-
-      /***/
-    },
-    /* 682 */
-    /***/ function(module, exports, __webpack_require__) {
-      module.exports = { default: __webpack_require__(683), __esModule: true };
-
-      /***/
-    },
-    /* 683 */
-    /***/ function(module, exports, __webpack_require__) {
-      __webpack_require__(684);
-      __webpack_require__(697);
-      module.exports = __webpack_require__(701).f("iterator");
-
-      /***/
-    },
-    /* 684 */
-    [871, 685, 686],
-    /* 685 */
-    [872, 670, 667],
-    /* 686 */
-    [873, 687, 645, 688, 650, 663, 689, 690, 694, 696, 695],
-    /* 687 */
-    /***/ function(module, exports) {
-      module.exports = true;
-
-      /***/
-    },
-    /* 688 */
-    /***/ function(module, exports, __webpack_require__) {
-      module.exports = __webpack_require__(650);
-
-      /***/
-    },
-    /* 689 */
-    129,
-    /* 690 */
-    [874, 691, 659, 694, 650, 695],
-    /* 691 */
-    [858, 652, 692, 675, 672, 657, 693],
-    /* 692 */
-    [859, 651, 652, 661, 655],
-    /* 693 */
-    [860, 646],
-    /* 694 */
-    [844, 651, 663, 695],
-    /* 695 */
-    [845, 673, 674, 646],
-    /* 696 */
-    [866, 663, 678, 672],
-    /* 697 */
-    /***/ function(module, exports, __webpack_require__) {
-      __webpack_require__(698);
-      var global = __webpack_require__(646);
-      var hide = __webpack_require__(650);
-      var Iterators = __webpack_require__(689);
-      var TO_STRING_TAG = __webpack_require__(695)("toStringTag");
-
-      var DOMIterables = (
-        "CSSRuleList,CSSStyleDeclaration,CSSValueList,ClientRectList,DOMRectList,DOMStringList," +
-        "DOMTokenList,DataTransferItemList,FileList,HTMLAllCollection,HTMLCollection,HTMLFormElement,HTMLSelectElement," +
-        "MediaList,MimeTypeArray,NamedNodeMap,NodeList,PaintRequestList,Plugin,PluginArray,SVGLengthList,SVGNumberList," +
-        "SVGPathSegList,SVGPointList,SVGStringList,SVGTransformList,SourceBufferList,StyleSheetList,TextTrackCueList," +
-        "TextTrackList,TouchList"
-      ).split(",");
-
-      for (var i = 0; i < DOMIterables.length; i++) {
-        var NAME = DOMIterables[i];
-        var Collection = global[NAME];
-        var proto = Collection && Collection.prototype;
-        if (proto && !proto[TO_STRING_TAG]) hide(proto, TO_STRING_TAG, NAME);
-        Iterators[NAME] = Iterators.Array;
-      }
-
-      /***/
-    },
-    /* 698 */
-    [875, 699, 700, 689, 664, 686],
-    /* 699 */
-    /***/ function(module, exports) {
-      module.exports = function() {
-        /* empty */
-      };
-
-      /***/
-    },
-    /* 700 */
-    195,
-    /* 701 */
-    [846, 695],
-    /* 702 */
-    /***/ function(module, exports, __webpack_require__) {
-      module.exports = { default: __webpack_require__(703), __esModule: true };
-
-      /***/
-    },
-    /* 703 */
-    /***/ function(module, exports, __webpack_require__) {
-      __webpack_require__(704);
-      __webpack_require__(712);
-      __webpack_require__(713);
-      __webpack_require__(714);
-      module.exports = __webpack_require__(647).Symbol;
-
-      /***/
-    },
-    /* 704 */
-    [
-      833,
-      646,
-      663,
-      655,
-      645,
-      688,
-      705,
-      656,
-      673,
-      694,
-      674,
-      695,
-      701,
-      706,
-      707,
-      708,
-      652,
-      664,
-      658,
-      659,
-      691,
-      709,
-      711,
-      651,
-      661,
-      710,
-      677,
-      676,
-      687,
-      650
-    ],
-    /* 705 */
-    [842, 674, 653, 663, 651, 656],
-    /* 706 */
-    [847, 646, 647, 687, 701, 651],
-    /* 707 */
-    [848, 661, 676, 677],
-    /* 708 */
-    [857, 666],
-    /* 709 */
-    [861, 664, 710],
-    /* 710 */
-    [862, 662, 675],
-    /* 711 */
-    [863, 677, 659, 664, 658, 663, 654, 655],
-    /* 712 */
-    /***/ function(module, exports) {
-      /***/
-    },
-    /* 713 */
-    [876, 706],
-    /* 714 */
-    [877, 706],
-    /* 715 */
-    /***/ function(module, exports, __webpack_require__) {
-      "use strict";
-
-      exports.__esModule = true;
-
-      var _setPrototypeOf = __webpack_require__(716);
-
-      var _setPrototypeOf2 = _interopRequireDefault(_setPrototypeOf);
-
-      var _create = __webpack_require__(720);
-
-      var _create2 = _interopRequireDefault(_create);
-
-      var _typeof2 = __webpack_require__(681);
-
-      var _typeof3 = _interopRequireDefault(_typeof2);
-
-      function _interopRequireDefault(obj) {
-        return obj && obj.__esModule ? obj : { default: obj };
-      }
-
-      exports.default = function(subClass, superClass) {
-        if (typeof superClass !== "function" && superClass !== null) {
-          throw new TypeError(
-            "Super expression must either be null or a function, not " +
-              (typeof superClass === "undefined"
-                ? "undefined"
-                : (0, _typeof3.default)(superClass))
-          );
-        }
-
-        subClass.prototype = (0, _create2.default)(
-          superClass && superClass.prototype,
-          {
-            constructor: {
-              value: subClass,
-              enumerable: false,
-              writable: true,
-              configurable: true
-            }
-          }
-        );
-        if (superClass)
-          _setPrototypeOf2.default
-            ? (0, _setPrototypeOf2.default)(subClass, superClass)
-            : (subClass.__proto__ = superClass);
-      };
-
-      /***/
-    },
-    /* 716 */
-    /***/ function(module, exports, __webpack_require__) {
-      module.exports = { default: __webpack_require__(717), __esModule: true };
-
-      /***/
-    },
-    /* 717 */
-    /***/ function(module, exports, __webpack_require__) {
-      __webpack_require__(718);
-      module.exports = __webpack_require__(647).Object.setPrototypeOf;
-
-      /***/
-    },
-    /* 718 */
-    [869, 645, 719],
-    /* 719 */
-    [870, 653, 652, 648, 711],
-    /* 720 */
-    /***/ function(module, exports, __webpack_require__) {
-      module.exports = { default: __webpack_require__(721), __esModule: true };
-
-      /***/
-    },
-    /* 721 */
-    /***/ function(module, exports, __webpack_require__) {
-      __webpack_require__(722);
-      var $Object = __webpack_require__(647).Object;
-      module.exports = function create(P, D) {
-        return $Object.create(P, D);
-      };
-
-      /***/
-    },
-    /* 722 */
-    [864, 645, 691],
-    /* 723 */
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
-    /***/ function(module, exports, __webpack_require__) {
-      var global = __webpack_require__(646);
-      var core = __webpack_require__(647);
-      var ctx = __webpack_require__(648);
-      var hide = __webpack_require__(650);
+      var global = __webpack_require__(647);
+      var core = __webpack_require__(648);
+      var ctx = __webpack_require__(649);
+      var hide = __webpack_require__(651);
       var PROTOTYPE = "prototype";
 
       var $export = function(type, name, source) {
@@ -57875,73 +56538,73 @@
 
       /***/
     },
-    /* 646 */
-    4,
     /* 647 */
-    9,
+    4,
     /* 648 */
-    [841, 649],
+    9,
     /* 649 */
-    21,
+    [842, 650],
     /* 650 */
-    [835, 651, 659, 655],
+    21,
     /* 651 */
-    [836, 652, 654, 658, 655],
+    [836, 652, 660, 656],
     /* 652 */
-    [837, 653],
+    [837, 653, 655, 659, 656],
     /* 653 */
-    13,
+    [838, 654],
     /* 654 */
-    [838, 655, 656, 657],
+    13,
     /* 655 */
-    [834, 656],
+    [839, 656, 657, 658],
     /* 656 */
-    7,
+    [835, 657],
     /* 657 */
-    [839, 653, 646],
+    7,
     /* 658 */
-    [840, 653],
+    [840, 654, 647],
     /* 659 */
-    17,
+    [841, 654],
     /* 660 */
-    [868, 661, 676, 677, 678, 665, 656],
+    17,
     /* 661 */
-    [849, 662, 675],
+    [869, 662, 677, 678, 679, 666, 657],
     /* 662 */
-    [850, 663, 664, 668, 672],
+    [850, 663, 676],
     /* 663 */
-    5,
+    [851, 664, 665, 669, 673],
     /* 664 */
-    [851, 665, 667],
+    5,
     /* 665 */
-    [852, 666],
+    [852, 666, 668],
     /* 666 */
-    34,
+    [853, 667],
     /* 667 */
-    35,
+    34,
     /* 668 */
-    [853, 664, 669, 671],
+    35,
     /* 669 */
-    [854, 670],
+    [854, 665, 670, 672],
     /* 670 */
-    38,
+    [855, 671],
     /* 671 */
-    [855, 670],
+    38,
     /* 672 */
-    [856, 673, 674],
+    [856, 671],
     /* 673 */
-    [843, 646],
+    [857, 674, 675],
     /* 674 */
-    19,
+    [844, 647],
     /* 675 */
-    41,
+    19,
     /* 676 */
-    42,
+    41,
     /* 677 */
-    43,
+    42,
     /* 678 */
-    [865, 667],
+    43,
     /* 679 */
+    [866, 668],
+    /* 680 */
     /***/ function(module, exports) {
       "use strict";
 
@@ -57955,13 +56618,13 @@
 
       /***/
     },
-    /* 680 */
+    /* 681 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
       exports.__esModule = true;
 
-      var _typeof2 = __webpack_require__(681);
+      var _typeof2 = __webpack_require__(682);
 
       var _typeof3 = _interopRequireDefault(_typeof2);
 
@@ -57987,17 +56650,17 @@
 
       /***/
     },
-    /* 681 */
+    /* 682 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
       exports.__esModule = true;
 
-      var _iterator = __webpack_require__(682);
+      var _iterator = __webpack_require__(683);
 
       var _iterator2 = _interopRequireDefault(_iterator);
 
-      var _symbol = __webpack_require__(702);
+      var _symbol = __webpack_require__(703);
 
       var _symbol2 = _interopRequireDefault(_symbol);
 
@@ -58039,61 +56702,61 @@
 
       /***/
     },
-    /* 682 */
-    /***/ function(module, exports, __webpack_require__) {
-      module.exports = { default: __webpack_require__(683), __esModule: true };
-
-      /***/
-    },
     /* 683 */
     /***/ function(module, exports, __webpack_require__) {
-      __webpack_require__(684);
-      __webpack_require__(697);
-      module.exports = __webpack_require__(701).f("iterator");
+      module.exports = { default: __webpack_require__(684), __esModule: true };
 
       /***/
     },
     /* 684 */
-    [871, 685, 686],
+    /***/ function(module, exports, __webpack_require__) {
+      __webpack_require__(685);
+      __webpack_require__(698);
+      module.exports = __webpack_require__(702).f("iterator");
+
+      /***/
+    },
     /* 685 */
-    [872, 670, 667],
+    [872, 686, 687],
     /* 686 */
-    [873, 687, 645, 688, 650, 663, 689, 690, 694, 696, 695],
+    [873, 671, 668],
     /* 687 */
+    [874, 688, 646, 689, 651, 664, 690, 691, 695, 697, 696],
+    /* 688 */
     /***/ function(module, exports) {
       module.exports = true;
 
       /***/
     },
-    /* 688 */
+    /* 689 */
     /***/ function(module, exports, __webpack_require__) {
-      module.exports = __webpack_require__(650);
+      module.exports = __webpack_require__(651);
 
       /***/
     },
-    /* 689 */
-    129,
     /* 690 */
-    [874, 691, 659, 694, 650, 695],
+    129,
     /* 691 */
-    [858, 652, 692, 675, 672, 657, 693],
+    [875, 692, 660, 695, 651, 696],
     /* 692 */
-    [859, 651, 652, 661, 655],
+    [859, 653, 693, 676, 673, 658, 694],
     /* 693 */
-    [860, 646],
+    [860, 652, 653, 662, 656],
     /* 694 */
-    [844, 651, 663, 695],
+    [861, 647],
     /* 695 */
-    [845, 673, 674, 646],
+    [845, 652, 664, 696],
     /* 696 */
-    [866, 663, 678, 672],
+    [846, 674, 675, 647],
     /* 697 */
+    [867, 664, 679, 673],
+    /* 698 */
     /***/ function(module, exports, __webpack_require__) {
-      __webpack_require__(698);
-      var global = __webpack_require__(646);
-      var hide = __webpack_require__(650);
-      var Iterators = __webpack_require__(689);
-      var TO_STRING_TAG = __webpack_require__(695)("toStringTag");
+      __webpack_require__(699);
+      var global = __webpack_require__(647);
+      var hide = __webpack_require__(651);
+      var Iterators = __webpack_require__(690);
+      var TO_STRING_TAG = __webpack_require__(696)("toStringTag");
 
       var DOMIterables = (
         "CSSRuleList,CSSStyleDeclaration,CSSValueList,ClientRectList,DOMRectList,DOMStringList," +
@@ -58113,9 +56776,9 @@
 
       /***/
     },
-    /* 698 */
-    [875, 699, 700, 689, 664, 686],
     /* 699 */
+    [876, 700, 701, 690, 665, 687],
+    /* 700 */
     /***/ function(module, exports) {
       module.exports = function() {
         /* empty */
@@ -58123,96 +56786,96 @@
 
       /***/
     },
-    /* 700 */
-    195,
     /* 701 */
-    [846, 695],
+    195,
     /* 702 */
-    /***/ function(module, exports, __webpack_require__) {
-      module.exports = { default: __webpack_require__(703), __esModule: true };
-
-      /***/
-    },
+    [847, 696],
     /* 703 */
     /***/ function(module, exports, __webpack_require__) {
-      __webpack_require__(704);
-      __webpack_require__(712);
-      __webpack_require__(713);
-      __webpack_require__(714);
-      module.exports = __webpack_require__(647).Symbol;
+      module.exports = { default: __webpack_require__(704), __esModule: true };
 
       /***/
     },
     /* 704 */
+    /***/ function(module, exports, __webpack_require__) {
+      __webpack_require__(705);
+      __webpack_require__(713);
+      __webpack_require__(714);
+      __webpack_require__(715);
+      module.exports = __webpack_require__(648).Symbol;
+
+      /***/
+    },
+    /* 705 */
     [
-      833,
-      646,
-      663,
-      655,
-      645,
-      688,
-      705,
+      834,
+      647,
+      664,
       656,
-      673,
-      694,
+      646,
+      689,
+      706,
+      657,
       674,
       695,
-      701,
-      706,
+      675,
+      696,
+      702,
       707,
       708,
-      652,
-      664,
-      658,
-      659,
-      691,
       709,
-      711,
-      651,
-      661,
+      653,
+      665,
+      659,
+      660,
+      692,
       710,
+      712,
+      652,
+      662,
+      711,
+      678,
       677,
-      676,
-      687,
-      650
+      688,
+      651
     ],
-    /* 705 */
-    [842, 674, 653, 663, 651, 656],
     /* 706 */
-    [847, 646, 647, 687, 701, 651],
+    [843, 675, 654, 664, 652, 657],
     /* 707 */
-    [848, 661, 676, 677],
+    [848, 647, 648, 688, 702, 652],
     /* 708 */
-    [857, 666],
+    [849, 662, 677, 678],
     /* 709 */
-    [861, 664, 710],
+    [858, 667],
     /* 710 */
-    [862, 662, 675],
+    [862, 665, 711],
     /* 711 */
-    [863, 677, 659, 664, 658, 663, 654, 655],
+    [863, 663, 676],
     /* 712 */
+    [864, 678, 660, 665, 659, 664, 655, 656],
+    /* 713 */
     /***/ function(module, exports) {
       /***/
     },
-    /* 713 */
-    [876, 706],
     /* 714 */
-    [877, 706],
+    [877, 707],
     /* 715 */
+    [878, 707],
+    /* 716 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
       exports.__esModule = true;
 
-      var _setPrototypeOf = __webpack_require__(716);
+      var _setPrototypeOf = __webpack_require__(717);
 
       var _setPrototypeOf2 = _interopRequireDefault(_setPrototypeOf);
 
-      var _create = __webpack_require__(720);
+      var _create = __webpack_require__(721);
 
       var _create2 = _interopRequireDefault(_create);
 
-      var _typeof2 = __webpack_require__(681);
+      var _typeof2 = __webpack_require__(682);
 
       var _typeof3 = _interopRequireDefault(_typeof2);
 
@@ -58249,42 +56912,42 @@
 
       /***/
     },
-    /* 716 */
-    /***/ function(module, exports, __webpack_require__) {
-      module.exports = { default: __webpack_require__(717), __esModule: true };
-
-      /***/
-    },
     /* 717 */
     /***/ function(module, exports, __webpack_require__) {
-      __webpack_require__(718);
-      module.exports = __webpack_require__(647).Object.setPrototypeOf;
+      module.exports = { default: __webpack_require__(718), __esModule: true };
 
       /***/
     },
     /* 718 */
-    [869, 645, 719],
-    /* 719 */
-    [870, 653, 652, 648, 711],
-    /* 720 */
     /***/ function(module, exports, __webpack_require__) {
-      module.exports = { default: __webpack_require__(721), __esModule: true };
+      __webpack_require__(719);
+      module.exports = __webpack_require__(648).Object.setPrototypeOf;
 
       /***/
     },
+    /* 719 */
+    [870, 646, 720],
+    /* 720 */
+    [871, 654, 653, 649, 712],
     /* 721 */
     /***/ function(module, exports, __webpack_require__) {
-      __webpack_require__(722);
-      var $Object = __webpack_require__(647).Object;
+      module.exports = { default: __webpack_require__(722), __esModule: true };
+
+      /***/
+    },
+    /* 722 */
+    /***/ function(module, exports, __webpack_require__) {
+      __webpack_require__(723);
+      var $Object = __webpack_require__(648).Object;
       module.exports = function create(P, D) {
         return $Object.create(P, D);
       };
 
       /***/
     },
-    /* 722 */
-    [864, 645, 691],
     /* 723 */
+    [865, 646, 692],
+    /* 724 */
     /***/ function(module, exports, __webpack_require__) {
       /* WEBPACK VAR INJECTION */ (function(global) {
         /**!
@@ -61267,7 +59930,7 @@
 
       /***/
     },
-    /* 724 */
+    /* 725 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -61275,69 +59938,22 @@
         value: true
       });
       exports.ManagerContext = undefined;
-<<<<<<< HEAD
-=======
 
-      var _extends2 = __webpack_require__(641);
+      var _extends2 = __webpack_require__(642);
 
       var _extends3 = _interopRequireDefault(_extends2);
 
-      var _classCallCheck2 = __webpack_require__(679);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
+      var _classCallCheck2 = __webpack_require__(680);
 
-      var _extends2 = __webpack_require__(641);
-
-<<<<<<< HEAD
-      var _extends3 = _interopRequireDefault(_extends2);
-=======
-      var _possibleConstructorReturn2 = __webpack_require__(680);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
-
-      var _classCallCheck2 = __webpack_require__(679);
-
-<<<<<<< HEAD
       var _classCallCheck3 = _interopRequireDefault(_classCallCheck2);
-=======
-      var _inherits2 = __webpack_require__(715);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
-      var _possibleConstructorReturn2 = __webpack_require__(680);
+      var _possibleConstructorReturn2 = __webpack_require__(681);
 
-<<<<<<< HEAD
       var _possibleConstructorReturn3 = _interopRequireDefault(
         _possibleConstructorReturn2
       );
-=======
-      var _react = __webpack_require__(327);
 
-      var React = _interopRequireWildcard(_react);
-
-      var _createReactContext = __webpack_require__(725);
-
-      var _createReactContext2 = _interopRequireDefault(_createReactContext);
-
-      function _interopRequireWildcard(obj) {
-        if (obj && obj.__esModule) {
-          return obj;
-        } else {
-          var newObj = {};
-          if (obj != null) {
-            for (var key in obj) {
-              if (Object.prototype.hasOwnProperty.call(obj, key))
-                newObj[key] = obj[key];
-            }
-          }
-          newObj.default = obj;
-          return newObj;
-        }
-      }
-
-      function _interopRequireDefault(obj) {
-        return obj && obj.__esModule ? obj : { default: obj };
-      }
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
-
-      var _inherits2 = __webpack_require__(715);
+      var _inherits2 = __webpack_require__(716);
 
       var _inherits3 = _interopRequireDefault(_inherits2);
 
@@ -61345,7 +59961,7 @@
 
       var React = _interopRequireWildcard(_react);
 
-      var _createReactContext = __webpack_require__(725);
+      var _createReactContext = __webpack_require__(726);
 
       var _createReactContext2 = _interopRequireDefault(_createReactContext);
 
@@ -61421,7 +60037,7 @@
 
       /***/
     },
-    /* 725 */
+    /* 726 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -61431,7 +60047,7 @@
 
       var _react2 = _interopRequireDefault(_react);
 
-      var _implementation = __webpack_require__(726);
+      var _implementation = __webpack_require__(727);
 
       var _implementation2 = _interopRequireDefault(_implementation);
 
@@ -61445,7 +60061,7 @@
 
       /***/
     },
-    /* 726 */
+    /* 727 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -61455,15 +60071,15 @@
 
       var _react2 = _interopRequireDefault(_react);
 
-      var _propTypes = __webpack_require__(727);
+      var _propTypes = __webpack_require__(728);
 
       var _propTypes2 = _interopRequireDefault(_propTypes);
 
-      var _gud = __webpack_require__(732);
+      var _gud = __webpack_require__(733);
 
       var _gud2 = _interopRequireDefault(_gud);
 
-      var _warning = __webpack_require__(733);
+      var _warning = __webpack_require__(734);
 
       var _warning2 = _interopRequireDefault(_warning);
 
@@ -61728,17 +60344,17 @@
 
       /***/
     },
-    /* 727 */
-    [878, 728],
     /* 728 */
-    [879, 729, 730, 731],
+    [879, 729],
     /* 729 */
-    331,
+    [880, 730, 731, 732],
     /* 730 */
-    536,
+    331,
     /* 731 */
-    537,
+    536,
     /* 732 */
+    537,
+    /* 733 */
     /***/ function(module, exports) {
       /* WEBPACK VAR INJECTION */ (function(global) {
         // @flow
@@ -61760,7 +60376,7 @@
 
       /***/
     },
-    /* 733 */
+    /* 734 */
     /***/ function(module, exports, __webpack_require__) {
       /**
        * Copyright (c) 2014-present, Facebook, Inc.
@@ -61772,7 +60388,7 @@
 
       "use strict";
 
-      var emptyFunction = __webpack_require__(734);
+      var emptyFunction = __webpack_require__(735);
 
       /**
        * Similar to invariant but only logs a warning if the condition is not met.
@@ -61844,9 +60460,9 @@
 
       /***/
     },
-    /* 734 */
-    331,
     /* 735 */
+    331,
+    /* 736 */
     /***/ function(module, exports) {
       "use strict";
 
@@ -61884,7 +60500,7 @@
 
       /***/
     },
-    /* 736 */
+    /* 737 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -61892,65 +60508,37 @@
         value: true
       });
 
-      var _extends2 = __webpack_require__(641);
-<<<<<<< HEAD
+      var _extends2 = __webpack_require__(642);
 
       var _extends3 = _interopRequireDefault(_extends2);
 
-      var _classCallCheck2 = __webpack_require__(679);
-
-      var _classCallCheck3 = _interopRequireDefault(_classCallCheck2);
-=======
-
-      var _extends3 = _interopRequireDefault(_extends2);
-
-      var _classCallCheck2 = __webpack_require__(679);
+      var _classCallCheck2 = __webpack_require__(680);
 
       var _classCallCheck3 = _interopRequireDefault(_classCallCheck2);
 
-      var _possibleConstructorReturn2 = __webpack_require__(680);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
-
-      var _possibleConstructorReturn2 = __webpack_require__(680);
+      var _possibleConstructorReturn2 = __webpack_require__(681);
 
       var _possibleConstructorReturn3 = _interopRequireDefault(
         _possibleConstructorReturn2
       );
 
-      var _inherits2 = __webpack_require__(715);
-<<<<<<< HEAD
-=======
-
-      var _inherits3 = _interopRequireDefault(_inherits2);
-
-      exports.default = Reference;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
+      var _inherits2 = __webpack_require__(716);
 
       var _inherits3 = _interopRequireDefault(_inherits2);
 
       exports.default = Reference;
 
-<<<<<<< HEAD
       var _react = __webpack_require__(327);
-=======
-      var _warning = __webpack_require__(737);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       var React = _interopRequireWildcard(_react);
 
-<<<<<<< HEAD
-      var _warning = __webpack_require__(737);
+      var _warning = __webpack_require__(738);
 
       var _warning2 = _interopRequireDefault(_warning);
-=======
-      var _Manager = __webpack_require__(724);
 
-      var _utils = __webpack_require__(735);
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
+      var _Manager = __webpack_require__(725);
 
-      var _Manager = __webpack_require__(724);
-
-      var _utils = __webpack_require__(735);
+      var _utils = __webpack_require__(736);
 
       function _interopRequireWildcard(obj) {
         if (obj && obj.__esModule) {
@@ -62036,7 +60624,7 @@
 
       /***/
     },
-    /* 737 */
+    /* 738 */
     /***/ function(module, exports, __webpack_require__) {
       /**
        * Copyright 2014-2015, Facebook, Inc.
@@ -62103,7 +60691,7 @@
 
       /***/
     },
-    /* 738 */
+    /* 739 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -62195,7 +60783,7 @@
 
       /***/
     },
-    /* 739 */
+    /* 740 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -62316,7 +60904,7 @@
 
       /***/
     },
-    /* 740 */
+    /* 741 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -62427,7 +61015,7 @@
 
       /***/
     },
-    /* 741 */
+    /* 742 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -62538,7 +61126,7 @@
 
       /***/
     },
-    /* 742 */
+    /* 743 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -62657,7 +61245,7 @@
 
       /***/
     },
-    /* 743 */
+    /* 744 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -62701,7 +61289,7 @@
 
       /***/
     },
-    /* 744 */
+    /* 745 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -62851,7 +61439,7 @@
 
       /***/
     },
-    /* 745 */
+    /* 746 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -62993,7 +61581,7 @@
 
       /***/
     },
-    /* 746 */
+    /* 747 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -63135,7 +61723,7 @@
 
       /***/
     },
-    /* 747 */
+    /* 748 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -63149,7 +61737,7 @@
 
       var _reactDatepicker2 = _interopRequireDefault(_reactDatepicker);
 
-      var _enGB = __webpack_require__(748);
+      var _enGB = __webpack_require__(749);
 
       var _enGB2 = _interopRequireDefault(_enGB);
 
@@ -63290,22 +61878,18 @@
 
       /***/
     },
-    /* 748 */
+    /* 749 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = void 0;
-=======
-      exports["default"] = void 0;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       var _index = _interopRequireDefault(__webpack_require__(548));
 
-      var _index2 = _interopRequireDefault(__webpack_require__(749));
+      var _index2 = _interopRequireDefault(__webpack_require__(750));
 
       var _index3 = _interopRequireDefault(__webpack_require__(551));
 
@@ -63326,19 +61910,11 @@
        * @author Alex [@glintik]{@link https://github.com/glintik}
        */
       var locale = {
-<<<<<<< HEAD
         formatDistance: _index.default,
         formatLong: _index2.default,
         formatRelative: _index3.default,
         localize: _index4.default,
         match: _index5.default,
-=======
-        formatDistance: _index["default"],
-        formatLong: _index2["default"],
-        formatRelative: _index3["default"],
-        localize: _index4["default"],
-        match: _index5["default"],
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         options: {
           weekStartsOn: 1,
           /* Monday */
@@ -63346,27 +61922,19 @@
         }
       };
       var _default = locale;
-<<<<<<< HEAD
       exports.default = _default;
-=======
-      exports["default"] = _default;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
       module.exports = exports.default;
 
       /***/
     },
-    /* 749 */
+    /* 750 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = void 0;
-=======
-      exports["default"] = void 0;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       var _index = _interopRequireDefault(__webpack_require__(550));
 
@@ -63393,7 +61961,6 @@
         short: "{{date}}, {{time}}"
       };
       var formatLong = {
-<<<<<<< HEAD
         date: (0, _index.default)({
           formats: dateFormats,
           defaultWidth: "full"
@@ -63403,32 +61970,17 @@
           defaultWidth: "full"
         }),
         dateTime: (0, _index.default)({
-=======
-        date: (0, _index["default"])({
-          formats: dateFormats,
-          defaultWidth: "full"
-        }),
-        time: (0, _index["default"])({
-          formats: timeFormats,
-          defaultWidth: "full"
-        }),
-        dateTime: (0, _index["default"])({
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
           formats: dateTimeFormats,
           defaultWidth: "full"
         })
       };
       var _default = formatLong;
-<<<<<<< HEAD
       exports.default = _default;
-=======
-      exports["default"] = _default;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
       module.exports = exports.default;
 
       /***/
     },
-    /* 750 */
+    /* 751 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -63442,7 +61994,7 @@
 
       var _reactDatepicker2 = _interopRequireDefault(_reactDatepicker);
 
-      var _ptBR = __webpack_require__(751);
+      var _ptBR = __webpack_require__(752);
 
       var _ptBR2 = _interopRequireDefault(_ptBR);
 
@@ -63604,35 +62156,24 @@
 
       /***/
     },
-    /* 751 */
+    /* 752 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = void 0;
 
-      var _index = _interopRequireDefault(__webpack_require__(752));
+      var _index = _interopRequireDefault(__webpack_require__(753));
 
-      var _index2 = _interopRequireDefault(__webpack_require__(753));
+      var _index2 = _interopRequireDefault(__webpack_require__(754));
 
-      var _index3 = _interopRequireDefault(__webpack_require__(754));
+      var _index3 = _interopRequireDefault(__webpack_require__(755));
 
-=======
-      exports["default"] = void 0;
+      var _index4 = _interopRequireDefault(__webpack_require__(756));
 
-      var _index = _interopRequireDefault(__webpack_require__(752));
-
-      var _index2 = _interopRequireDefault(__webpack_require__(753));
-
-      var _index3 = _interopRequireDefault(__webpack_require__(754));
-
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
-      var _index4 = _interopRequireDefault(__webpack_require__(755));
-
-      var _index5 = _interopRequireDefault(__webpack_require__(756));
+      var _index5 = _interopRequireDefault(__webpack_require__(757));
 
       function _interopRequireDefault(obj) {
         return obj && obj.__esModule ? obj : { default: obj };
@@ -63648,19 +62189,11 @@
        * @author Yago Carballo [@yagocarballo]{@link https://github.com/YagoCarballo}
        */
       var locale = {
-<<<<<<< HEAD
         formatDistance: _index.default,
         formatLong: _index2.default,
         formatRelative: _index3.default,
         localize: _index4.default,
         match: _index5.default,
-=======
-        formatDistance: _index["default"],
-        formatLong: _index2["default"],
-        formatRelative: _index3["default"],
-        localize: _index4["default"],
-        match: _index5["default"],
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
         options: {
           weekStartsOn: 0,
           /* Sunday */
@@ -63668,23 +62201,19 @@
         }
       };
       var _default = locale;
-<<<<<<< HEAD
       exports.default = _default;
-=======
-      exports["default"] = _default;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
       module.exports = exports.default;
 
       /***/
     },
-    /* 752 */
+    /* 753 */
     /***/ function(module, exports) {
       "use strict";
 
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-      exports["default"] = formatDistance;
+      exports.default = formatDistance;
       var formatDistanceLocale = {
         lessThanXSeconds: {
           one: "menos de um segundo",
@@ -63771,18 +62300,14 @@
 
       /***/
     },
-    /* 753 */
+    /* 754 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = void 0;
-=======
-      exports["default"] = void 0;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       var _index = _interopRequireDefault(__webpack_require__(550));
 
@@ -63809,7 +62334,6 @@
         short: "{{date}}, {{time}}"
       };
       var formatLong = {
-<<<<<<< HEAD
         date: (0, _index.default)({
           formats: dateFormats,
           defaultWidth: "full"
@@ -63819,39 +62343,24 @@
           defaultWidth: "full"
         }),
         dateTime: (0, _index.default)({
-=======
-        date: (0, _index["default"])({
-          formats: dateFormats,
-          defaultWidth: "full"
-        }),
-        time: (0, _index["default"])({
-          formats: timeFormats,
-          defaultWidth: "full"
-        }),
-        dateTime: (0, _index["default"])({
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
           formats: dateTimeFormats,
           defaultWidth: "full"
         })
       };
       var _default = formatLong;
-<<<<<<< HEAD
       exports.default = _default;
-=======
-      exports["default"] = _default;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
       module.exports = exports.default;
 
       /***/
     },
-    /* 754 */
+    /* 755 */
     /***/ function(module, exports) {
       "use strict";
 
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-      exports["default"] = formatRelative;
+      exports.default = formatRelative;
       var formatRelativeLocale = {
         lastWeek: function(date, _baseDate, _options) {
           var weekday = date.getUTCDay();
@@ -63879,18 +62388,14 @@
 
       /***/
     },
-    /* 755 */
+    /* 756 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = void 0;
-=======
-      exports["default"] = void 0;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       var _index = _interopRequireDefault(__webpack_require__(553));
 
@@ -64032,26 +62537,17 @@
 
       var localize = {
         ordinalNumber: ordinalNumber,
-<<<<<<< HEAD
         era: (0, _index.default)({
           values: eraValues,
           defaultWidth: "wide"
         }),
         quarter: (0, _index.default)({
-=======
-        era: (0, _index["default"])({
-          values: eraValues,
-          defaultWidth: "wide"
-        }),
-        quarter: (0, _index["default"])({
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
           values: quarterValues,
           defaultWidth: "wide",
           argumentCallback: function(quarter) {
             return Number(quarter) - 1;
           }
         }),
-<<<<<<< HEAD
         month: (0, _index.default)({
           values: monthValues,
           defaultWidth: "wide"
@@ -64061,17 +62557,6 @@
           defaultWidth: "wide"
         }),
         dayPeriod: (0, _index.default)({
-=======
-        month: (0, _index["default"])({
-          values: monthValues,
-          defaultWidth: "wide"
-        }),
-        day: (0, _index["default"])({
-          values: dayValues,
-          defaultWidth: "wide"
-        }),
-        dayPeriod: (0, _index["default"])({
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
           values: dayPeriodValues,
           defaultWidth: "wide",
           formattingValues: formattingDayPeriodValues,
@@ -64079,27 +62564,19 @@
         })
       };
       var _default = localize;
-<<<<<<< HEAD
       exports.default = _default;
-=======
-      exports["default"] = _default;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
       module.exports = exports.default;
 
       /***/
     },
-    /* 756 */
+    /* 757 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
-<<<<<<< HEAD
       exports.default = void 0;
-=======
-      exports["default"] = void 0;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
 
       var _index = _interopRequireDefault(__webpack_require__(556));
 
@@ -64191,32 +62668,20 @@
         }
       };
       var match = {
-<<<<<<< HEAD
         ordinalNumber: (0, _index2.default)({
-=======
-        ordinalNumber: (0, _index2["default"])({
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
           matchPattern: matchOrdinalNumberPattern,
           parsePattern: parseOrdinalNumberPattern,
           valueCallback: function(value) {
             return parseInt(value, 10);
           }
         }),
-<<<<<<< HEAD
         era: (0, _index.default)({
-=======
-        era: (0, _index["default"])({
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
           matchPatterns: matchEraPatterns,
           defaultMatchWidth: "wide",
           parsePatterns: parseEraPatterns,
           defaultParseWidth: "any"
         }),
-<<<<<<< HEAD
         quarter: (0, _index.default)({
-=======
-        quarter: (0, _index["default"])({
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
           matchPatterns: matchQuarterPatterns,
           defaultMatchWidth: "wide",
           parsePatterns: parseQuarterPatterns,
@@ -64225,31 +62690,19 @@
             return index + 1;
           }
         }),
-<<<<<<< HEAD
         month: (0, _index.default)({
-=======
-        month: (0, _index["default"])({
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
           matchPatterns: matchMonthPatterns,
           defaultMatchWidth: "wide",
           parsePatterns: parseMonthPatterns,
           defaultParseWidth: "any"
         }),
-<<<<<<< HEAD
         day: (0, _index.default)({
-=======
-        day: (0, _index["default"])({
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
           matchPatterns: matchDayPatterns,
           defaultMatchWidth: "wide",
           parsePatterns: parseDayPatterns,
           defaultParseWidth: "any"
         }),
-<<<<<<< HEAD
         dayPeriod: (0, _index.default)({
-=======
-        dayPeriod: (0, _index["default"])({
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
           matchPatterns: matchDayPeriodPatterns,
           defaultMatchWidth: "any",
           parsePatterns: parseDayPeriodPatterns,
@@ -64257,188 +62710,8 @@
         })
       };
       var _default = match;
-<<<<<<< HEAD
       exports.default = _default;
-=======
-      exports["default"] = _default;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
       module.exports = exports.default;
-
-      /***/
-    },
-    /* 757 */
-    /***/ function(module, exports, __webpack_require__) {
-      "use strict";
-
-      exports.__esModule = true;
-
-      var _react = __webpack_require__(327);
-
-      var _react2 = _interopRequireDefault(_react);
-
-      var _reactDatepicker = __webpack_require__(532);
-
-      var _reactDatepicker2 = _interopRequireDefault(_reactDatepicker);
-
-      var _fi = __webpack_require__(758);
-
-      var _ptBR2 = _interopRequireDefault(_ptBR);
-
-      function _interopRequireDefault(obj) {
-        return obj && obj.__esModule ? obj : { default: obj };
-      }
-
-      function _classCallCheck(instance, Constructor) {
-        if (!(instance instanceof Constructor)) {
-          throw new TypeError("Cannot call a class as a function");
-        }
-      }
-
-      function _possibleConstructorReturn(self, call) {
-        if (!self) {
-          throw new ReferenceError(
-            "this hasn't been initialised - super() hasn't been called"
-          );
-        }
-        return call && (typeof call === "object" || typeof call === "function")
-          ? call
-          : self;
-      }
-
-      function _inherits(subClass, superClass) {
-        if (typeof superClass !== "function" && superClass !== null) {
-          throw new TypeError(
-            "Super expression must either be null or a function, not " +
-              typeof superClass
-          );
-        }
-        subClass.prototype = Object.create(superClass && superClass.prototype, {
-          constructor: {
-            value: subClass,
-            enumerable: false,
-            writable: true,
-            configurable: true
-          }
-        });
-        if (superClass)
-          Object.setPrototypeOf
-            ? Object.setPrototypeOf(subClass, superClass)
-            : (subClass.__proto__ = superClass);
-      }
-
-      (0, _reactDatepicker.registerLocale)("pt-BR", _ptBR2.default);
-
-      var LocaleWithTime = (function(_React$Component) {
-        _inherits(LocaleWithTime, _React$Component);
-
-        function LocaleWithTime() {
-          var _temp, _this, _ret;
-
-          _classCallCheck(this, LocaleWithTime);
-
-          for (
-            var _len = arguments.length, args = Array(_len), _key = 0;
-            _key < _len;
-            _key++
-          ) {
-            args[_key] = arguments[_key];
-          }
-
-          return (
-            (_ret = ((_temp = ((_this = _possibleConstructorReturn(
-              this,
-              _React$Component.call.apply(_React$Component, [this].concat(args))
-            )),
-            _this)),
-            (_this.state = {
-              startDate: null
-            }),
-            (_this.handleChange = function(date) {
-              _this.setState({
-                startDate: date
-              });
-            }),
-            _temp)),
-            _possibleConstructorReturn(_this, _ret)
-          );
-        }
-
-        LocaleWithTime.prototype.render = function render() {
-          return _react2.default.createElement(
-            "div",
-            { className: "row" },
-            _react2.default.createElement(
-              "pre",
-              { className: "column example__code" },
-              _react2.default.createElement(
-                "code",
-                { className: "jsx" },
-                "import DatePicker, { registerLocale } from 'react-datepicker';",
-                _react2.default.createElement("br", null),
-                "import ptBR from 'date-fns/locale/pt-BR';",
-                _react2.default.createElement("br", null),
-                "registerLocale('pt-BR', ptBR);",
-                _react2.default.createElement("br", null),
-                _react2.default.createElement("br", null),
-                "<DatePicker",
-                _react2.default.createElement("br", null),
-                "  selected={this.state.startDate}",
-                _react2.default.createElement("br", null),
-                "  onChange={this.handleChange}",
-                _react2.default.createElement("br", null),
-                _react2.default.createElement(
-                  "strong",
-                  null,
-                  '  locale="pt-BR"'
-                ),
-                _react2.default.createElement("br", null),
-                _react2.default.createElement(
-                  "strong",
-                  null,
-                  "  showTimeSelect"
-                ),
-                _react2.default.createElement("br", null),
-                _react2.default.createElement(
-                  "strong",
-                  null,
-                  '  timeFormat="p"'
-                ),
-                _react2.default.createElement("br", null),
-                _react2.default.createElement(
-                  "strong",
-                  null,
-                  "  timeIntervals={15}"
-                ),
-                _react2.default.createElement("br", null),
-                _react2.default.createElement(
-                  "strong",
-                  null,
-                  '  dateFormat="Pp"'
-                ),
-                _react2.default.createElement("br", null),
-                "/>"
-              )
-            ),
-            _react2.default.createElement(
-              "div",
-              { className: "column" },
-              _react2.default.createElement(_reactDatepicker2.default, {
-                selected: this.state.startDate,
-                onChange: this.handleChange,
-                locale: "pt-BR",
-                showTimeSelect: true,
-                timeFormat: "p",
-                timeIntervals: 15,
-                dateFormat: "Pp"
-              })
-            )
-          );
-        };
-
-        return LocaleWithTime;
-      })(_react2.default.Component);
-
-      exports.default = LocaleWithTime;
 
       /***/
     },
@@ -64446,538 +62719,6 @@
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
-      Object.defineProperty(exports, "__esModule", {
-        value: true
-      });
-<<<<<<< HEAD
-      exports.default = void 0;
-
-      var _index = _interopRequireDefault(__webpack_require__(759));
-
-      var _index2 = _interopRequireDefault(__webpack_require__(760));
-
-      var _index3 = _interopRequireDefault(__webpack_require__(761));
-
-      var _index4 = _interopRequireDefault(__webpack_require__(762));
-
-=======
-      exports["default"] = void 0;
-
-      var _index = _interopRequireDefault(__webpack_require__(759));
-
-      var _index2 = _interopRequireDefault(__webpack_require__(760));
-
-      var _index3 = _interopRequireDefault(__webpack_require__(761));
-
-      var _index4 = _interopRequireDefault(__webpack_require__(762));
-
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
-      var _index5 = _interopRequireDefault(__webpack_require__(763));
-
-      function _interopRequireDefault(obj) {
-        return obj && obj.__esModule ? obj : { default: obj };
-      }
-
-      /**
-       * @type {Locale}
-       * @category Locales
-       * @summary Portuguese locale (Brazil).
-       * @language Portuguese
-       * @iso-639-2 por
-       * @author Lucas Duailibe [@duailibe]{@link https://github.com/duailibe}
-       * @author Yago Carballo [@yagocarballo]{@link https://github.com/YagoCarballo}
-       */
-      var locale = {
-<<<<<<< HEAD
-        formatDistance: _index.default,
-        formatLong: _index2.default,
-        formatRelative: _index3.default,
-        localize: _index4.default,
-        match: _index5.default,
-=======
-        formatDistance: _index["default"],
-        formatLong: _index2["default"],
-        formatRelative: _index3["default"],
-        localize: _index4["default"],
-        match: _index5["default"],
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
-        options: {
-          weekStartsOn: 1,
-          /* Monday */
-          firstWeekContainsDate: 4
-        }
-      };
-      var _default = locale;
-<<<<<<< HEAD
-      exports.default = _default;
-=======
-      exports["default"] = _default;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
-      module.exports = exports.default;
-
-      /***/
-    },
-    /* 759 */
-    /***/ function(module, exports) {
-      "use strict";
-
-      Object.defineProperty(exports, "__esModule", {
-        value: true
-      });
-<<<<<<< HEAD
-      exports.default = formatDistance;
-=======
-      exports["default"] = formatDistance;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
-
-      function futureSeconds(text) {
-        return text.replace(/sekuntia?/, "sekunnin");
-      }
-
-      function futureMinutes(text) {
-        return text.replace(/minuuttia?/, "minuutin");
-      }
-
-      function futureHours(text) {
-        return text.replace(/tuntia?/, "tunnin");
-      }
-
-      function futureDays(text) {
-        return text.replace(/päivää?/, "päivän");
-      }
-
-      function futureMonths(text) {
-        return text.replace(/(kuukausi|kuukautta)/, "kuukauden");
-      }
-
-      function futureYears(text) {
-        return text.replace(/(vuosi|vuotta)/, "vuoden");
-      }
-
-      var formatDistanceLocale = {
-        lessThanXSeconds: {
-          one: "menos de um segundo",
-          other: "menos de {{count}} segundos"
-        },
-        xSeconds: {
-          one: "1 segundo",
-          other: "{{count}} segundos"
-        },
-        halfAMinute: {
-          one: "puoli minuuttia",
-          other: "puoli minuuttia",
-          futureTense: function(_text) {
-            return "puolen minuutin";
-          }
-        },
-        lessThanXMinutes: {
-          one: "menos de um minuto",
-          other: "menos de {{count}} minutos"
-        },
-        xMinutes: {
-          one: "1 minuto",
-          other: "{{count}} minutos"
-        },
-        aboutXHours: {
-          one: "cerca de 1 hora",
-          other: "cerca de {{count}} horas"
-        },
-        xHours: {
-          one: "1 hora",
-          other: "{{count}} horas"
-        },
-        xDays: {
-          one: "1 dia",
-          other: "{{count}} dias"
-        },
-        aboutXMonths: {
-          one: "cerca de 1 mês",
-          other: "cerca de {{count}} meses"
-        },
-        xMonths: {
-          one: "1 mês",
-          other: "{{count}} meses"
-        },
-        aboutXYears: {
-          one: "cerca de 1 ano",
-          other: "cerca de {{count}} anos"
-        },
-        xYears: {
-          one: "1 ano",
-          other: "{{count}} anos"
-        },
-        overXYears: {
-          one: "mais de 1 ano",
-          other: "mais de {{count}} anos"
-        },
-        almostXYears: {
-          one: "quase 1 ano",
-          other: "quase {{count}} anos"
-        }
-      };
-
-      function formatDistance(token, count, options) {
-        options = options || {};
-        var distance = formatDistanceLocale[token];
-        var result =
-          count === 1
-            ? distance.one
-            : distance.other.replace("{{count}}", count);
-
-        if (options.addSuffix) {
-          if (options.comparison > 0) {
-            return "em " + result;
-          } else {
-            return "há " + result;
-          }
-        }
-
-        return result;
-      }
-
-      module.exports = exports.default;
-
-      /***/
-    },
-    /* 760 */
-    /***/ function(module, exports, __webpack_require__) {
-      "use strict";
-
-      Object.defineProperty(exports, "__esModule", {
-        value: true
-      });
-<<<<<<< HEAD
-      exports.default = void 0;
-=======
-      exports["default"] = void 0;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
-
-      var _index = _interopRequireDefault(__webpack_require__(550));
-
-      function _interopRequireDefault(obj) {
-        return obj && obj.__esModule ? obj : { default: obj };
-      }
-
-      var dateFormats = {
-        full: "EEEE, d 'de' MMMM 'de' y",
-        long: "d 'de' MMMM 'de' y",
-        medium: "d MMM y",
-        short: "dd/MM/yyyy"
-      };
-      var timeFormats = {
-        full: "HH:mm:ss zzzz",
-        long: "HH:mm:ss z",
-        medium: "HH:mm:ss",
-        short: "HH:mm"
-      };
-      var dateTimeFormats = {
-        full: "{{date}} 'às' {{time}}",
-        long: "{{date}} 'às' {{time}}",
-        medium: "{{date}}, {{time}}",
-        short: "{{date}}, {{time}}"
-      };
-      var formatLong = {
-<<<<<<< HEAD
-        date: (0, _index.default)({
-          formats: dateFormats,
-          defaultWidth: "full"
-        }),
-        time: (0, _index.default)({
-          formats: timeFormats,
-          defaultWidth: "full"
-        }),
-        dateTime: (0, _index.default)({
-=======
-        date: (0, _index["default"])({
-          formats: dateFormats,
-          defaultWidth: "full"
-        }),
-        time: (0, _index["default"])({
-          formats: timeFormats,
-          defaultWidth: "full"
-        }),
-        dateTime: (0, _index["default"])({
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
-          formats: dateTimeFormats,
-          defaultWidth: "full"
-        })
-      };
-      var _default = formatLong;
-<<<<<<< HEAD
-      exports.default = _default;
-=======
-      exports["default"] = _default;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
-      module.exports = exports.default;
-
-      /***/
-    },
-    /* 761 */
-    /***/ function(module, exports) {
-      "use strict";
-
-      Object.defineProperty(exports, "__esModule", {
-        value: true
-      });
-      exports["default"] = formatRelative;
-      var formatRelativeLocale = {
-        lastWeek: function lastWeek(date, baseDate, options) {
-          var weekday = date.getUTCDay();
-          var last = weekday === 0 || weekday === 6 ? "último" : "última";
-          return "'" + last + "' eeee 'às' p";
-        },
-        yesterday: "'ontem às' p",
-        today: "'hoje às' p",
-        tomorrow: "'amanhã às' p",
-        nextWeek: "eeee 'às' p",
-        other: "P"
-      };
-
-<<<<<<< HEAD
-      function formatRelative(token, _date, _baseDate, _options) {
-        return formatRelativeLocale[token];
-=======
-      function formatRelative(token, date, baseDate, options) {
-        var format = formatRelativeLocale[token];
-
-        if (typeof format === "function") {
-          return format(date, baseDate, options);
-        }
-
-        return format;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
-      }
-
-      module.exports = exports.default;
-
-      /***/
-    },
-    /* 762 */
-    /***/ function(module, exports, __webpack_require__) {
-      "use strict";
-
-      Object.defineProperty(exports, "__esModule", {
-        value: true
-      });
-<<<<<<< HEAD
-      exports.default = void 0;
-=======
-      exports["default"] = void 0;
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
-
-      var _index = _interopRequireDefault(__webpack_require__(553));
-
-      function _interopRequireDefault(obj) {
-        return obj && obj.__esModule ? obj : { default: obj };
-      }
-
-      var eraValues = {
-        narrow: ["AC", "DC"],
-        abbreviated: ["AC", "DC"],
-        wide: ["antes de cristo", "depois de cristo"]
-      };
-      var quarterValues = {
-        narrow: ["1", "2", "3", "4"],
-        abbreviated: ["T1", "T2", "T3", "T4"],
-        wide: ["1º trimestre", "2º trimestre", "3º trimestre", "4º trimestre"]
-      };
-      var monthValues = {
-        narrow: ["j", "f", "m", "a", "m", "j", "j", "a", "s", "o", "n", "d"],
-        abbreviated: [
-          "jan",
-          "fev",
-          "mar",
-          "abr",
-          "mai",
-          "jun",
-          "jul",
-          "ago",
-          "set",
-          "out",
-          "nov",
-          "dez"
-        ],
-        wide: [
-          "janeiro",
-          "fevereiro",
-          "março",
-          "abril",
-          "maio",
-          "junho",
-          "julho",
-          "agosto",
-          "setembro",
-          "outubro",
-          "novembro",
-          "dezembro"
-        ]
-      };
-      var formattingMonthValues = {
-        narrow: monthValues.narrow,
-        abbreviated: monthValues.abbreviated,
-        wide: monthValues.wide.map(function(name) {
-          return name + "ta";
-        })
-      };
-      var dayValues = {
-        narrow: ["do", "2º", "3º", "4º", "5º", "6º", "sá"],
-        short: ["do", "2º", "3º", "4º", "5º", "6º", "sá"],
-        abbreviated: ["dom", "seg", "ter", "qua", "qui", "sex", "sáb"],
-        wide: [
-          "domingo",
-          "segunda",
-          "terça",
-          "quarta",
-          "quinta",
-          "sexta",
-          "sábado"
-        ]
-      };
-      var formattingDayValues = {
-        narrow: dayValues.narrow,
-        short: dayValues["short"],
-        abbreviated: dayValues.abbreviated,
-        wide: dayValues.wide.map(function(name) {
-          return name + "na";
-        })
-      };
-      var dayPeriodValues = {
-        narrow: {
-          am: "a",
-          pm: "p",
-          midnight: "mn",
-          noon: "md",
-          morning: "manhã",
-          afternoon: "tarde",
-          evening: "tarde",
-          night: "noite"
-        },
-        abbreviated: {
-          am: "AM",
-          pm: "PM",
-          midnight: "meia-noite",
-          noon: "meio-dia",
-          morning: "manhã",
-          afternoon: "tarde",
-          evening: "tarde",
-          night: "noite"
-        },
-        wide: {
-          am: "a.m.",
-          pm: "p.m.",
-          midnight: "meia-noite",
-          noon: "meio-dia",
-          morning: "manhã",
-          afternoon: "tarde",
-          evening: "tarde",
-          night: "noite"
-        }
-      };
-      var formattingDayPeriodValues = {
-        narrow: {
-          am: "a",
-          pm: "p",
-          midnight: "mn",
-          noon: "md",
-          morning: "da manhã",
-          afternoon: "da tarde",
-          evening: "da tarde",
-          night: "da noite"
-        },
-        abbreviated: {
-          am: "AM",
-          pm: "PM",
-          midnight: "meia-noite",
-          noon: "meio-dia",
-          morning: "da manhã",
-          afternoon: "da tarde",
-          evening: "da tarde",
-          night: "da noite"
-        },
-        wide: {
-          am: "a.m.",
-          pm: "p.m.",
-          midnight: "meia-noite",
-          noon: "meio-dia",
-          morning: "da manhã",
-          afternoon: "da tarde",
-          evening: "da tarde",
-          night: "da noite"
-        }
-      };
-
-      function ordinalNumber(dirtyNumber, dirtyOptions) {
-        var number = Number(dirtyNumber);
-        var options = dirtyOptions || {};
-        var unit = String(options.unit);
-
-        if (unit === "week" || unit === "isoWeek") {
-          return number + "ª";
-        }
-        return number + "º";
-      }
-
-      var localize = {
-        ordinalNumber: ordinalNumber,
-<<<<<<< HEAD
-        era: (0, _index.default)({
-          values: eraValues,
-          defaultWidth: "wide"
-        }),
-        quarter: (0, _index.default)({
-=======
-        era: (0, _index["default"])({
-          values: eraValues,
-          defaultWidth: "wide"
-        }),
-        quarter: (0, _index["default"])({
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
-          values: quarterValues,
-          defaultWidth: "wide",
-          argumentCallback: function(quarter) {
-            return Number(quarter) - 1;
-          }
-        }),
-<<<<<<< HEAD
-        month: (0, _index.default)({
-=======
-        month: (0, _index["default"])({
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
-          values: monthValues,
-          defaultWidth: "wide"
-        }),
-<<<<<<< HEAD
-        day: (0, _index.default)({
-=======
-        day: (0, _index["default"])({
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
-          values: dayValues,
-          defaultWidth: "wide"
-        }),
-<<<<<<< HEAD
-        dayPeriod: (0, _index.default)({
-=======
-        dayPeriod: (0, _index["default"])({
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
-          values: dayPeriodValues,
-          defaultWidth: "wide",
-          formattingValues: formattingDayPeriodValues,
-          defaultFormattingWidth: "wide"
-        })
-      };
-      var _default = localize;
-<<<<<<< HEAD
-      exports.default = _default;
-      module.exports = exports.default;
-
-      /***/
-    },
-    /* 763 */
-    554,
-    /* 764 */
-    /***/ function(module, exports, __webpack_require__) {
-      "use strict";
-
       exports.__esModule = true;
 
       var _react = __webpack_require__(327);
@@ -64988,162 +62729,7 @@
 
       var _reactDatepicker2 = _interopRequireDefault(_reactDatepicker);
 
-      var _subDays = __webpack_require__(584);
-
-      var _subDays2 = _interopRequireDefault(_subDays);
-
-      function _interopRequireDefault(obj) {
-        return obj && obj.__esModule ? obj : { default: obj };
-      }
-
-      function _classCallCheck(instance, Constructor) {
-        if (!(instance instanceof Constructor)) {
-          throw new TypeError("Cannot call a class as a function");
-        }
-      }
-
-      function _possibleConstructorReturn(self, call) {
-        if (!self) {
-          throw new ReferenceError(
-            "this hasn't been initialised - super() hasn't been called"
-          );
-        }
-        return call && (typeof call === "object" || typeof call === "function")
-          ? call
-          : self;
-      }
-
-      function _inherits(subClass, superClass) {
-        if (typeof superClass !== "function" && superClass !== null) {
-          throw new TypeError(
-            "Super expression must either be null or a function, not " +
-              typeof superClass
-          );
-        }
-        subClass.prototype = Object.create(superClass && superClass.prototype, {
-          constructor: {
-            value: subClass,
-            enumerable: false,
-            writable: true,
-            configurable: true
-          }
-        });
-        if (superClass)
-          Object.setPrototypeOf
-            ? Object.setPrototypeOf(subClass, superClass)
-            : (subClass.__proto__ = superClass);
-      }
-
-      var ExcludeDates = (function(_React$Component) {
-        _inherits(ExcludeDates, _React$Component);
-
-        function ExcludeDates() {
-          var _temp, _this, _ret;
-
-          _classCallCheck(this, ExcludeDates);
-
-          for (
-            var _len = arguments.length, args = Array(_len), _key = 0;
-            _key < _len;
-            _key++
-          ) {
-            args[_key] = arguments[_key];
-          }
-
-          return (
-            (_ret = ((_temp = ((_this = _possibleConstructorReturn(
-              this,
-              _React$Component.call.apply(_React$Component, [this].concat(args))
-            )),
-            _this)),
-            (_this.state = {
-              startDate: null
-            }),
-            (_this.handleChange = function(date) {
-              _this.setState({
-                startDate: date
-              });
-            }),
-            _temp)),
-            _possibleConstructorReturn(_this, _ret)
-          );
-        }
-
-        ExcludeDates.prototype.render = function render() {
-          return _react2.default.createElement(
-            "div",
-            { className: "row" },
-            _react2.default.createElement(
-              "pre",
-              { className: "column example__code" },
-              _react2.default.createElement(
-                "code",
-                { className: "jsx" },
-                "<DatePicker",
-                _react2.default.createElement("br", null),
-                "  selected={this.state.startDate}",
-                _react2.default.createElement("br", null),
-                "  onChange={this.handleChange}",
-                _react2.default.createElement("br", null),
-                _react2.default.createElement(
-                  "strong",
-                  null,
-                  "  excludeDates={[new Date(), subDays(new Date(), 1)]}"
-                ),
-                _react2.default.createElement("br", null),
-                '  placeholderText="Select a date other than today or yesterday" />'
-              )
-            ),
-            _react2.default.createElement(
-              "div",
-              { className: "column" },
-              _react2.default.createElement(_reactDatepicker2.default, {
-                selected: this.state.startDate,
-                onChange: this.handleChange,
-                excludeDates: [
-                  new Date(),
-                  (0, _subDays2.default)(new Date(), 1)
-                ],
-                placeholderText: "Select a date other than today or yesterday"
-              })
-            )
-          );
-        };
-
-        return ExcludeDates;
-      })(_react2.default.Component);
-
-      exports.default = ExcludeDates;
-
-      /***/
-    },
-    /* 765 */
-=======
-      exports["default"] = _default;
-      module.exports = exports.default;
-
-      /***/
-    },
-    /* 763 */
-    554,
-    /* 764 */
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
-    /***/ function(module, exports, __webpack_require__) {
-      "use strict";
-
-      exports.__esModule = true;
-
-      var _react = __webpack_require__(327);
-
-      var _react2 = _interopRequireDefault(_react);
-
-      var _reactDatepicker = __webpack_require__(532);
-
-      var _reactDatepicker2 = _interopRequireDefault(_reactDatepicker);
-
-<<<<<<< HEAD
-=======
-      var _subDays = __webpack_require__(584);
+      var _fi = __webpack_require__(759);
 
       var _fi2 = _interopRequireDefault(_fi);
 
@@ -65275,33 +62861,24 @@
 
       /***/
     },
-    /* 674 */
+    /* 759 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
+      exports.default = void 0;
 
-      var _index = __webpack_require__(675);
+      var _index = _interopRequireDefault(__webpack_require__(760));
 
-      var _index2 = _interopRequireDefault(_index);
+      var _index2 = _interopRequireDefault(__webpack_require__(761));
 
-      var _index3 = __webpack_require__(676);
+      var _index3 = _interopRequireDefault(__webpack_require__(762));
 
-      var _index4 = _interopRequireDefault(_index3);
+      var _index4 = _interopRequireDefault(__webpack_require__(763));
 
-      var _index5 = __webpack_require__(677);
-
-      var _index6 = _interopRequireDefault(_index5);
-
-      var _index7 = __webpack_require__(678);
-
-      var _index8 = _interopRequireDefault(_index7);
-
-      var _index9 = __webpack_require__(679);
-
-      var _index10 = _interopRequireDefault(_index9);
+      var _index5 = _interopRequireDefault(__webpack_require__(764));
 
       function _interopRequireDefault(obj) {
         return obj && obj.__esModule ? obj : { default: obj };
@@ -65318,23 +62895,24 @@
        * @author Samu Juvonen [@sjuvonen]{@link https://github.com/sjuvonen}
        */
       var locale = {
-        formatDistance: _index2.default,
-        formatLong: _index4.default,
-        formatRelative: _index6.default,
-        localize: _index8.default,
-        match: _index10.default,
+        formatDistance: _index.default,
+        formatLong: _index2.default,
+        formatRelative: _index3.default,
+        localize: _index4.default,
+        match: _index5.default,
         options: {
-          weekStartsOn: 1 /* Monday */,
+          weekStartsOn: 1,
+          /* Monday */
           firstWeekContainsDate: 4
         }
       };
-
-      exports.default = locale;
-      module.exports = exports["default"];
+      var _default = locale;
+      exports.default = _default;
+      module.exports = exports.default;
 
       /***/
     },
-    /* 675 */
+    /* 760 */
     /***/ function(module, exports) {
       "use strict";
 
@@ -65342,6 +62920,7 @@
         value: true
       });
       exports.default = formatDistance;
+
       function futureSeconds(text) {
         return text.replace(/sekuntia?/, "sekunnin");
       }
@@ -65372,81 +62951,68 @@
           other: "alle {{count}} sekuntia",
           futureTense: futureSeconds
         },
-
         xSeconds: {
           one: "sekunti",
           other: "{{count}} sekuntia",
           futureTense: futureSeconds
         },
-
         halfAMinute: {
           one: "puoli minuuttia",
           other: "puoli minuuttia",
-          futureTense: function futureTense(text) {
+          futureTense: function(_text) {
             return "puolen minuutin";
           }
         },
-
         lessThanXMinutes: {
           one: "alle minuutti",
           other: "alle {{count}} minuuttia",
           futureTense: futureMinutes
         },
-
         xMinutes: {
           one: "minuutti",
           other: "{{count}} minuuttia",
           futureTense: futureMinutes
         },
-
         aboutXHours: {
           one: "noin tunti",
           other: "noin {{count}} tuntia",
           futureTense: futureHours
         },
-
         xHours: {
           one: "tunti",
           other: "{{count}} tuntia",
           futureTense: futureHours
         },
-
         xDays: {
           one: "päivä",
           other: "{{count}} päivää",
           futureTense: futureDays
         },
-
         aboutXMonths: {
           one: "noin kuukausi",
           other: "noin {{count}} kuukautta",
           futureTense: futureMonths
         },
-
         xMonths: {
           one: "kuukausi",
           other: "{{count}} kuukautta",
           futureTense: futureMonths
         },
-
         aboutXYears: {
           one: "noin vuosi",
           other: "noin {{count}} vuotta",
           futureTense: futureYears
         },
-
         xYears: {
           one: "vuosi",
           other: "{{count}} vuotta",
           futureTense: futureYears
         },
-
         overXYears: {
           one: "yli vuosi",
           other: "yli {{count}} vuotta",
           futureTense: futureYears
         },
-
         almostXYears: {
           one: "lähes vuosi",
           other: "lähes {{count}} vuotta",
@@ -65456,7 +63022,6 @@
 
       function formatDistance(token, count, options) {
         options = options || {};
-
         var distance = formatDistanceLocale[token];
         var result =
           count === 1
@@ -65473,21 +63038,21 @@
 
         return result;
       }
-      module.exports = exports["default"];
+
+      module.exports = exports.default;
 
       /***/
     },
-    /* 676 */
+    /* 761 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
+      exports.default = void 0;
 
-      var _index = __webpack_require__(548);
-
-      var _index2 = _interopRequireDefault(_index);
+      var _index = _interopRequireDefault(__webpack_require__(550));
 
       function _interopRequireDefault(obj) {
         return obj && obj.__esModule ? obj : { default: obj };
@@ -65499,44 +63064,39 @@
         medium: "d. MMM y",
         short: "d.M.y"
       };
-
       var timeFormats = {
         full: "HH.mm.ss zzzz",
         long: "HH.mm.ss z",
         medium: "HH.mm.ss",
         short: "HH.mm"
       };
-
       var dateTimeFormats = {
         full: "{{date}} 'klo' {{time}}",
         long: "{{date}} 'klo' {{time}}",
         medium: "{{date}} {{time}}",
         short: "{{date}} {{time}}"
       };
-
       var formatLong = {
-        date: (0, _index2.default)({
+        date: (0, _index.default)({
           formats: dateFormats,
           defaultWidth: "full"
         }),
-
-        time: (0, _index2.default)({
+        time: (0, _index.default)({
           formats: timeFormats,
           defaultWidth: "full"
         }),
-
-        dateTime: (0, _index2.default)({
+        dateTime: (0, _index.default)({
           formats: dateTimeFormats,
           defaultWidth: "full"
         })
       };
-
-      exports.default = formatLong;
-      module.exports = exports["default"];
+      var _default = formatLong;
+      exports.default = _default;
+      module.exports = exports.default;
 
       /***/
     },
-    /* 677 */
+    /* 762 */
     /***/ function(module, exports) {
       "use strict";
 
@@ -65553,24 +63113,24 @@
         other: "P"
       };
 
-      function formatRelative(token, date, baseDate, options) {
+      function formatRelative(token, _date, _baseDate, _options) {
         return formatRelativeLocale[token];
       }
-      module.exports = exports["default"];
+
+      module.exports = exports.default;
 
       /***/
     },
-    /* 678 */
+    /* 763 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
       Object.defineProperty(exports, "__esModule", {
         value: true
       });
+      exports.default = void 0;
 
-      var _index = __webpack_require__(551);
-
-      var _index2 = _interopRequireDefault(_index);
+      var _index = _interopRequireDefault(__webpack_require__(553));
 
       function _interopRequireDefault(obj) {
         return obj && obj.__esModule ? obj : { default: obj };
@@ -65581,13 +63141,11 @@
         abbreviated: ["eaa.", "jaa."],
         wide: ["ennen ajanlaskun alkua", "jälkeen ajanlaskun alun"]
       };
-
       var quarterValues = {
         narrow: ["1", "2", "3", "4"],
         abbreviated: ["Q1", "Q2", "Q3", "Q4"],
         wide: ["1. kvartaali", "2. kvartaali", "3. kvartaali", "4. kvartaali"]
       };
-
       var monthValues = {
         narrow: ["T", "H", "M", "H", "T", "K", "H", "E", "S", "L", "M", "J"],
         abbreviated: [
@@ -65619,7 +63177,6 @@
           "joulukuu"
         ]
       };
-
       var formattingMonthValues = {
         narrow: monthValues.narrow,
         abbreviated: monthValues.abbreviated,
@@ -65627,7 +63184,6 @@
           return name + "ta";
         })
       };
-
       var dayValues = {
         narrow: ["S", "M", "T", "K", "T", "P", "L"],
         short: ["su", "ma", "ti", "ke", "to", "pe", "la"],
@@ -65650,7 +63206,6 @@
           "lauantai"
         ]
       };
-
       var formattingDayValues = {
         narrow: dayValues.narrow,
         short: dayValues.short,
@@ -65659,7 +63214,6 @@
           return name + "na";
         })
       };
-
       var dayPeriodValues = {
         narrow: {
           am: "ap",
@@ -65700,61 +63254,53 @@
 
       var localize = {
         ordinalNumber: ordinalNumber,
-
-        era: (0, _index2.default)({
+        era: (0, _index.default)({
           values: eraValues,
           defaultWidth: "wide"
         }),
-
-        quarter: (0, _index2.default)({
+        quarter: (0, _index.default)({
           values: quarterValues,
           defaultWidth: "wide",
-          argumentCallback: function argumentCallback(quarter) {
+          argumentCallback: function(quarter) {
             return Number(quarter) - 1;
           }
         }),
-
-        month: (0, _index2.default)({
+        month: (0, _index.default)({
           values: monthValues,
           formattingValues: formattingMonthValues,
           defaultWidth: "wide"
         }),
-
-        day: (0, _index2.default)({
+        day: (0, _index.default)({
           values: dayValues,
           formattingValues: formattingDayValues,
           defaultWidth: "wide"
         }),
-
-        dayPeriod: (0, _index2.default)({
+        dayPeriod: (0, _index.default)({
           values: dayPeriodValues,
           defaultWidth: "wide"
         })
       };
-
-      exports.default = localize;
-      module.exports = exports["default"];
+      var _default = localize;
+      exports.default = _default;
+      module.exports = exports.default;
 
       /***/
     },
+    /* 764 */
+    554,
     /* 765 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
       exports.__esModule = true;
 
-      var _react = __webpack_require__(332);
+      var _react = __webpack_require__(327);
 
       var _react2 = _interopRequireDefault(_react);
 
-      var _reactDatepicker = __webpack_require__(529);
+      var _reactDatepicker = __webpack_require__(532);
 
       var _reactDatepicker2 = _interopRequireDefault(_reactDatepicker);
-
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
-      var _addDays = __webpack_require__(577);
-
-      var _addDays2 = _interopRequireDefault(_addDays);
 
       var _subDays = __webpack_require__(584);
 
@@ -65885,11 +63431,7 @@
 
       /***/
     },
-<<<<<<< HEAD
     /* 766 */
-=======
-    /* 681 */
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -66037,17 +63579,17 @@
 
       /***/
     },
-    /* 766 */
+    /* 767 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
       exports.__esModule = true;
 
-      var _react = __webpack_require__(332);
+      var _react = __webpack_require__(327);
 
       var _react2 = _interopRequireDefault(_react);
 
-      var _reactDatepicker = __webpack_require__(529);
+      var _reactDatepicker = __webpack_require__(532);
 
       var _reactDatepicker2 = _interopRequireDefault(_reactDatepicker);
 
@@ -66226,7 +63768,7 @@
 
       /***/
     },
-    /* 767 */
+    /* 768 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -66369,7 +63911,7 @@
 
       /***/
     },
-    /* 768 */
+    /* 769 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -66513,7 +64055,7 @@
 
       /***/
     },
-    /* 769 */
+    /* 770 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -66638,7 +64180,7 @@
 
       /***/
     },
-    /* 770 */
+    /* 771 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -66762,7 +64304,7 @@
 
       /***/
     },
-    /* 771 */
+    /* 772 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -66874,7 +64416,7 @@
 
       /***/
     },
-    /* 772 */
+    /* 773 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -67038,7 +64580,7 @@
 
       /***/
     },
-    /* 773 */
+    /* 774 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -67161,7 +64703,7 @@
 
       /***/
     },
-    /* 774 */
+    /* 775 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -67298,7 +64840,7 @@
 
       /***/
     },
-    /* 775 */
+    /* 776 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -67427,7 +64969,7 @@
 
       /***/
     },
-    /* 776 */
+    /* 777 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -67538,7 +65080,7 @@
 
       /***/
     },
-    /* 777 */
+    /* 778 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -67652,7 +65194,7 @@
 
       /***/
     },
-    /* 778 */
+    /* 779 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -67763,7 +65305,7 @@
 
       /***/
     },
-    /* 779 */
+    /* 780 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -67885,7 +65427,7 @@
 
       /***/
     },
-    /* 780 */
+    /* 781 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -67997,7 +65539,7 @@
 
       /***/
     },
-    /* 781 */
+    /* 782 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -68111,7 +65653,7 @@
 
       /***/
     },
-    /* 782 */
+    /* 783 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -68222,7 +65764,7 @@
 
       /***/
     },
-    /* 783 */
+    /* 784 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -68333,7 +65875,7 @@
 
       /***/
     },
-    /* 784 */
+    /* 785 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -68456,7 +65998,7 @@
 
       /***/
     },
-    /* 785 */
+    /* 786 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -68585,7 +66127,7 @@
 
       /***/
     },
-    /* 786 */
+    /* 787 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -68696,7 +66238,7 @@
 
       /***/
     },
-    /* 787 */
+    /* 788 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -68838,7 +66380,7 @@
 
       /***/
     },
-    /* 788 */
+    /* 789 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -68949,7 +66491,7 @@
 
       /***/
     },
-    /* 789 */
+    /* 790 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -69061,7 +66603,7 @@
 
       /***/
     },
-    /* 790 */
+    /* 791 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -69173,7 +66715,7 @@
 
       /***/
     },
-    /* 791 */
+    /* 792 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -69291,7 +66833,7 @@
 
       /***/
     },
-    /* 792 */
+    /* 793 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -69431,7 +66973,7 @@
 
       /***/
     },
-    /* 793 */
+    /* 794 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -69542,7 +67084,7 @@
 
       /***/
     },
-    /* 794 */
+    /* 795 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -69672,7 +67214,7 @@
 
       /***/
     },
-    /* 795 */
+    /* 796 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -69809,7 +67351,7 @@
 
       /***/
     },
-    /* 796 */
+    /* 797 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -69934,7 +67476,7 @@
 
       /***/
     },
-    /* 797 */
+    /* 798 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -70055,7 +67597,7 @@
 
       /***/
     },
-    /* 798 */
+    /* 799 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -70176,7 +67718,7 @@
 
       /***/
     },
-    /* 799 */
+    /* 800 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -70349,7 +67891,7 @@
 
       /***/
     },
-    /* 800 */
+    /* 801 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -70510,7 +68052,7 @@
 
       /***/
     },
-    /* 801 */
+    /* 802 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -70683,7 +68225,7 @@
 
       /***/
     },
-    /* 802 */
+    /* 803 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -70839,7 +68381,7 @@
 
       /***/
     },
-    /* 803 */
+    /* 804 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -70950,7 +68492,7 @@
 
       /***/
     },
-    /* 804 */
+    /* 805 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -70964,7 +68506,7 @@
 
       var _reactDatepicker2 = _interopRequireDefault(_reactDatepicker);
 
-      var _range = __webpack_require__(805);
+      var _range = __webpack_require__(806);
 
       var _range2 = _interopRequireDefault(_range);
 
@@ -71161,9 +68703,9 @@
 
       /***/
     },
-    /* 805 */
+    /* 806 */
     /***/ function(module, exports, __webpack_require__) {
-      var createRange = __webpack_require__(806);
+      var createRange = __webpack_require__(807);
 
       /**
        * Creates an array of numbers (positive and/or negative) progressing from
@@ -71212,11 +68754,11 @@
 
       /***/
     },
-    /* 806 */
+    /* 807 */
     /***/ function(module, exports, __webpack_require__) {
-      var baseRange = __webpack_require__(807),
-        isIterateeCall = __webpack_require__(808),
-        toFinite = __webpack_require__(821);
+      var baseRange = __webpack_require__(808),
+        isIterateeCall = __webpack_require__(809),
+        toFinite = __webpack_require__(822);
 
       /**
        * Creates a `_.range` or `_.rangeRight` function.
@@ -71251,7 +68793,7 @@
 
       /***/
     },
-    /* 807 */
+    /* 808 */
     /***/ function(module, exports) {
       /* Built-in method references for those with the same name as other `lodash` methods. */
       var nativeCeil = Math.ceil,
@@ -71284,12 +68826,12 @@
 
       /***/
     },
-    /* 808 */
+    /* 809 */
     /***/ function(module, exports, __webpack_require__) {
-      var eq = __webpack_require__(809),
-        isArrayLike = __webpack_require__(810),
-        isIndex = __webpack_require__(820),
-        isObject = __webpack_require__(818);
+      var eq = __webpack_require__(810),
+        isArrayLike = __webpack_require__(811),
+        isIndex = __webpack_require__(821),
+        isObject = __webpack_require__(819);
 
       /**
        * Checks if the given arguments are from an iteratee call.
@@ -71320,7 +68862,7 @@
 
       /***/
     },
-    /* 809 */
+    /* 810 */
     /***/ function(module, exports) {
       /**
        * Performs a
@@ -71362,10 +68904,10 @@
 
       /***/
     },
-    /* 810 */
+    /* 811 */
     /***/ function(module, exports, __webpack_require__) {
-      var isFunction = __webpack_require__(811),
-        isLength = __webpack_require__(819);
+      var isFunction = __webpack_require__(812),
+        isLength = __webpack_require__(820);
 
       /**
        * Checks if `value` is array-like. A value is considered array-like if it's
@@ -71400,10 +68942,10 @@
 
       /***/
     },
-    /* 811 */
+    /* 812 */
     /***/ function(module, exports, __webpack_require__) {
-      var baseGetTag = __webpack_require__(812),
-        isObject = __webpack_require__(818);
+      var baseGetTag = __webpack_require__(813),
+        isObject = __webpack_require__(819);
 
       /** `Object#toString` result references. */
       var asyncTag = "[object AsyncFunction]",
@@ -71444,11 +68986,11 @@
 
       /***/
     },
-    /* 812 */
+    /* 813 */
     /***/ function(module, exports, __webpack_require__) {
-      var Symbol = __webpack_require__(813),
-        getRawTag = __webpack_require__(816),
-        objectToString = __webpack_require__(817);
+      var Symbol = __webpack_require__(814),
+        getRawTag = __webpack_require__(817),
+        objectToString = __webpack_require__(818);
 
       /** `Object#toString` result references. */
       var nullTag = "[object Null]",
@@ -71477,9 +69019,9 @@
 
       /***/
     },
-    /* 813 */
+    /* 814 */
     /***/ function(module, exports, __webpack_require__) {
-      var root = __webpack_require__(814);
+      var root = __webpack_require__(815);
 
       /** Built-in value references. */
       var Symbol = root.Symbol;
@@ -71488,9 +69030,9 @@
 
       /***/
     },
-    /* 814 */
+    /* 815 */
     /***/ function(module, exports, __webpack_require__) {
-      var freeGlobal = __webpack_require__(815);
+      var freeGlobal = __webpack_require__(816);
 
       /** Detect free variable `self`. */
       var freeSelf =
@@ -71503,7 +69045,7 @@
 
       /***/
     },
-    /* 815 */
+    /* 816 */
     /***/ function(module, exports) {
       /* WEBPACK VAR INJECTION */ (function(global) {
         /** Detect free variable `global` from Node.js. */
@@ -71525,9 +69067,9 @@
 
       /***/
     },
-    /* 816 */
+    /* 817 */
     /***/ function(module, exports, __webpack_require__) {
-      var Symbol = __webpack_require__(813);
+      var Symbol = __webpack_require__(814);
 
       /** Used for built-in method references. */
       var objectProto = Object.prototype;
@@ -71576,7 +69118,7 @@
 
       /***/
     },
-    /* 817 */
+    /* 818 */
     /***/ function(module, exports) {
       /** Used for built-in method references. */
       var objectProto = Object.prototype;
@@ -71603,7 +69145,7 @@
 
       /***/
     },
-    /* 818 */
+    /* 819 */
     /***/ function(module, exports) {
       /**
        * Checks if `value` is the
@@ -71639,7 +69181,7 @@
 
       /***/
     },
-    /* 819 */
+    /* 820 */
     /***/ function(module, exports) {
       /** Used as references for various `Number` constants. */
       var MAX_SAFE_INTEGER = 9007199254740991;
@@ -71683,7 +69225,7 @@
 
       /***/
     },
-    /* 820 */
+    /* 821 */
     /***/ function(module, exports) {
       /** Used as references for various `Number` constants. */
       var MAX_SAFE_INTEGER = 9007199254740991;
@@ -71712,9 +69254,9 @@
 
       /***/
     },
-    /* 821 */
+    /* 822 */
     /***/ function(module, exports, __webpack_require__) {
-      var toNumber = __webpack_require__(822);
+      var toNumber = __webpack_require__(823);
 
       /** Used as references for various `Number` constants. */
       var INFINITY = 1 / 0,
@@ -71759,10 +69301,10 @@
 
       /***/
     },
-    /* 822 */
+    /* 823 */
     /***/ function(module, exports, __webpack_require__) {
-      var isObject = __webpack_require__(818),
-        isSymbol = __webpack_require__(823);
+      var isObject = __webpack_require__(819),
+        isSymbol = __webpack_require__(824);
 
       /** Used as references for various `Number` constants. */
       var NAN = 0 / 0;
@@ -71833,10 +69375,10 @@
 
       /***/
     },
-    /* 823 */
+    /* 824 */
     /***/ function(module, exports, __webpack_require__) {
-      var baseGetTag = __webpack_require__(812),
-        isObjectLike = __webpack_require__(824);
+      var baseGetTag = __webpack_require__(813),
+        isObjectLike = __webpack_require__(825);
 
       /** `Object#toString` result references. */
       var symbolTag = "[object Symbol]";
@@ -71869,7 +69411,7 @@
 
       /***/
     },
-    /* 824 */
+    /* 825 */
     /***/ function(module, exports) {
       /**
        * Checks if `value` is object-like. A value is object-like if it's not `null`
@@ -71903,7 +69445,7 @@
 
       /***/
     },
-    /* 825 */
+    /* 826 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -72027,7 +69569,7 @@
 
       /***/
     },
-    /* 826 */
+    /* 827 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -72140,7 +69682,7 @@
 
       /***/
     },
-    /* 827 */
+    /* 828 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -72251,7 +69793,7 @@
 
       /***/
     },
-    /* 828 */
+    /* 829 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -72363,7 +69905,7 @@
 
       /***/
     },
-    /* 829 */
+    /* 830 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -72508,14 +70050,14 @@
 
       /***/
     },
-    /* 830 */
+    /* 831 */
     /***/ function(module, exports) {
       // removed by extract-text-webpack-plugin
       /***/
     },
-    /* 831 */
-    830,
     /* 832 */
+    831,
+    /* 833 */
     /***/ function(module, exports, __webpack_require__) {
       "use strict";
 
@@ -72609,7 +70151,7 @@
 
       /***/
     },
-    /* 833 */
+    /* 834 */
     /***/ function(
       module,
       exports,
@@ -72897,12 +70439,8 @@
       });
 
       for (
-<<<<<<< HEAD
         var es6Symbols = // 19.4.2.2, 19.4.2.3, 19.4.2.4, 19.4.2.6, 19.4.2.8, 19.4.2.9, 19.4.2.10, 19.4.2.11, 19.4.2.12, 19.4.2.13, 19.4.2.14
           "hasInstance,isConcatSpreadable,iterator,match,replace,search,species,split,toPrimitive,toStringTag,unscopables".split(
-=======
-        var es6Symbols = "hasInstance,isConcatSpreadable,iterator,match,replace,search,species,split,toPrimitive,toStringTag,unscopables".split( // 19.4.2.2, 19.4.2.3, 19.4.2.4, 19.4.2.6, 19.4.2.8, 19.4.2.9, 19.4.2.10, 19.4.2.11, 19.4.2.12, 19.4.2.13, 19.4.2.14
->>>>>>> 640f62a... Beware of p+ tokens in parseDate
             ","
           ),
           j = 0;
@@ -73008,7 +70546,7 @@
 
       /***/
     },
-    /* 834 */
+    /* 835 */
     /***/ function(
       module,
       exports,
@@ -73030,7 +70568,7 @@
 
       /***/
     },
-    /* 835 */
+    /* 836 */
     /***/ function(
       module,
       exports,
@@ -73056,7 +70594,7 @@
 
       /***/
     },
-    /* 836 */
+    /* 837 */
     /***/ function(
       module,
       exports,
@@ -73097,7 +70635,7 @@
 
       /***/
     },
-    /* 837 */
+    /* 838 */
     /***/ function(
       module,
       exports,
@@ -73114,7 +70652,7 @@
 
       /***/
     },
-    /* 838 */
+    /* 839 */
     /***/ function(
       module,
       exports,
@@ -73145,7 +70683,7 @@
 
       /***/
     },
-    /* 839 */
+    /* 840 */
     /***/ function(
       module,
       exports,
@@ -73166,7 +70704,7 @@
 
       /***/
     },
-    /* 840 */
+    /* 841 */
     /***/ function(
       module,
       exports,
@@ -73204,7 +70742,7 @@
 
       /***/
     },
-    /* 841 */
+    /* 842 */
     /***/ function(
       module,
       exports,
@@ -73239,7 +70777,7 @@
 
       /***/
     },
-    /* 842 */
+    /* 843 */
     /***/ function(
       module,
       exports,
@@ -73323,7 +70861,7 @@
 
       /***/
     },
-    /* 843 */
+    /* 844 */
     /***/ function(
       module,
       exports,
@@ -73339,7 +70877,7 @@
 
       /***/
     },
-    /* 844 */
+    /* 845 */
     /***/ function(
       module,
       exports,
@@ -73361,7 +70899,7 @@
 
       /***/
     },
-    /* 845 */
+    /* 846 */
     /***/ function(
       module,
       exports,
@@ -73391,7 +70929,7 @@
 
       /***/
     },
-    /* 846 */
+    /* 847 */
     /***/ function(
       module,
       exports,
@@ -73402,7 +70940,7 @@
 
       /***/
     },
-    /* 847 */
+    /* 848 */
     /***/ function(
       module,
       exports,
@@ -73429,7 +70967,7 @@
 
       /***/
     },
-    /* 848 */
+    /* 849 */
     /***/ function(
       module,
       exports,
@@ -73458,7 +70996,7 @@
 
       /***/
     },
-    /* 849 */
+    /* 850 */
     /***/ function(
       module,
       exports,
@@ -73480,7 +71018,7 @@
 
       /***/
     },
-    /* 850 */
+    /* 851 */
     /***/ function(
       module,
       exports,
@@ -73517,7 +71055,7 @@
 
       /***/
     },
-    /* 851 */
+    /* 852 */
     /***/ function(
       module,
       exports,
@@ -73534,7 +71072,7 @@
 
       /***/
     },
-    /* 852 */
+    /* 853 */
     /***/ function(
       module,
       exports,
@@ -73552,7 +71090,7 @@
 
       /***/
     },
-    /* 853 */
+    /* 854 */
     /***/ function(
       module,
       exports,
@@ -73598,7 +71136,7 @@
 
       /***/
     },
-    /* 854 */
+    /* 855 */
     /***/ function(
       module,
       exports,
@@ -73616,7 +71154,7 @@
 
       /***/
     },
-    /* 855 */
+    /* 856 */
     /***/ function(
       module,
       exports,
@@ -73635,7 +71173,7 @@
 
       /***/
     },
-    /* 856 */
+    /* 857 */
     /***/ function(
       module,
       exports,
@@ -73653,7 +71191,7 @@
 
       /***/
     },
-    /* 857 */
+    /* 858 */
     /***/ function(
       module,
       exports,
@@ -73670,7 +71208,7 @@
 
       /***/
     },
-    /* 858 */
+    /* 859 */
     /***/ function(
       module,
       exports,
@@ -73742,7 +71280,7 @@
 
       /***/
     },
-    /* 859 */
+    /* 860 */
     /***/ function(
       module,
       exports,
@@ -73774,7 +71312,7 @@
 
       /***/
     },
-    /* 860 */
+    /* 861 */
     /***/ function(
       module,
       exports,
@@ -73787,7 +71325,7 @@
 
       /***/
     },
-    /* 861 */
+    /* 862 */
     /***/ function(
       module,
       exports,
@@ -73823,7 +71361,7 @@
 
       /***/
     },
-    /* 862 */
+    /* 863 */
     /***/ function(
       module,
       exports,
@@ -73845,7 +71383,7 @@
 
       /***/
     },
-    /* 863 */
+    /* 864 */
     /***/ function(
       module,
       exports,
@@ -73890,7 +71428,7 @@
 
       /***/
     },
-    /* 864 */
+    /* 865 */
     /***/ function(
       module,
       exports,
@@ -73906,7 +71444,7 @@
 
       /***/
     },
-    /* 865 */
+    /* 866 */
     /***/ function(
       module,
       exports,
@@ -73921,7 +71459,7 @@
 
       /***/
     },
-    /* 866 */
+    /* 867 */
     /***/ function(
       module,
       exports,
@@ -73956,7 +71494,7 @@
 
       /***/
     },
-    /* 867 */
+    /* 868 */
     /***/ function(
       module,
       exports,
@@ -73973,7 +71511,7 @@
 
       /***/
     },
-    /* 868 */
+    /* 869 */
     /***/ function(
       module,
       exports,
@@ -74037,7 +71575,7 @@
 
       /***/
     },
-    /* 869 */
+    /* 870 */
     /***/ function(
       module,
       exports,
@@ -74055,7 +71593,7 @@
 
       /***/
     },
-    /* 870 */
+    /* 871 */
     /***/ function(
       module,
       exports,
@@ -74111,7 +71649,7 @@
 
       /***/
     },
-    /* 871 */
+    /* 872 */
     /***/ function(
       module,
       exports,
@@ -74146,7 +71684,7 @@
 
       /***/
     },
-    /* 872 */
+    /* 873 */
     /***/ function(
       module,
       exports,
@@ -74184,7 +71722,7 @@
 
       /***/
     },
-    /* 873 */
+    /* 874 */
     /***/ function(
       module,
       exports,
@@ -74322,7 +71860,7 @@
 
       /***/
     },
-    /* 874 */
+    /* 875 */
     /***/ function(
       module,
       exports,
@@ -74361,7 +71899,7 @@
 
       /***/
     },
-    /* 875 */
+    /* 876 */
     /***/ function(
       module,
       exports,
@@ -74423,7 +71961,7 @@
 
       /***/
     },
-    /* 876 */
+    /* 877 */
     /***/ function(
       module,
       exports,
@@ -74436,7 +71974,7 @@
 
       /***/
     },
-    /* 877 */
+    /* 878 */
     /***/ function(
       module,
       exports,
@@ -74447,7 +71985,7 @@
 
       /***/
     },
-    /* 878 */
+    /* 879 */
     /***/ function(
       module,
       exports,
@@ -74493,7 +72031,7 @@
 
       /***/
     },
-    /* 879 */
+    /* 880 */
     /***/ function(
       module,
       exports,
